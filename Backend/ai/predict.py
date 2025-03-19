@@ -1,138 +1,172 @@
 import pandas as pd
-import numpy as np
-from sklearn.ensemble import RandomForestRegressor
-from sklearn.preprocessing import StandardScaler
 import joblib
+import numpy as np
+from collections import Counter
 import requests
-import os
 
-# ✅ File paths
-data_file = r"C:\Users\KIIT\Desktop\project\Location_Predictor\Backend\data\processed_travel_history.csv"
-models_folder = r"C:\Users\KIIT\Desktop\project\Location_Predictor\Backend\models"
-model_file = os.path.join(models_folder, "travel_model.pkl")
-scaler_file = os.path.join(models_folder, "scaler.pkl")
+# ✅ File Paths
+MODEL_FILE = r'C:\Users\KIIT\Desktop\project\Location_Predictor\Backend\models\location_model.pkl'
+ENCODER_FILE = r'C:\Users\KIIT\Desktop\project\Location_Predictor\Backend\models\encoder.pkl'
+PROCESSED_CSV_FILE = r'C:\Users\KIIT\Desktop\project\Location_Predictor\Backend\data\processed_travel_history.csv'
 
-# ✅ Ensure models folder exists
-os.makedirs(models_folder, exist_ok=True)
+# ✅ Weather API Configuration
+WEATHER_API_KEY = "df9bef60ab0bab2ec570b05a568d5067"  # Replace with your API key
+WEATHER_URL = "https://api.openweathermap.org/data/2.5/weather"
 
-# ✅ Verify the CSV file exists
-if not os.path.exists(data_file):
-    print(f"❌ Error: File not found at {data_file}")
-    exit()
+# ✅ Step 1: Load the Model, Encoder, and Data
+def load_assets():
+    """Load model, encoder, and travel history data."""
+    print("🔹 Loading model, encoder, and data...")
+    model = joblib.load(MODEL_FILE)
+    encoder = joblib.load(ENCODER_FILE)
+    data = pd.read_csv(PROCESSED_CSV_FILE)
+    print("✅ Assets loaded successfully!")
+    return model, encoder, data
 
-# ✅ Load dataset
-df = pd.read_csv(data_file)
 
-# ✅ Prepare features and target
-features = ['Origin_Lat', 'Origin_Lon', 'distance_km']
-target = ['Dest_Lat', 'Dest_Lon']
+# ✅ Step 2: Prepare Input Data for Prediction
+def prepare_input():
+    """Create sample input data."""
+    new_data = pd.DataFrame({
+        'start_city': ['Shimla'],
+        'start_state': ['Himachal Pradesh'],
+        'start_country': ['India'],
+        'end_city': ['Bhopal'],
+        'end_state': ['Madhya Pradesh'],
+        'end_country': ['India'],
+        'distance_km': [296],
+        'mode_of_transport': ['Car'],
+        'purpose': ['Family Visit']
+    })
+    return new_data
 
-X = df[features]
-y = df[target]
 
-# ✅ Scale the data
-scaler = StandardScaler()
-X_scaled = scaler.fit_transform(X)
+# ✅ Step 3: Encode Input Data
+def encode_input(encoder, new_data):
+    """Encode input data."""
+    print("🔥 Encoding input data...")
+    X_new_encoded = encoder.transform(new_data)
+    return X_new_encoded
 
-# ✅ Train and save model + scaler if they don't exist
-if not os.path.exists(model_file) or not os.path.exists(scaler_file):
-    print("🔧 Training model and saving it...")
+
+# ✅ Step 4: Make Prediction
+def predict_destination(model, X_new_encoded):
+    """Predict the user ID based on input data."""
+    print("🚀 Making prediction...")
+    predicted_user_id = model.predict(X_new_encoded)[0]
+    print(f"✅ Predicted user_id: {predicted_user_id}")
+    return predicted_user_id
+
+
+# ✅ Step 5: Recommend Next Location
+def recommend_location(user_id, data):
+    """Recommend the next location based on the user's past travel history."""
+    print("🔍 Recommending next location based on past experiences...")
     
-    # 🔥 Train the model
-    rf_model = RandomForestRegressor(n_estimators=100, random_state=42)
-    rf_model.fit(X_scaled, y)
-    
-    # 🔥 Save the model and scaler
-    joblib.dump(rf_model, model_file)
-    joblib.dump(scaler, scaler_file)
-    print(f"✅ Model saved at {model_file}")
-    print(f"✅ Scaler saved at {scaler_file}")
-else:
-    print("✅ Model and scaler already exist. Loading them...")
+    user_history = data[data['user_id'] == user_id]
 
-# ✅ Load the model and scaler
-rf_model = joblib.load(model_file)
-scaler = joblib.load(scaler_file)
+    if not user_history.empty:
+        next_destinations = user_history[['end_city', 'end_state', 'end_country']].values.tolist()
 
-# ✅ Function to get location names using OpenStreetMap API
-def get_location_name(lat, lon):
-    """Get location name from lat/lon using OpenStreetMap API."""
+        # Count occurrences
+        destination_counter = Counter(map(tuple, next_destinations))
+        most_common_destination, freq = destination_counter.most_common(1)[0]
+
+        print("\n✅ Recommended Next Location Based on Past Experiences:")
+        print(f"🌍 City: {most_common_destination[0]}")
+        print(f"🏙️ State: {most_common_destination[1]}")
+        print(f"🌏 Country: {most_common_destination[2]}")
+        print(f"📊 Frequency: {freq} occurrences")
+        return most_common_destination
+    else:
+        print("❌ No past travel data found for this user.")
+        return None
+
+
+# ✅ Step 6: Fetch Weather Information
+def get_weather(city, country):
+    """Fetch current weather data for a location."""
+    params = {
+        "q": f"{city},{country}",
+        "appid": WEATHER_API_KEY,
+        "units": "metric"
+    }
     try:
-        url = f"https://nominatim.openstreetmap.org/reverse?format=json&lat={lat}&lon={lon}"
-        headers = {'User-Agent': 'LocationPredictor/1.0'}
-        response = requests.get(url, headers=headers, timeout=5)
+        response = requests.get(WEATHER_URL, params=params)
+        weather_data = response.json()
 
         if response.status_code == 200:
-            data = response.json()
-            location_name = data.get('display_name', 'Unknown Location')
-            return location_name
+            temp = weather_data['main']['temp']
+            condition = weather_data['weather'][0]['description']
+            return temp, condition
         else:
-            print(f"❌ Error: Failed to fetch location for {lat}, {lon}")
-            return "Unknown Location"
+            return None, None
     except Exception as e:
-        print(f"❌ Exception: {e}")
-        return "Unknown Location"
+        print(f"❌ Error fetching weather data: {e}")
+        return None, None
 
-# ✅ Function to generate AI-based reasoning
-def generate_reason(origin_lat, origin_lon, dest_lat, dest_lon, distance):
-    """Generate AI-based reasoning for the destination choice."""
-    reason = f"This destination was selected because it is approximately {distance:.2f} km from the origin. "
-    
-    if distance < 50:
-        reason += "The proximity suggests it is a nearby, frequently visited place."
-    elif 50 <= distance < 200:
-        reason += "The distance indicates a common regional travel destination."
+
+# ✅ Step 7: Suggest New Destinations
+def suggest_new_destinations(user_id, data):
+    """Suggest new destinations based on similar users' travel patterns."""
+    print("\n✨ Suggesting new destinations based on similar users...")
+
+    # Find similar users
+    similar_users = data[data['user_id'] != user_id]
+
+    # Get destinations user hasn't visited
+    user_history = data[data['user_id'] == user_id]
+    visited_places = set(user_history['end_city'].tolist())
+
+    new_places = similar_users[~similar_users['end_city'].isin(visited_places)][['end_city', 'end_state', 'end_country']]
+
+    if not new_places.empty:
+        suggestions = new_places.sample(n=min(3, len(new_places)), replace=False).values.tolist()
+
+        print("\n🌟 New Destination Suggestions:")
+        for i, (city, state, country) in enumerate(suggestions, 1):
+            print(f"{i}. 🌍 {city}, {state}, {country}")
     else:
-        reason += "The location is farther away, possibly indicating an occasional travel or special visit."
+        print("❌ No new locations found to recommend.")
 
-    return reason
 
-# ✅ Function to predict multiple destinations with reasoning
-def predict_multiple_destinations_with_reason(model, scaler, user_id, df, n=3):
-    """Predicts multiple destination locations for a given user with reasoning."""
+# ✅ Main Execution
+def main():
+    # Load assets
+    model, encoder, data = load_assets()
 
-    # Check for 'user_id' column
-    if 'user_id' not in df.columns:
-        print("❌ Error: 'user_id' column not found in the dataset.")
-        return []
+    # Prepare and encode input
+    new_data = prepare_input()
+    X_new_encoded = encode_input(encoder, new_data)
 
-    user_data = df[df['user_id'] == user_id]
+    # Predict and recommend
+    predicted_user_id = predict_destination(model, X_new_encoded)
+    most_common_destination = recommend_location(predicted_user_id, data)
 
-    if user_data.empty:
-        print(f"❌ No data found for user ID {user_id}")
-        return []
+    # Fetch and display weather info
+    if most_common_destination:
+        city, state, country = most_common_destination
+        temp, condition = get_weather(city, country)
 
-    user_features = user_data[features].values
-    user_features_scaled = scaler.transform(user_features)
+        if temp and condition:
+            print(f"\n🌤️ Weather in {city}, {country}:")
+            print(f"🌡️ Temperature: {temp}°C")
+            print(f"☁️ Condition: {condition}")
 
-    predictions = model.predict(user_features_scaled)
+            # Weather-based suggestions
+            if temp > 30:
+                print("🥵 It's quite hot there! You might prefer a cooler destination.")
+            elif temp < 10:
+                print("❄️ It's cold! Pack warm clothes.")
+            else:
+                print("🌿 The weather is pleasant. Enjoy your trip!")
 
-    destinations = []
-    for i, dest in enumerate(predictions[:n]):
-        dest_lat, dest_lon = dest
+        # Suggest new destinations
+        suggest_new_destinations(predicted_user_id, data)
 
-        # ✅ Calculate distance between origin and predicted destination
-        origin_lat, origin_lon = user_data.iloc[i]['Origin_Lat'], user_data.iloc[i]['Origin_Lon']
-        distance = np.sqrt((origin_lat - dest_lat)**2 + (origin_lon - dest_lon)**2) * 111  # Approx km conversion
+    else:
+        print("❌ Unable to recommend next location.")
 
-        location_name = get_location_name(dest_lat, dest_lon)
-        reason = generate_reason(origin_lat, origin_lon, dest_lat, dest_lon, distance)
-
-        destinations.append({
-            "latitude": dest_lat,
-            "longitude": dest_lon,
-            "location_name": location_name,
-            "reason": reason
-        })
-
-    return destinations
-
-# ✅ Example usage
-user_id = 1001
-destinations = predict_multiple_destinations_with_reason(rf_model, scaler, user_id, df, n=3)
-
-# ✅ Display predictions with reasoning
-print("\n🔮 Predicted Destinations with Reasons:")
-for i, dest in enumerate(destinations, 1):
-    print(f"{i}. {dest['location_name']} (Lat: {dest['latitude']}, Lon: {dest['longitude']})")
-    print(f"   💡 Reason: {dest['reason']}\n")
+# Run the program
+if __name__ == "__main__":
+    main()
