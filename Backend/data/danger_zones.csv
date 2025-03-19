@@ -1,0 +1,2501 @@
+zone,state,distance_km,risk_level,description
+Bhopal,Madhya Pradesh,296,Low,Low-risk region
+New Delhi,Delhi,1245,High,Remote or high-distance area
+Surat,Gujarat,1382,High,Remote or high-distance area
+Raipur,Chhattisgarh,576,Moderate,Moderate travel area
+Bengaluru,Karnataka,1475,High,Remote or high-distance area
+Thiruvananthapuram,Kerala,926,Moderate,Moderate travel area
+Pune,Maharashtra,894,Moderate,Moderate travel area
+Lucknow,Uttar Pradesh,1102,High,Remote or high-distance area
+Bhopal,Madhya Pradesh,620,Moderate,Moderate travel area
+Patna,Bihar,887,Moderate,Moderate travel area
+Nagpur,Maharashtra,1177,High,Remote or high-distance area
+Jaipur,Rajasthan,430,Low,Low-risk region
+Shimla,Himachal Pradesh,125,Low,Low-risk region
+Indore,Madhya Pradesh,1257,High,Remote or high-distance area
+Raipur,Chhattisgarh,159,Low,Low-risk region
+Pune,Maharashtra,1011,High,Remote or high-distance area
+Goa,Goa,364,Low,Low-risk region
+Goa,Goa,1166,High,Remote or high-distance area
+Kolkata,West Bengal,775,Moderate,Moderate travel area
+Lucknow,Uttar Pradesh,1480,High,Remote or high-distance area
+Jodhpur,Rajasthan,1216,High,Remote or high-distance area
+Ahmedabad,Gujarat,427,Low,Low-risk region
+Indore,Madhya Pradesh,238,Low,Low-risk region
+Thiruvananthapuram,Kerala,931,Moderate,Moderate travel area
+Jaipur,Rajasthan,416,Low,Low-risk region
+Guwahati,Assam,1435,High,Remote or high-distance area
+Pune,Maharashtra,670,Moderate,Moderate travel area
+Jodhpur,Rajasthan,556,Moderate,Moderate travel area
+Amritsar,Punjab,1444,High,Remote or high-distance area
+Indore,Madhya Pradesh,1264,High,Remote or high-distance area
+New Delhi,Delhi,555,Moderate,Moderate travel area
+Kolkata,West Bengal,899,Moderate,Moderate travel area
+Mumbai,Maharashtra,249,Low,Low-risk region
+Chandigarh,Chandigarh,1060,High,Remote or high-distance area
+Pune,Maharashtra,307,Low,Low-risk region
+Jaipur,Rajasthan,1011,High,Remote or high-distance area
+Goa,Goa,995,Moderate,Moderate travel area
+Kolkata,West Bengal,889,Moderate,Moderate travel area
+Manali,Himachal Pradesh,1103,High,Remote or high-distance area
+Nagpur,Maharashtra,1413,High,Remote or high-distance area
+Chandigarh,Chandigarh,895,Moderate,Moderate travel area
+Surat,Gujarat,575,Moderate,Moderate travel area
+Thiruvananthapuram,Kerala,137,Low,Low-risk region
+Bhopal,Madhya Pradesh,1046,High,Remote or high-distance area
+Ahmedabad,Gujarat,1430,High,Remote or high-distance area
+Visakhapatnam,Andhra Pradesh,339,Low,Low-risk region
+Nagpur,Maharashtra,309,Low,Low-risk region
+Guwahati,Assam,711,Moderate,Moderate travel area
+Pune,Maharashtra,80,Low,Low-risk region
+Dehradun,Uttarakhand,1299,High,Remote or high-distance area
+Guwahati,Assam,1396,High,Remote or high-distance area
+Guwahati,Assam,501,Moderate,Moderate travel area
+Surat,Gujarat,264,Low,Low-risk region
+Jaipur,Rajasthan,1238,High,Remote or high-distance area
+Amritsar,Punjab,1130,High,Remote or high-distance area
+Mumbai,Maharashtra,373,Low,Low-risk region
+Mumbai,Maharashtra,159,Low,Low-risk region
+Dehradun,Uttarakhand,621,Moderate,Moderate travel area
+Manali,Himachal Pradesh,1008,High,Remote or high-distance area
+Varanasi,Uttar Pradesh,1274,High,Remote or high-distance area
+Dehradun,Uttarakhand,228,Low,Low-risk region
+Nagpur,Maharashtra,370,Low,Low-risk region
+Bhubaneswar,Odisha,1165,High,Remote or high-distance area
+Guwahati,Assam,466,Low,Low-risk region
+Nagpur,Maharashtra,208,Low,Low-risk region
+Visakhapatnam,Andhra Pradesh,934,Moderate,Moderate travel area
+Goa,Goa,368,Low,Low-risk region
+Goa,Goa,1258,High,Remote or high-distance area
+Thiruvananthapuram,Kerala,866,Moderate,Moderate travel area
+Kolkata,West Bengal,197,Low,Low-risk region
+Ahmedabad,Gujarat,1395,High,Remote or high-distance area
+Ahmedabad,Gujarat,1317,High,Remote or high-distance area
+Indore,Madhya Pradesh,291,Low,Low-risk region
+Lucknow,Uttar Pradesh,763,Moderate,Moderate travel area
+Chandigarh,Chandigarh,987,Moderate,Moderate travel area
+Indore,Madhya Pradesh,971,Moderate,Moderate travel area
+Hyderabad,Telangana,895,Moderate,Moderate travel area
+Surat,Gujarat,957,Moderate,Moderate travel area
+Chandigarh,Chandigarh,681,Moderate,Moderate travel area
+Chandigarh,Chandigarh,460,Low,Low-risk region
+Pune,Maharashtra,792,Moderate,Moderate travel area
+Jaipur,Rajasthan,1347,High,Remote or high-distance area
+Visakhapatnam,Andhra Pradesh,209,Low,Low-risk region
+Amritsar,Punjab,1057,High,Remote or high-distance area
+Patna,Bihar,542,Moderate,Moderate travel area
+Jaipur,Rajasthan,729,Moderate,Moderate travel area
+Ahmedabad,Gujarat,201,Low,Low-risk region
+Agra,Uttar Pradesh,616,Moderate,Moderate travel area
+Bengaluru,Karnataka,354,Low,Low-risk region
+Kolkata,West Bengal,755,Moderate,Moderate travel area
+Hyderabad,Telangana,758,Moderate,Moderate travel area
+Shimla,Himachal Pradesh,870,Moderate,Moderate travel area
+Bengaluru,Karnataka,756,Moderate,Moderate travel area
+Raipur,Chhattisgarh,171,Low,Low-risk region
+Bhopal,Madhya Pradesh,1311,High,Remote or high-distance area
+Indore,Madhya Pradesh,632,Moderate,Moderate travel area
+Jaipur,Rajasthan,962,Moderate,Moderate travel area
+Bhubaneswar,Odisha,162,Low,Low-risk region
+Nagpur,Maharashtra,169,Low,Low-risk region
+Jaipur,Rajasthan,889,Moderate,Moderate travel area
+Hyderabad,Telangana,1228,High,Remote or high-distance area
+Bengaluru,Karnataka,353,Low,Low-risk region
+Goa,Goa,910,Moderate,Moderate travel area
+New Delhi,Delhi,1366,High,Remote or high-distance area
+Goa,Goa,1260,High,Remote or high-distance area
+Bhubaneswar,Odisha,209,Low,Low-risk region
+Visakhapatnam,Andhra Pradesh,492,Low,Low-risk region
+Manali,Himachal Pradesh,1182,High,Remote or high-distance area
+Guwahati,Assam,730,Moderate,Moderate travel area
+Ahmedabad,Gujarat,906,Moderate,Moderate travel area
+Ranchi,Jharkhand,442,Low,Low-risk region
+Guwahati,Assam,370,Low,Low-risk region
+New Delhi,Delhi,695,Moderate,Moderate travel area
+Agra,Uttar Pradesh,846,Moderate,Moderate travel area
+Agra,Uttar Pradesh,416,Low,Low-risk region
+Lucknow,Uttar Pradesh,551,Moderate,Moderate travel area
+Amritsar,Punjab,570,Moderate,Moderate travel area
+Indore,Madhya Pradesh,862,Moderate,Moderate travel area
+Bengaluru,Karnataka,145,Low,Low-risk region
+Surat,Gujarat,857,Moderate,Moderate travel area
+Thiruvananthapuram,Kerala,472,Low,Low-risk region
+Manali,Himachal Pradesh,1427,High,Remote or high-distance area
+Amritsar,Punjab,555,Moderate,Moderate travel area
+Shimla,Himachal Pradesh,420,Low,Low-risk region
+Bhopal,Madhya Pradesh,1415,High,Remote or high-distance area
+New Delhi,Delhi,1073,High,Remote or high-distance area
+New Delhi,Delhi,185,Low,Low-risk region
+Manali,Himachal Pradesh,595,Moderate,Moderate travel area
+Nagpur,Maharashtra,896,Moderate,Moderate travel area
+Thiruvananthapuram,Kerala,834,Moderate,Moderate travel area
+Chennai,Tamil Nadu,1317,High,Remote or high-distance area
+Surat,Gujarat,87,Low,Low-risk region
+Pune,Maharashtra,495,Low,Low-risk region
+Surat,Gujarat,768,Moderate,Moderate travel area
+Jodhpur,Rajasthan,1420,High,Remote or high-distance area
+Manali,Himachal Pradesh,315,Low,Low-risk region
+Thiruvananthapuram,Kerala,315,Low,Low-risk region
+Chandigarh,Chandigarh,668,Moderate,Moderate travel area
+Chennai,Tamil Nadu,536,Moderate,Moderate travel area
+Pune,Maharashtra,1081,High,Remote or high-distance area
+Amritsar,Punjab,1331,High,Remote or high-distance area
+Bhubaneswar,Odisha,905,Moderate,Moderate travel area
+Chandigarh,Chandigarh,500,Moderate,Moderate travel area
+Hyderabad,Telangana,378,Low,Low-risk region
+Thiruvananthapuram,Kerala,167,Low,Low-risk region
+Patna,Bihar,563,Moderate,Moderate travel area
+Patna,Bihar,1223,High,Remote or high-distance area
+Ranchi,Jharkhand,378,Low,Low-risk region
+Thiruvananthapuram,Kerala,1388,High,Remote or high-distance area
+Agra,Uttar Pradesh,1106,High,Remote or high-distance area
+Dehradun,Uttarakhand,777,Moderate,Moderate travel area
+Shimla,Himachal Pradesh,1140,High,Remote or high-distance area
+Visakhapatnam,Andhra Pradesh,479,Low,Low-risk region
+Raipur,Chhattisgarh,1246,High,Remote or high-distance area
+Kolkata,West Bengal,1321,High,Remote or high-distance area
+Nagpur,Maharashtra,102,Low,Low-risk region
+Bengaluru,Karnataka,155,Low,Low-risk region
+Ahmedabad,Gujarat,1015,High,Remote or high-distance area
+Bhubaneswar,Odisha,86,Low,Low-risk region
+Mumbai,Maharashtra,1488,High,Remote or high-distance area
+Bhubaneswar,Odisha,995,Moderate,Moderate travel area
+Bhopal,Madhya Pradesh,128,Low,Low-risk region
+Shimla,Himachal Pradesh,730,Moderate,Moderate travel area
+Surat,Gujarat,1462,High,Remote or high-distance area
+Varanasi,Uttar Pradesh,800,Moderate,Moderate travel area
+Chennai,Tamil Nadu,88,Low,Low-risk region
+Chandigarh,Chandigarh,1361,High,Remote or high-distance area
+Nagpur,Maharashtra,796,Moderate,Moderate travel area
+Indore,Madhya Pradesh,1007,High,Remote or high-distance area
+Guwahati,Assam,1093,High,Remote or high-distance area
+New Delhi,Delhi,711,Moderate,Moderate travel area
+Ahmedabad,Gujarat,123,Low,Low-risk region
+Ranchi,Jharkhand,1290,High,Remote or high-distance area
+Varanasi,Uttar Pradesh,273,Low,Low-risk region
+Jodhpur,Rajasthan,408,Low,Low-risk region
+Indore,Madhya Pradesh,938,Moderate,Moderate travel area
+Varanasi,Uttar Pradesh,324,Low,Low-risk region
+Amritsar,Punjab,1317,High,Remote or high-distance area
+Bhopal,Madhya Pradesh,518,Moderate,Moderate travel area
+Indore,Madhya Pradesh,946,Moderate,Moderate travel area
+Bhubaneswar,Odisha,539,Moderate,Moderate travel area
+Dehradun,Uttarakhand,884,Moderate,Moderate travel area
+New Delhi,Delhi,238,Low,Low-risk region
+Shimla,Himachal Pradesh,718,Moderate,Moderate travel area
+Ranchi,Jharkhand,1388,High,Remote or high-distance area
+Jaipur,Rajasthan,290,Low,Low-risk region
+Surat,Gujarat,664,Moderate,Moderate travel area
+Ahmedabad,Gujarat,224,Low,Low-risk region
+Agra,Uttar Pradesh,277,Low,Low-risk region
+Lucknow,Uttar Pradesh,249,Low,Low-risk region
+Kolkata,West Bengal,169,Low,Low-risk region
+Goa,Goa,798,Moderate,Moderate travel area
+Indore,Madhya Pradesh,967,Moderate,Moderate travel area
+Bengaluru,Karnataka,106,Low,Low-risk region
+Bhubaneswar,Odisha,864,Moderate,Moderate travel area
+Guwahati,Assam,1152,High,Remote or high-distance area
+Visakhapatnam,Andhra Pradesh,459,Low,Low-risk region
+Chennai,Tamil Nadu,716,Moderate,Moderate travel area
+Guwahati,Assam,130,Low,Low-risk region
+Kolkata,West Bengal,306,Low,Low-risk region
+Pune,Maharashtra,415,Low,Low-risk region
+Guwahati,Assam,789,Moderate,Moderate travel area
+Lucknow,Uttar Pradesh,1478,High,Remote or high-distance area
+Bhubaneswar,Odisha,523,Moderate,Moderate travel area
+Agra,Uttar Pradesh,657,Moderate,Moderate travel area
+Patna,Bihar,156,Low,Low-risk region
+Indore,Madhya Pradesh,1005,High,Remote or high-distance area
+New Delhi,Delhi,875,Moderate,Moderate travel area
+Surat,Gujarat,1130,High,Remote or high-distance area
+Chandigarh,Chandigarh,156,Low,Low-risk region
+Amritsar,Punjab,764,Moderate,Moderate travel area
+Varanasi,Uttar Pradesh,1415,High,Remote or high-distance area
+Mumbai,Maharashtra,1033,High,Remote or high-distance area
+Visakhapatnam,Andhra Pradesh,1043,High,Remote or high-distance area
+Bhubaneswar,Odisha,599,Moderate,Moderate travel area
+Indore,Madhya Pradesh,422,Low,Low-risk region
+Chennai,Tamil Nadu,820,Moderate,Moderate travel area
+Hyderabad,Telangana,729,Moderate,Moderate travel area
+Patna,Bihar,1374,High,Remote or high-distance area
+Shimla,Himachal Pradesh,775,Moderate,Moderate travel area
+New Delhi,Delhi,371,Low,Low-risk region
+Thiruvananthapuram,Kerala,168,Low,Low-risk region
+Guwahati,Assam,726,Moderate,Moderate travel area
+Surat,Gujarat,954,Moderate,Moderate travel area
+Goa,Goa,1101,High,Remote or high-distance area
+Bhubaneswar,Odisha,1222,High,Remote or high-distance area
+Patna,Bihar,849,Moderate,Moderate travel area
+Nagpur,Maharashtra,271,Low,Low-risk region
+Nagpur,Maharashtra,909,Moderate,Moderate travel area
+Amritsar,Punjab,821,Moderate,Moderate travel area
+Shimla,Himachal Pradesh,1360,High,Remote or high-distance area
+Amritsar,Punjab,1045,High,Remote or high-distance area
+Varanasi,Uttar Pradesh,353,Low,Low-risk region
+Hyderabad,Telangana,974,Moderate,Moderate travel area
+New Delhi,Delhi,1394,High,Remote or high-distance area
+Varanasi,Uttar Pradesh,1123,High,Remote or high-distance area
+Chandigarh,Chandigarh,847,Moderate,Moderate travel area
+Nagpur,Maharashtra,303,Low,Low-risk region
+Pune,Maharashtra,930,Moderate,Moderate travel area
+Goa,Goa,751,Moderate,Moderate travel area
+Lucknow,Uttar Pradesh,138,Low,Low-risk region
+Varanasi,Uttar Pradesh,1393,High,Remote or high-distance area
+Pune,Maharashtra,82,Low,Low-risk region
+Bengaluru,Karnataka,937,Moderate,Moderate travel area
+Manali,Himachal Pradesh,1281,High,Remote or high-distance area
+Raipur,Chhattisgarh,1164,High,Remote or high-distance area
+Ahmedabad,Gujarat,1453,High,Remote or high-distance area
+Amritsar,Punjab,1383,High,Remote or high-distance area
+Goa,Goa,678,Moderate,Moderate travel area
+Dehradun,Uttarakhand,88,Low,Low-risk region
+Ahmedabad,Gujarat,1283,High,Remote or high-distance area
+Raipur,Chhattisgarh,1014,High,Remote or high-distance area
+Bhopal,Madhya Pradesh,977,Moderate,Moderate travel area
+Bengaluru,Karnataka,1335,High,Remote or high-distance area
+Chandigarh,Chandigarh,1114,High,Remote or high-distance area
+Thiruvananthapuram,Kerala,188,Low,Low-risk region
+Bengaluru,Karnataka,767,Moderate,Moderate travel area
+Ahmedabad,Gujarat,181,Low,Low-risk region
+Agra,Uttar Pradesh,937,Moderate,Moderate travel area
+Goa,Goa,334,Low,Low-risk region
+Kolkata,West Bengal,1195,High,Remote or high-distance area
+Mumbai,Maharashtra,454,Low,Low-risk region
+Nagpur,Maharashtra,458,Low,Low-risk region
+Amritsar,Punjab,1281,High,Remote or high-distance area
+Bengaluru,Karnataka,1059,High,Remote or high-distance area
+Visakhapatnam,Andhra Pradesh,682,Moderate,Moderate travel area
+Nagpur,Maharashtra,795,Moderate,Moderate travel area
+Hyderabad,Telangana,473,Low,Low-risk region
+Pune,Maharashtra,643,Moderate,Moderate travel area
+Thiruvananthapuram,Kerala,142,Low,Low-risk region
+Mumbai,Maharashtra,1088,High,Remote or high-distance area
+Kolkata,West Bengal,1235,High,Remote or high-distance area
+New Delhi,Delhi,884,Moderate,Moderate travel area
+Agra,Uttar Pradesh,934,Moderate,Moderate travel area
+Varanasi,Uttar Pradesh,1175,High,Remote or high-distance area
+Hyderabad,Telangana,266,Low,Low-risk region
+Pune,Maharashtra,1220,High,Remote or high-distance area
+Goa,Goa,1055,High,Remote or high-distance area
+Chandigarh,Chandigarh,605,Moderate,Moderate travel area
+Shimla,Himachal Pradesh,194,Low,Low-risk region
+Ahmedabad,Gujarat,876,Moderate,Moderate travel area
+Varanasi,Uttar Pradesh,180,Low,Low-risk region
+Amritsar,Punjab,1358,High,Remote or high-distance area
+Surat,Gujarat,487,Low,Low-risk region
+Surat,Gujarat,1144,High,Remote or high-distance area
+Jaipur,Rajasthan,1016,High,Remote or high-distance area
+Jodhpur,Rajasthan,666,Moderate,Moderate travel area
+Manali,Himachal Pradesh,765,Moderate,Moderate travel area
+Ranchi,Jharkhand,1159,High,Remote or high-distance area
+Bhopal,Madhya Pradesh,561,Moderate,Moderate travel area
+Bhubaneswar,Odisha,936,Moderate,Moderate travel area
+Jodhpur,Rajasthan,723,Moderate,Moderate travel area
+Varanasi,Uttar Pradesh,1275,High,Remote or high-distance area
+Jaipur,Rajasthan,158,Low,Low-risk region
+Shimla,Himachal Pradesh,997,Moderate,Moderate travel area
+Jaipur,Rajasthan,1164,High,Remote or high-distance area
+Nagpur,Maharashtra,1489,High,Remote or high-distance area
+Thiruvananthapuram,Kerala,1351,High,Remote or high-distance area
+Kolkata,West Bengal,1286,High,Remote or high-distance area
+Visakhapatnam,Andhra Pradesh,883,Moderate,Moderate travel area
+Pune,Maharashtra,591,Moderate,Moderate travel area
+Chandigarh,Chandigarh,967,Moderate,Moderate travel area
+Mumbai,Maharashtra,833,Moderate,Moderate travel area
+Lucknow,Uttar Pradesh,862,Moderate,Moderate travel area
+Patna,Bihar,1416,High,Remote or high-distance area
+Guwahati,Assam,122,Low,Low-risk region
+New Delhi,Delhi,925,Moderate,Moderate travel area
+Dehradun,Uttarakhand,1400,High,Remote or high-distance area
+Patna,Bihar,1248,High,Remote or high-distance area
+Thiruvananthapuram,Kerala,1454,High,Remote or high-distance area
+Surat,Gujarat,646,Moderate,Moderate travel area
+Surat,Gujarat,1398,High,Remote or high-distance area
+New Delhi,Delhi,1305,High,Remote or high-distance area
+Kolkata,West Bengal,804,Moderate,Moderate travel area
+Nagpur,Maharashtra,204,Low,Low-risk region
+Goa,Goa,172,Low,Low-risk region
+New Delhi,Delhi,474,Low,Low-risk region
+Chandigarh,Chandigarh,1231,High,Remote or high-distance area
+Hyderabad,Telangana,1402,High,Remote or high-distance area
+Kolkata,West Bengal,788,Moderate,Moderate travel area
+Ranchi,Jharkhand,1026,High,Remote or high-distance area
+Raipur,Chhattisgarh,159,Low,Low-risk region
+Nagpur,Maharashtra,446,Low,Low-risk region
+Varanasi,Uttar Pradesh,1259,High,Remote or high-distance area
+Chandigarh,Chandigarh,1494,High,Remote or high-distance area
+Agra,Uttar Pradesh,351,Low,Low-risk region
+Hyderabad,Telangana,905,Moderate,Moderate travel area
+Mumbai,Maharashtra,251,Low,Low-risk region
+Thiruvananthapuram,Kerala,1017,High,Remote or high-distance area
+Hyderabad,Telangana,1288,High,Remote or high-distance area
+Chandigarh,Chandigarh,874,Moderate,Moderate travel area
+New Delhi,Delhi,939,Moderate,Moderate travel area
+Guwahati,Assam,1175,High,Remote or high-distance area
+Dehradun,Uttarakhand,1089,High,Remote or high-distance area
+Dehradun,Uttarakhand,1317,High,Remote or high-distance area
+Patna,Bihar,1315,High,Remote or high-distance area
+Bengaluru,Karnataka,1020,High,Remote or high-distance area
+Agra,Uttar Pradesh,128,Low,Low-risk region
+Nagpur,Maharashtra,1070,High,Remote or high-distance area
+Indore,Madhya Pradesh,1145,High,Remote or high-distance area
+Hyderabad,Telangana,1051,High,Remote or high-distance area
+Bhubaneswar,Odisha,282,Low,Low-risk region
+Bhubaneswar,Odisha,1356,High,Remote or high-distance area
+Jodhpur,Rajasthan,1435,High,Remote or high-distance area
+Ranchi,Jharkhand,1261,High,Remote or high-distance area
+Thiruvananthapuram,Kerala,526,Moderate,Moderate travel area
+Agra,Uttar Pradesh,283,Low,Low-risk region
+Jaipur,Rajasthan,1489,High,Remote or high-distance area
+Lucknow,Uttar Pradesh,504,Moderate,Moderate travel area
+Guwahati,Assam,725,Moderate,Moderate travel area
+Dehradun,Uttarakhand,88,Low,Low-risk region
+Dehradun,Uttarakhand,621,Moderate,Moderate travel area
+Raipur,Chhattisgarh,539,Moderate,Moderate travel area
+Shimla,Himachal Pradesh,341,Low,Low-risk region
+Raipur,Chhattisgarh,1167,High,Remote or high-distance area
+Shimla,Himachal Pradesh,197,Low,Low-risk region
+Hyderabad,Telangana,1076,High,Remote or high-distance area
+Pune,Maharashtra,729,Moderate,Moderate travel area
+Amritsar,Punjab,896,Moderate,Moderate travel area
+Dehradun,Uttarakhand,578,Moderate,Moderate travel area
+Ranchi,Jharkhand,106,Low,Low-risk region
+Raipur,Chhattisgarh,1023,High,Remote or high-distance area
+Varanasi,Uttar Pradesh,105,Low,Low-risk region
+Jaipur,Rajasthan,489,Low,Low-risk region
+Jaipur,Rajasthan,638,Moderate,Moderate travel area
+Surat,Gujarat,595,Moderate,Moderate travel area
+Varanasi,Uttar Pradesh,805,Moderate,Moderate travel area
+Varanasi,Uttar Pradesh,181,Low,Low-risk region
+Jodhpur,Rajasthan,790,Moderate,Moderate travel area
+Jodhpur,Rajasthan,234,Low,Low-risk region
+Patna,Bihar,1114,High,Remote or high-distance area
+Bhopal,Madhya Pradesh,1242,High,Remote or high-distance area
+Shimla,Himachal Pradesh,1268,High,Remote or high-distance area
+Guwahati,Assam,653,Moderate,Moderate travel area
+Kolkata,West Bengal,1196,High,Remote or high-distance area
+Dehradun,Uttarakhand,1348,High,Remote or high-distance area
+Bhubaneswar,Odisha,1430,High,Remote or high-distance area
+Dehradun,Uttarakhand,593,Moderate,Moderate travel area
+Bhopal,Madhya Pradesh,900,Moderate,Moderate travel area
+Shimla,Himachal Pradesh,610,Moderate,Moderate travel area
+Bhubaneswar,Odisha,810,Moderate,Moderate travel area
+Ranchi,Jharkhand,130,Low,Low-risk region
+Lucknow,Uttar Pradesh,902,Moderate,Moderate travel area
+Lucknow,Uttar Pradesh,953,Moderate,Moderate travel area
+Jodhpur,Rajasthan,833,Moderate,Moderate travel area
+Visakhapatnam,Andhra Pradesh,113,Low,Low-risk region
+Dehradun,Uttarakhand,357,Low,Low-risk region
+Chandigarh,Chandigarh,820,Moderate,Moderate travel area
+Jaipur,Rajasthan,621,Moderate,Moderate travel area
+Visakhapatnam,Andhra Pradesh,399,Low,Low-risk region
+New Delhi,Delhi,1148,High,Remote or high-distance area
+Lucknow,Uttar Pradesh,899,Moderate,Moderate travel area
+Raipur,Chhattisgarh,1126,High,Remote or high-distance area
+Chennai,Tamil Nadu,311,Low,Low-risk region
+Ranchi,Jharkhand,83,Low,Low-risk region
+Lucknow,Uttar Pradesh,186,Low,Low-risk region
+Shimla,Himachal Pradesh,886,Moderate,Moderate travel area
+Dehradun,Uttarakhand,679,Moderate,Moderate travel area
+Varanasi,Uttar Pradesh,976,Moderate,Moderate travel area
+Ahmedabad,Gujarat,1089,High,Remote or high-distance area
+Hyderabad,Telangana,948,Moderate,Moderate travel area
+Bhubaneswar,Odisha,769,Moderate,Moderate travel area
+Kolkata,West Bengal,563,Moderate,Moderate travel area
+Goa,Goa,560,Moderate,Moderate travel area
+Shimla,Himachal Pradesh,531,Moderate,Moderate travel area
+New Delhi,Delhi,1401,High,Remote or high-distance area
+Agra,Uttar Pradesh,1378,High,Remote or high-distance area
+Ranchi,Jharkhand,1396,High,Remote or high-distance area
+Mumbai,Maharashtra,410,Low,Low-risk region
+Indore,Madhya Pradesh,1107,High,Remote or high-distance area
+Varanasi,Uttar Pradesh,1460,High,Remote or high-distance area
+Guwahati,Assam,683,Moderate,Moderate travel area
+New Delhi,Delhi,592,Moderate,Moderate travel area
+Kolkata,West Bengal,1235,High,Remote or high-distance area
+Raipur,Chhattisgarh,341,Low,Low-risk region
+Nagpur,Maharashtra,1313,High,Remote or high-distance area
+Goa,Goa,1015,High,Remote or high-distance area
+Chandigarh,Chandigarh,355,Low,Low-risk region
+Indore,Madhya Pradesh,1398,High,Remote or high-distance area
+Agra,Uttar Pradesh,1238,High,Remote or high-distance area
+Agra,Uttar Pradesh,1188,High,Remote or high-distance area
+Manali,Himachal Pradesh,527,Moderate,Moderate travel area
+Dehradun,Uttarakhand,125,Low,Low-risk region
+Lucknow,Uttar Pradesh,205,Low,Low-risk region
+Goa,Goa,1016,High,Remote or high-distance area
+New Delhi,Delhi,535,Moderate,Moderate travel area
+Ranchi,Jharkhand,164,Low,Low-risk region
+Surat,Gujarat,1272,High,Remote or high-distance area
+Lucknow,Uttar Pradesh,1243,High,Remote or high-distance area
+Bhopal,Madhya Pradesh,861,Moderate,Moderate travel area
+Ranchi,Jharkhand,883,Moderate,Moderate travel area
+Bhubaneswar,Odisha,783,Moderate,Moderate travel area
+Raipur,Chhattisgarh,104,Low,Low-risk region
+Ranchi,Jharkhand,1484,High,Remote or high-distance area
+Amritsar,Punjab,945,Moderate,Moderate travel area
+Amritsar,Punjab,782,Moderate,Moderate travel area
+Amritsar,Punjab,576,Moderate,Moderate travel area
+Ranchi,Jharkhand,500,Moderate,Moderate travel area
+Goa,Goa,209,Low,Low-risk region
+Lucknow,Uttar Pradesh,1439,High,Remote or high-distance area
+Pune,Maharashtra,587,Moderate,Moderate travel area
+New Delhi,Delhi,1481,High,Remote or high-distance area
+Kolkata,West Bengal,322,Low,Low-risk region
+Hyderabad,Telangana,1268,High,Remote or high-distance area
+Varanasi,Uttar Pradesh,106,Low,Low-risk region
+Jaipur,Rajasthan,488,Low,Low-risk region
+Shimla,Himachal Pradesh,345,Low,Low-risk region
+Shimla,Himachal Pradesh,1314,High,Remote or high-distance area
+New Delhi,Delhi,1224,High,Remote or high-distance area
+Nagpur,Maharashtra,62,Low,Low-risk region
+Bhubaneswar,Odisha,208,Low,Low-risk region
+Pune,Maharashtra,506,Moderate,Moderate travel area
+Bhubaneswar,Odisha,302,Low,Low-risk region
+Pune,Maharashtra,1343,High,Remote or high-distance area
+Indore,Madhya Pradesh,300,Low,Low-risk region
+Pune,Maharashtra,421,Low,Low-risk region
+Hyderabad,Telangana,656,Moderate,Moderate travel area
+Raipur,Chhattisgarh,706,Moderate,Moderate travel area
+Bhopal,Madhya Pradesh,325,Low,Low-risk region
+Bhubaneswar,Odisha,179,Low,Low-risk region
+Lucknow,Uttar Pradesh,606,Moderate,Moderate travel area
+Varanasi,Uttar Pradesh,320,Low,Low-risk region
+Ranchi,Jharkhand,1298,High,Remote or high-distance area
+Ahmedabad,Gujarat,223,Low,Low-risk region
+Pune,Maharashtra,529,Moderate,Moderate travel area
+Lucknow,Uttar Pradesh,1394,High,Remote or high-distance area
+Bhopal,Madhya Pradesh,385,Low,Low-risk region
+Ranchi,Jharkhand,841,Moderate,Moderate travel area
+Chennai,Tamil Nadu,803,Moderate,Moderate travel area
+Visakhapatnam,Andhra Pradesh,556,Moderate,Moderate travel area
+Pune,Maharashtra,897,Moderate,Moderate travel area
+Guwahati,Assam,112,Low,Low-risk region
+Mumbai,Maharashtra,1039,High,Remote or high-distance area
+Kolkata,West Bengal,347,Low,Low-risk region
+Manali,Himachal Pradesh,478,Low,Low-risk region
+Agra,Uttar Pradesh,835,Moderate,Moderate travel area
+Jaipur,Rajasthan,367,Low,Low-risk region
+Manali,Himachal Pradesh,696,Moderate,Moderate travel area
+Hyderabad,Telangana,916,Moderate,Moderate travel area
+Amritsar,Punjab,144,Low,Low-risk region
+Hyderabad,Telangana,929,Moderate,Moderate travel area
+Goa,Goa,394,Low,Low-risk region
+Surat,Gujarat,75,Low,Low-risk region
+Hyderabad,Telangana,1239,High,Remote or high-distance area
+Jodhpur,Rajasthan,393,Low,Low-risk region
+Chandigarh,Chandigarh,178,Low,Low-risk region
+Shimla,Himachal Pradesh,1040,High,Remote or high-distance area
+Hyderabad,Telangana,877,Moderate,Moderate travel area
+Varanasi,Uttar Pradesh,297,Low,Low-risk region
+Nagpur,Maharashtra,1206,High,Remote or high-distance area
+Agra,Uttar Pradesh,1138,High,Remote or high-distance area
+Dehradun,Uttarakhand,928,Moderate,Moderate travel area
+Pune,Maharashtra,1015,High,Remote or high-distance area
+Indore,Madhya Pradesh,255,Low,Low-risk region
+Goa,Goa,125,Low,Low-risk region
+New Delhi,Delhi,709,Moderate,Moderate travel area
+Amritsar,Punjab,1098,High,Remote or high-distance area
+Bhubaneswar,Odisha,580,Moderate,Moderate travel area
+Shimla,Himachal Pradesh,1158,High,Remote or high-distance area
+Chandigarh,Chandigarh,738,Moderate,Moderate travel area
+Bhopal,Madhya Pradesh,106,Low,Low-risk region
+Surat,Gujarat,718,Moderate,Moderate travel area
+Lucknow,Uttar Pradesh,64,Low,Low-risk region
+Surat,Gujarat,1219,High,Remote or high-distance area
+Chennai,Tamil Nadu,393,Low,Low-risk region
+Jaipur,Rajasthan,887,Moderate,Moderate travel area
+Thiruvananthapuram,Kerala,314,Low,Low-risk region
+Kolkata,West Bengal,88,Low,Low-risk region
+Hyderabad,Telangana,765,Moderate,Moderate travel area
+Dehradun,Uttarakhand,1500,High,Remote or high-distance area
+Jaipur,Rajasthan,1223,High,Remote or high-distance area
+Indore,Madhya Pradesh,67,Low,Low-risk region
+Goa,Goa,1426,High,Remote or high-distance area
+Chennai,Tamil Nadu,843,Moderate,Moderate travel area
+Kolkata,West Bengal,1021,High,Remote or high-distance area
+Patna,Bihar,538,Moderate,Moderate travel area
+Jodhpur,Rajasthan,399,Low,Low-risk region
+Mumbai,Maharashtra,95,Low,Low-risk region
+Visakhapatnam,Andhra Pradesh,1468,High,Remote or high-distance area
+Patna,Bihar,360,Low,Low-risk region
+Mumbai,Maharashtra,686,Moderate,Moderate travel area
+Bhopal,Madhya Pradesh,226,Low,Low-risk region
+Pune,Maharashtra,1485,High,Remote or high-distance area
+Ahmedabad,Gujarat,54,Low,Low-risk region
+Goa,Goa,924,Moderate,Moderate travel area
+Jodhpur,Rajasthan,717,Moderate,Moderate travel area
+Jaipur,Rajasthan,637,Moderate,Moderate travel area
+Ahmedabad,Gujarat,1111,High,Remote or high-distance area
+Goa,Goa,1140,High,Remote or high-distance area
+Goa,Goa,917,Moderate,Moderate travel area
+New Delhi,Delhi,225,Low,Low-risk region
+Bengaluru,Karnataka,1164,High,Remote or high-distance area
+Thiruvananthapuram,Kerala,587,Moderate,Moderate travel area
+Jaipur,Rajasthan,1208,High,Remote or high-distance area
+Thiruvananthapuram,Kerala,325,Low,Low-risk region
+Thiruvananthapuram,Kerala,1161,High,Remote or high-distance area
+Amritsar,Punjab,234,Low,Low-risk region
+Jaipur,Rajasthan,621,Moderate,Moderate travel area
+Kolkata,West Bengal,484,Low,Low-risk region
+New Delhi,Delhi,90,Low,Low-risk region
+Goa,Goa,679,Moderate,Moderate travel area
+Lucknow,Uttar Pradesh,1381,High,Remote or high-distance area
+Chandigarh,Chandigarh,129,Low,Low-risk region
+Guwahati,Assam,1417,High,Remote or high-distance area
+Ahmedabad,Gujarat,1146,High,Remote or high-distance area
+Bhubaneswar,Odisha,1107,High,Remote or high-distance area
+Varanasi,Uttar Pradesh,432,Low,Low-risk region
+Thiruvananthapuram,Kerala,687,Moderate,Moderate travel area
+Visakhapatnam,Andhra Pradesh,414,Low,Low-risk region
+Guwahati,Assam,1288,High,Remote or high-distance area
+Nagpur,Maharashtra,1069,High,Remote or high-distance area
+Visakhapatnam,Andhra Pradesh,682,Moderate,Moderate travel area
+Amritsar,Punjab,845,Moderate,Moderate travel area
+Manali,Himachal Pradesh,120,Low,Low-risk region
+Hyderabad,Telangana,582,Moderate,Moderate travel area
+Bhubaneswar,Odisha,337,Low,Low-risk region
+New Delhi,Delhi,696,Moderate,Moderate travel area
+Lucknow,Uttar Pradesh,259,Low,Low-risk region
+Dehradun,Uttarakhand,1234,High,Remote or high-distance area
+Patna,Bihar,1290,High,Remote or high-distance area
+Manali,Himachal Pradesh,734,Moderate,Moderate travel area
+Manali,Himachal Pradesh,983,Moderate,Moderate travel area
+Bhubaneswar,Odisha,105,Low,Low-risk region
+Chandigarh,Chandigarh,508,Moderate,Moderate travel area
+Bengaluru,Karnataka,894,Moderate,Moderate travel area
+Manali,Himachal Pradesh,1394,High,Remote or high-distance area
+Patna,Bihar,482,Low,Low-risk region
+Jodhpur,Rajasthan,1042,High,Remote or high-distance area
+Manali,Himachal Pradesh,1345,High,Remote or high-distance area
+Bhubaneswar,Odisha,568,Moderate,Moderate travel area
+Guwahati,Assam,466,Low,Low-risk region
+Indore,Madhya Pradesh,1376,High,Remote or high-distance area
+Jaipur,Rajasthan,326,Low,Low-risk region
+Raipur,Chhattisgarh,1102,High,Remote or high-distance area
+Jodhpur,Rajasthan,1301,High,Remote or high-distance area
+Ahmedabad,Gujarat,970,Moderate,Moderate travel area
+Agra,Uttar Pradesh,414,Low,Low-risk region
+Surat,Gujarat,1170,High,Remote or high-distance area
+Thiruvananthapuram,Kerala,181,Low,Low-risk region
+Amritsar,Punjab,1116,High,Remote or high-distance area
+Raipur,Chhattisgarh,92,Low,Low-risk region
+Manali,Himachal Pradesh,1130,High,Remote or high-distance area
+Nagpur,Maharashtra,351,Low,Low-risk region
+Jaipur,Rajasthan,214,Low,Low-risk region
+Chennai,Tamil Nadu,116,Low,Low-risk region
+Amritsar,Punjab,150,Low,Low-risk region
+Ahmedabad,Gujarat,1323,High,Remote or high-distance area
+Amritsar,Punjab,1221,High,Remote or high-distance area
+Ahmedabad,Gujarat,1409,High,Remote or high-distance area
+Manali,Himachal Pradesh,74,Low,Low-risk region
+Mumbai,Maharashtra,620,Moderate,Moderate travel area
+Bengaluru,Karnataka,1241,High,Remote or high-distance area
+Ahmedabad,Gujarat,716,Moderate,Moderate travel area
+Thiruvananthapuram,Kerala,1284,High,Remote or high-distance area
+Ahmedabad,Gujarat,1000,High,Remote or high-distance area
+Bhopal,Madhya Pradesh,966,Moderate,Moderate travel area
+Jaipur,Rajasthan,984,Moderate,Moderate travel area
+Ranchi,Jharkhand,810,Moderate,Moderate travel area
+Manali,Himachal Pradesh,422,Low,Low-risk region
+Chennai,Tamil Nadu,1122,High,Remote or high-distance area
+Patna,Bihar,122,Low,Low-risk region
+Mumbai,Maharashtra,1011,High,Remote or high-distance area
+Visakhapatnam,Andhra Pradesh,1033,High,Remote or high-distance area
+Guwahati,Assam,625,Moderate,Moderate travel area
+Lucknow,Uttar Pradesh,1246,High,Remote or high-distance area
+Thiruvananthapuram,Kerala,314,Low,Low-risk region
+Agra,Uttar Pradesh,672,Moderate,Moderate travel area
+Kolkata,West Bengal,173,Low,Low-risk region
+Jaipur,Rajasthan,158,Low,Low-risk region
+Mumbai,Maharashtra,370,Low,Low-risk region
+Goa,Goa,997,Moderate,Moderate travel area
+Dehradun,Uttarakhand,1167,High,Remote or high-distance area
+Raipur,Chhattisgarh,805,Moderate,Moderate travel area
+Jodhpur,Rajasthan,64,Low,Low-risk region
+Bhubaneswar,Odisha,663,Moderate,Moderate travel area
+Jaipur,Rajasthan,994,Moderate,Moderate travel area
+Bhubaneswar,Odisha,989,Moderate,Moderate travel area
+Amritsar,Punjab,1203,High,Remote or high-distance area
+Thiruvananthapuram,Kerala,852,Moderate,Moderate travel area
+Nagpur,Maharashtra,402,Low,Low-risk region
+Chandigarh,Chandigarh,461,Low,Low-risk region
+Dehradun,Uttarakhand,1182,High,Remote or high-distance area
+Lucknow,Uttar Pradesh,630,Moderate,Moderate travel area
+Bhubaneswar,Odisha,450,Low,Low-risk region
+Patna,Bihar,385,Low,Low-risk region
+Manali,Himachal Pradesh,433,Low,Low-risk region
+Bhubaneswar,Odisha,1279,High,Remote or high-distance area
+Indore,Madhya Pradesh,1416,High,Remote or high-distance area
+Jaipur,Rajasthan,555,Moderate,Moderate travel area
+Hyderabad,Telangana,1076,High,Remote or high-distance area
+Kolkata,West Bengal,298,Low,Low-risk region
+Manali,Himachal Pradesh,106,Low,Low-risk region
+Manali,Himachal Pradesh,583,Moderate,Moderate travel area
+Lucknow,Uttar Pradesh,936,Moderate,Moderate travel area
+Bhopal,Madhya Pradesh,788,Moderate,Moderate travel area
+Bhopal,Madhya Pradesh,703,Moderate,Moderate travel area
+Goa,Goa,1099,High,Remote or high-distance area
+Bengaluru,Karnataka,1176,High,Remote or high-distance area
+Bhopal,Madhya Pradesh,63,Low,Low-risk region
+Thiruvananthapuram,Kerala,973,Moderate,Moderate travel area
+Raipur,Chhattisgarh,1068,High,Remote or high-distance area
+Bengaluru,Karnataka,961,Moderate,Moderate travel area
+Mumbai,Maharashtra,98,Low,Low-risk region
+Amritsar,Punjab,892,Moderate,Moderate travel area
+Varanasi,Uttar Pradesh,369,Low,Low-risk region
+Thiruvananthapuram,Kerala,1394,High,Remote or high-distance area
+Chennai,Tamil Nadu,732,Moderate,Moderate travel area
+Shimla,Himachal Pradesh,641,Moderate,Moderate travel area
+Visakhapatnam,Andhra Pradesh,1483,High,Remote or high-distance area
+Chennai,Tamil Nadu,1258,High,Remote or high-distance area
+Shimla,Himachal Pradesh,1402,High,Remote or high-distance area
+Dehradun,Uttarakhand,114,Low,Low-risk region
+Lucknow,Uttar Pradesh,1343,High,Remote or high-distance area
+Amritsar,Punjab,80,Low,Low-risk region
+Chandigarh,Chandigarh,691,Moderate,Moderate travel area
+Kolkata,West Bengal,732,Moderate,Moderate travel area
+New Delhi,Delhi,259,Low,Low-risk region
+Varanasi,Uttar Pradesh,928,Moderate,Moderate travel area
+Guwahati,Assam,1123,High,Remote or high-distance area
+New Delhi,Delhi,1479,High,Remote or high-distance area
+Indore,Madhya Pradesh,1232,High,Remote or high-distance area
+Chandigarh,Chandigarh,1079,High,Remote or high-distance area
+Indore,Madhya Pradesh,1252,High,Remote or high-distance area
+Ahmedabad,Gujarat,451,Low,Low-risk region
+Mumbai,Maharashtra,318,Low,Low-risk region
+Patna,Bihar,1360,High,Remote or high-distance area
+Indore,Madhya Pradesh,301,Low,Low-risk region
+Jaipur,Rajasthan,977,Moderate,Moderate travel area
+Bengaluru,Karnataka,1160,High,Remote or high-distance area
+Nagpur,Maharashtra,1232,High,Remote or high-distance area
+Goa,Goa,859,Moderate,Moderate travel area
+New Delhi,Delhi,984,Moderate,Moderate travel area
+Amritsar,Punjab,279,Low,Low-risk region
+Visakhapatnam,Andhra Pradesh,448,Low,Low-risk region
+Shimla,Himachal Pradesh,62,Low,Low-risk region
+Chennai,Tamil Nadu,1327,High,Remote or high-distance area
+Pune,Maharashtra,1190,High,Remote or high-distance area
+Chandigarh,Chandigarh,281,Low,Low-risk region
+Bhopal,Madhya Pradesh,1298,High,Remote or high-distance area
+Visakhapatnam,Andhra Pradesh,274,Low,Low-risk region
+Ranchi,Jharkhand,1353,High,Remote or high-distance area
+Patna,Bihar,606,Moderate,Moderate travel area
+Chandigarh,Chandigarh,890,Moderate,Moderate travel area
+Manali,Himachal Pradesh,194,Low,Low-risk region
+Agra,Uttar Pradesh,218,Low,Low-risk region
+Visakhapatnam,Andhra Pradesh,1432,High,Remote or high-distance area
+Pune,Maharashtra,199,Low,Low-risk region
+Chandigarh,Chandigarh,59,Low,Low-risk region
+Nagpur,Maharashtra,1086,High,Remote or high-distance area
+Varanasi,Uttar Pradesh,288,Low,Low-risk region
+Jodhpur,Rajasthan,201,Low,Low-risk region
+Agra,Uttar Pradesh,577,Moderate,Moderate travel area
+Lucknow,Uttar Pradesh,688,Moderate,Moderate travel area
+Indore,Madhya Pradesh,319,Low,Low-risk region
+Ranchi,Jharkhand,129,Low,Low-risk region
+Shimla,Himachal Pradesh,502,Moderate,Moderate travel area
+Goa,Goa,350,Low,Low-risk region
+Thiruvananthapuram,Kerala,68,Low,Low-risk region
+Guwahati,Assam,762,Moderate,Moderate travel area
+Jaipur,Rajasthan,491,Low,Low-risk region
+Goa,Goa,1283,High,Remote or high-distance area
+Patna,Bihar,198,Low,Low-risk region
+Chennai,Tamil Nadu,961,Moderate,Moderate travel area
+Visakhapatnam,Andhra Pradesh,802,Moderate,Moderate travel area
+Surat,Gujarat,1243,High,Remote or high-distance area
+Agra,Uttar Pradesh,244,Low,Low-risk region
+Chennai,Tamil Nadu,698,Moderate,Moderate travel area
+Nagpur,Maharashtra,976,Moderate,Moderate travel area
+Amritsar,Punjab,763,Moderate,Moderate travel area
+Kolkata,West Bengal,1409,High,Remote or high-distance area
+New Delhi,Delhi,1429,High,Remote or high-distance area
+Pune,Maharashtra,686,Moderate,Moderate travel area
+Thiruvananthapuram,Kerala,917,Moderate,Moderate travel area
+Lucknow,Uttar Pradesh,243,Low,Low-risk region
+Ranchi,Jharkhand,1492,High,Remote or high-distance area
+Ahmedabad,Gujarat,589,Moderate,Moderate travel area
+Thiruvananthapuram,Kerala,1041,High,Remote or high-distance area
+Mumbai,Maharashtra,1058,High,Remote or high-distance area
+Nagpur,Maharashtra,1164,High,Remote or high-distance area
+Goa,Goa,1280,High,Remote or high-distance area
+Varanasi,Uttar Pradesh,89,Low,Low-risk region
+Agra,Uttar Pradesh,889,Moderate,Moderate travel area
+Bengaluru,Karnataka,1497,High,Remote or high-distance area
+Visakhapatnam,Andhra Pradesh,624,Moderate,Moderate travel area
+Bhopal,Madhya Pradesh,604,Moderate,Moderate travel area
+Jodhpur,Rajasthan,204,Low,Low-risk region
+Chennai,Tamil Nadu,911,Moderate,Moderate travel area
+Ahmedabad,Gujarat,200,Low,Low-risk region
+Bengaluru,Karnataka,50,Low,Low-risk region
+Bhubaneswar,Odisha,1241,High,Remote or high-distance area
+Varanasi,Uttar Pradesh,1015,High,Remote or high-distance area
+Surat,Gujarat,773,Moderate,Moderate travel area
+Dehradun,Uttarakhand,1165,High,Remote or high-distance area
+Patna,Bihar,1316,High,Remote or high-distance area
+New Delhi,Delhi,1398,High,Remote or high-distance area
+New Delhi,Delhi,214,Low,Low-risk region
+Ranchi,Jharkhand,1326,High,Remote or high-distance area
+Chandigarh,Chandigarh,541,Moderate,Moderate travel area
+Indore,Madhya Pradesh,1123,High,Remote or high-distance area
+Chennai,Tamil Nadu,1305,High,Remote or high-distance area
+Mumbai,Maharashtra,842,Moderate,Moderate travel area
+Hyderabad,Telangana,377,Low,Low-risk region
+Nagpur,Maharashtra,595,Moderate,Moderate travel area
+Thiruvananthapuram,Kerala,1015,High,Remote or high-distance area
+Shimla,Himachal Pradesh,965,Moderate,Moderate travel area
+Manali,Himachal Pradesh,1391,High,Remote or high-distance area
+Goa,Goa,1243,High,Remote or high-distance area
+Chennai,Tamil Nadu,1385,High,Remote or high-distance area
+Raipur,Chhattisgarh,1095,High,Remote or high-distance area
+Raipur,Chhattisgarh,417,Low,Low-risk region
+Visakhapatnam,Andhra Pradesh,905,Moderate,Moderate travel area
+Mumbai,Maharashtra,1122,High,Remote or high-distance area
+Manali,Himachal Pradesh,1394,High,Remote or high-distance area
+Shimla,Himachal Pradesh,200,Low,Low-risk region
+Nagpur,Maharashtra,1444,High,Remote or high-distance area
+Nagpur,Maharashtra,936,Moderate,Moderate travel area
+Hyderabad,Telangana,171,Low,Low-risk region
+Bengaluru,Karnataka,1257,High,Remote or high-distance area
+Hyderabad,Telangana,1477,High,Remote or high-distance area
+Amritsar,Punjab,84,Low,Low-risk region
+Bhopal,Madhya Pradesh,125,Low,Low-risk region
+New Delhi,Delhi,1245,High,Remote or high-distance area
+Mumbai,Maharashtra,1488,High,Remote or high-distance area
+Chandigarh,Chandigarh,791,Moderate,Moderate travel area
+Mumbai,Maharashtra,483,Low,Low-risk region
+Manali,Himachal Pradesh,497,Low,Low-risk region
+Visakhapatnam,Andhra Pradesh,843,Moderate,Moderate travel area
+Raipur,Chhattisgarh,73,Low,Low-risk region
+Guwahati,Assam,1121,High,Remote or high-distance area
+Chennai,Tamil Nadu,133,Low,Low-risk region
+Bengaluru,Karnataka,1229,High,Remote or high-distance area
+Goa,Goa,161,Low,Low-risk region
+Indore,Madhya Pradesh,1174,High,Remote or high-distance area
+Indore,Madhya Pradesh,1368,High,Remote or high-distance area
+Bhubaneswar,Odisha,1295,High,Remote or high-distance area
+Raipur,Chhattisgarh,1147,High,Remote or high-distance area
+Amritsar,Punjab,1487,High,Remote or high-distance area
+Hyderabad,Telangana,1243,High,Remote or high-distance area
+Pune,Maharashtra,1292,High,Remote or high-distance area
+Shimla,Himachal Pradesh,223,Low,Low-risk region
+Bhubaneswar,Odisha,162,Low,Low-risk region
+Goa,Goa,302,Low,Low-risk region
+Patna,Bihar,958,Moderate,Moderate travel area
+Bengaluru,Karnataka,57,Low,Low-risk region
+Chennai,Tamil Nadu,199,Low,Low-risk region
+Manali,Himachal Pradesh,1104,High,Remote or high-distance area
+Agra,Uttar Pradesh,110,Low,Low-risk region
+Lucknow,Uttar Pradesh,1429,High,Remote or high-distance area
+Jodhpur,Rajasthan,1484,High,Remote or high-distance area
+Jodhpur,Rajasthan,431,Low,Low-risk region
+Nagpur,Maharashtra,673,Moderate,Moderate travel area
+Ahmedabad,Gujarat,528,Moderate,Moderate travel area
+Bhubaneswar,Odisha,943,Moderate,Moderate travel area
+Visakhapatnam,Andhra Pradesh,887,Moderate,Moderate travel area
+Surat,Gujarat,791,Moderate,Moderate travel area
+Varanasi,Uttar Pradesh,990,Moderate,Moderate travel area
+Mumbai,Maharashtra,636,Moderate,Moderate travel area
+Goa,Goa,561,Moderate,Moderate travel area
+Visakhapatnam,Andhra Pradesh,1368,High,Remote or high-distance area
+New Delhi,Delhi,427,Low,Low-risk region
+Bengaluru,Karnataka,442,Low,Low-risk region
+Thiruvananthapuram,Kerala,1362,High,Remote or high-distance area
+Goa,Goa,868,Moderate,Moderate travel area
+Jodhpur,Rajasthan,1474,High,Remote or high-distance area
+Ahmedabad,Gujarat,1261,High,Remote or high-distance area
+Bengaluru,Karnataka,1482,High,Remote or high-distance area
+Lucknow,Uttar Pradesh,1446,High,Remote or high-distance area
+Agra,Uttar Pradesh,765,Moderate,Moderate travel area
+Goa,Goa,805,Moderate,Moderate travel area
+Guwahati,Assam,939,Moderate,Moderate travel area
+Varanasi,Uttar Pradesh,830,Moderate,Moderate travel area
+Indore,Madhya Pradesh,1392,High,Remote or high-distance area
+Goa,Goa,1416,High,Remote or high-distance area
+Agra,Uttar Pradesh,1293,High,Remote or high-distance area
+Guwahati,Assam,1454,High,Remote or high-distance area
+Kolkata,West Bengal,1131,High,Remote or high-distance area
+Varanasi,Uttar Pradesh,696,Moderate,Moderate travel area
+Guwahati,Assam,925,Moderate,Moderate travel area
+Indore,Madhya Pradesh,1155,High,Remote or high-distance area
+Mumbai,Maharashtra,603,Moderate,Moderate travel area
+Kolkata,West Bengal,1485,High,Remote or high-distance area
+Thiruvananthapuram,Kerala,1093,High,Remote or high-distance area
+Chandigarh,Chandigarh,613,Moderate,Moderate travel area
+Hyderabad,Telangana,1480,High,Remote or high-distance area
+Lucknow,Uttar Pradesh,869,Moderate,Moderate travel area
+Thiruvananthapuram,Kerala,1112,High,Remote or high-distance area
+New Delhi,Delhi,788,Moderate,Moderate travel area
+Bhopal,Madhya Pradesh,1185,High,Remote or high-distance area
+Raipur,Chhattisgarh,100,Low,Low-risk region
+Bengaluru,Karnataka,653,Moderate,Moderate travel area
+Kolkata,West Bengal,158,Low,Low-risk region
+Agra,Uttar Pradesh,1072,High,Remote or high-distance area
+Kolkata,West Bengal,786,Moderate,Moderate travel area
+Surat,Gujarat,746,Moderate,Moderate travel area
+Varanasi,Uttar Pradesh,1195,High,Remote or high-distance area
+Bhubaneswar,Odisha,1209,High,Remote or high-distance area
+Visakhapatnam,Andhra Pradesh,849,Moderate,Moderate travel area
+New Delhi,Delhi,353,Low,Low-risk region
+Hyderabad,Telangana,669,Moderate,Moderate travel area
+Thiruvananthapuram,Kerala,1086,High,Remote or high-distance area
+Chennai,Tamil Nadu,1049,High,Remote or high-distance area
+Nagpur,Maharashtra,217,Low,Low-risk region
+New Delhi,Delhi,689,Moderate,Moderate travel area
+Goa,Goa,1087,High,Remote or high-distance area
+Goa,Goa,1059,High,Remote or high-distance area
+Guwahati,Assam,414,Low,Low-risk region
+Indore,Madhya Pradesh,193,Low,Low-risk region
+Ranchi,Jharkhand,842,Moderate,Moderate travel area
+New Delhi,Delhi,319,Low,Low-risk region
+Mumbai,Maharashtra,1363,High,Remote or high-distance area
+Chandigarh,Chandigarh,820,Moderate,Moderate travel area
+New Delhi,Delhi,1145,High,Remote or high-distance area
+Jodhpur,Rajasthan,1363,High,Remote or high-distance area
+Surat,Gujarat,1476,High,Remote or high-distance area
+Dehradun,Uttarakhand,916,Moderate,Moderate travel area
+Varanasi,Uttar Pradesh,1396,High,Remote or high-distance area
+Ranchi,Jharkhand,938,Moderate,Moderate travel area
+Visakhapatnam,Andhra Pradesh,1268,High,Remote or high-distance area
+Chennai,Tamil Nadu,91,Low,Low-risk region
+Bengaluru,Karnataka,439,Low,Low-risk region
+Visakhapatnam,Andhra Pradesh,110,Low,Low-risk region
+Patna,Bihar,197,Low,Low-risk region
+Jaipur,Rajasthan,1428,High,Remote or high-distance area
+Varanasi,Uttar Pradesh,882,Moderate,Moderate travel area
+Chennai,Tamil Nadu,1105,High,Remote or high-distance area
+Shimla,Himachal Pradesh,946,Moderate,Moderate travel area
+Chennai,Tamil Nadu,595,Moderate,Moderate travel area
+Chennai,Tamil Nadu,650,Moderate,Moderate travel area
+Patna,Bihar,244,Low,Low-risk region
+Bhubaneswar,Odisha,514,Moderate,Moderate travel area
+Thiruvananthapuram,Kerala,216,Low,Low-risk region
+Pune,Maharashtra,1382,High,Remote or high-distance area
+Thiruvananthapuram,Kerala,1140,High,Remote or high-distance area
+Jaipur,Rajasthan,535,Moderate,Moderate travel area
+Lucknow,Uttar Pradesh,528,Moderate,Moderate travel area
+Chandigarh,Chandigarh,251,Low,Low-risk region
+Hyderabad,Telangana,519,Moderate,Moderate travel area
+Ahmedabad,Gujarat,1279,High,Remote or high-distance area
+Mumbai,Maharashtra,879,Moderate,Moderate travel area
+Hyderabad,Telangana,1443,High,Remote or high-distance area
+Ranchi,Jharkhand,1454,High,Remote or high-distance area
+Goa,Goa,1382,High,Remote or high-distance area
+Agra,Uttar Pradesh,636,Moderate,Moderate travel area
+Chennai,Tamil Nadu,665,Moderate,Moderate travel area
+Shimla,Himachal Pradesh,799,Moderate,Moderate travel area
+Patna,Bihar,1218,High,Remote or high-distance area
+Shimla,Himachal Pradesh,471,Low,Low-risk region
+Raipur,Chhattisgarh,1154,High,Remote or high-distance area
+Agra,Uttar Pradesh,994,Moderate,Moderate travel area
+Dehradun,Uttarakhand,503,Moderate,Moderate travel area
+Ranchi,Jharkhand,1453,High,Remote or high-distance area
+New Delhi,Delhi,486,Low,Low-risk region
+Ranchi,Jharkhand,1154,High,Remote or high-distance area
+Manali,Himachal Pradesh,678,Moderate,Moderate travel area
+Jodhpur,Rajasthan,499,Low,Low-risk region
+Pune,Maharashtra,1194,High,Remote or high-distance area
+Surat,Gujarat,922,Moderate,Moderate travel area
+Kolkata,West Bengal,93,Low,Low-risk region
+Chennai,Tamil Nadu,1237,High,Remote or high-distance area
+Ranchi,Jharkhand,186,Low,Low-risk region
+Surat,Gujarat,112,Low,Low-risk region
+Bengaluru,Karnataka,425,Low,Low-risk region
+Ahmedabad,Gujarat,345,Low,Low-risk region
+Lucknow,Uttar Pradesh,1257,High,Remote or high-distance area
+Indore,Madhya Pradesh,916,Moderate,Moderate travel area
+Bengaluru,Karnataka,1289,High,Remote or high-distance area
+Amritsar,Punjab,832,Moderate,Moderate travel area
+Amritsar,Punjab,623,Moderate,Moderate travel area
+Ranchi,Jharkhand,1183,High,Remote or high-distance area
+Kolkata,West Bengal,1393,High,Remote or high-distance area
+Ranchi,Jharkhand,1153,High,Remote or high-distance area
+Lucknow,Uttar Pradesh,279,Low,Low-risk region
+Bhubaneswar,Odisha,624,Moderate,Moderate travel area
+Bhopal,Madhya Pradesh,1028,High,Remote or high-distance area
+Manali,Himachal Pradesh,491,Low,Low-risk region
+Bhubaneswar,Odisha,212,Low,Low-risk region
+Agra,Uttar Pradesh,83,Low,Low-risk region
+Pune,Maharashtra,1360,High,Remote or high-distance area
+Amritsar,Punjab,472,Low,Low-risk region
+Indore,Madhya Pradesh,173,Low,Low-risk region
+Thiruvananthapuram,Kerala,1080,High,Remote or high-distance area
+Ahmedabad,Gujarat,553,Moderate,Moderate travel area
+Nagpur,Maharashtra,1491,High,Remote or high-distance area
+Chennai,Tamil Nadu,238,Low,Low-risk region
+Visakhapatnam,Andhra Pradesh,470,Low,Low-risk region
+Ranchi,Jharkhand,1041,High,Remote or high-distance area
+Guwahati,Assam,133,Low,Low-risk region
+Lucknow,Uttar Pradesh,438,Low,Low-risk region
+Visakhapatnam,Andhra Pradesh,786,Moderate,Moderate travel area
+Dehradun,Uttarakhand,726,Moderate,Moderate travel area
+Hyderabad,Telangana,502,Moderate,Moderate travel area
+Agra,Uttar Pradesh,707,Moderate,Moderate travel area
+Amritsar,Punjab,58,Low,Low-risk region
+Ahmedabad,Gujarat,628,Moderate,Moderate travel area
+Chandigarh,Chandigarh,72,Low,Low-risk region
+Nagpur,Maharashtra,929,Moderate,Moderate travel area
+Jodhpur,Rajasthan,1378,High,Remote or high-distance area
+Hyderabad,Telangana,323,Low,Low-risk region
+Manali,Himachal Pradesh,855,Moderate,Moderate travel area
+Chennai,Tamil Nadu,1215,High,Remote or high-distance area
+Hyderabad,Telangana,1223,High,Remote or high-distance area
+Kolkata,West Bengal,1115,High,Remote or high-distance area
+Goa,Goa,232,Low,Low-risk region
+Surat,Gujarat,1364,High,Remote or high-distance area
+Shimla,Himachal Pradesh,790,Moderate,Moderate travel area
+Bhubaneswar,Odisha,1155,High,Remote or high-distance area
+Nagpur,Maharashtra,934,Moderate,Moderate travel area
+Bhubaneswar,Odisha,1218,High,Remote or high-distance area
+Dehradun,Uttarakhand,470,Low,Low-risk region
+Kolkata,West Bengal,1190,High,Remote or high-distance area
+Goa,Goa,332,Low,Low-risk region
+Thiruvananthapuram,Kerala,1325,High,Remote or high-distance area
+Pune,Maharashtra,1146,High,Remote or high-distance area
+Goa,Goa,442,Low,Low-risk region
+Goa,Goa,893,Moderate,Moderate travel area
+Indore,Madhya Pradesh,1242,High,Remote or high-distance area
+Kolkata,West Bengal,1122,High,Remote or high-distance area
+Chandigarh,Chandigarh,125,Low,Low-risk region
+Hyderabad,Telangana,83,Low,Low-risk region
+Jaipur,Rajasthan,1124,High,Remote or high-distance area
+Agra,Uttar Pradesh,1317,High,Remote or high-distance area
+Lucknow,Uttar Pradesh,891,Moderate,Moderate travel area
+Manali,Himachal Pradesh,1307,High,Remote or high-distance area
+New Delhi,Delhi,1044,High,Remote or high-distance area
+Bhopal,Madhya Pradesh,1039,High,Remote or high-distance area
+Bengaluru,Karnataka,641,Moderate,Moderate travel area
+Bhopal,Madhya Pradesh,843,Moderate,Moderate travel area
+Varanasi,Uttar Pradesh,1355,High,Remote or high-distance area
+Shimla,Himachal Pradesh,849,Moderate,Moderate travel area
+Bengaluru,Karnataka,1285,High,Remote or high-distance area
+Agra,Uttar Pradesh,1476,High,Remote or high-distance area
+Jodhpur,Rajasthan,1490,High,Remote or high-distance area
+Dehradun,Uttarakhand,1358,High,Remote or high-distance area
+Amritsar,Punjab,1403,High,Remote or high-distance area
+Shimla,Himachal Pradesh,189,Low,Low-risk region
+Surat,Gujarat,1123,High,Remote or high-distance area
+Chandigarh,Chandigarh,1404,High,Remote or high-distance area
+Patna,Bihar,969,Moderate,Moderate travel area
+Ahmedabad,Gujarat,1056,High,Remote or high-distance area
+Bhubaneswar,Odisha,958,Moderate,Moderate travel area
+Jaipur,Rajasthan,1166,High,Remote or high-distance area
+Ahmedabad,Gujarat,1387,High,Remote or high-distance area
+Dehradun,Uttarakhand,1214,High,Remote or high-distance area
+Guwahati,Assam,235,Low,Low-risk region
+Amritsar,Punjab,350,Low,Low-risk region
+Ahmedabad,Gujarat,507,Moderate,Moderate travel area
+Dehradun,Uttarakhand,182,Low,Low-risk region
+Jaipur,Rajasthan,232,Low,Low-risk region
+Amritsar,Punjab,521,Moderate,Moderate travel area
+New Delhi,Delhi,666,Moderate,Moderate travel area
+New Delhi,Delhi,920,Moderate,Moderate travel area
+Manali,Himachal Pradesh,611,Moderate,Moderate travel area
+Shimla,Himachal Pradesh,1399,High,Remote or high-distance area
+Bhopal,Madhya Pradesh,1057,High,Remote or high-distance area
+Lucknow,Uttar Pradesh,944,Moderate,Moderate travel area
+Varanasi,Uttar Pradesh,1459,High,Remote or high-distance area
+Dehradun,Uttarakhand,1032,High,Remote or high-distance area
+Goa,Goa,864,Moderate,Moderate travel area
+New Delhi,Delhi,1381,High,Remote or high-distance area
+Visakhapatnam,Andhra Pradesh,510,Moderate,Moderate travel area
+Jodhpur,Rajasthan,1312,High,Remote or high-distance area
+Bhopal,Madhya Pradesh,553,Moderate,Moderate travel area
+Raipur,Chhattisgarh,1241,High,Remote or high-distance area
+Bengaluru,Karnataka,209,Low,Low-risk region
+Shimla,Himachal Pradesh,614,Moderate,Moderate travel area
+Goa,Goa,1142,High,Remote or high-distance area
+Mumbai,Maharashtra,932,Moderate,Moderate travel area
+New Delhi,Delhi,90,Low,Low-risk region
+Jaipur,Rajasthan,613,Moderate,Moderate travel area
+Jodhpur,Rajasthan,874,Moderate,Moderate travel area
+Thiruvananthapuram,Kerala,1004,High,Remote or high-distance area
+Shimla,Himachal Pradesh,469,Low,Low-risk region
+Chandigarh,Chandigarh,1210,High,Remote or high-distance area
+Surat,Gujarat,137,Low,Low-risk region
+Chandigarh,Chandigarh,1320,High,Remote or high-distance area
+Jodhpur,Rajasthan,281,Low,Low-risk region
+Jodhpur,Rajasthan,384,Low,Low-risk region
+Hyderabad,Telangana,916,Moderate,Moderate travel area
+Nagpur,Maharashtra,1165,High,Remote or high-distance area
+Lucknow,Uttar Pradesh,290,Low,Low-risk region
+Ahmedabad,Gujarat,1470,High,Remote or high-distance area
+Hyderabad,Telangana,1391,High,Remote or high-distance area
+Goa,Goa,1230,High,Remote or high-distance area
+Ranchi,Jharkhand,1322,High,Remote or high-distance area
+New Delhi,Delhi,437,Low,Low-risk region
+Jaipur,Rajasthan,420,Low,Low-risk region
+Amritsar,Punjab,1457,High,Remote or high-distance area
+Hyderabad,Telangana,404,Low,Low-risk region
+Manali,Himachal Pradesh,822,Moderate,Moderate travel area
+New Delhi,Delhi,1488,High,Remote or high-distance area
+Lucknow,Uttar Pradesh,593,Moderate,Moderate travel area
+Bhopal,Madhya Pradesh,879,Moderate,Moderate travel area
+Ahmedabad,Gujarat,454,Low,Low-risk region
+Chennai,Tamil Nadu,1288,High,Remote or high-distance area
+Kolkata,West Bengal,162,Low,Low-risk region
+Varanasi,Uttar Pradesh,944,Moderate,Moderate travel area
+New Delhi,Delhi,956,Moderate,Moderate travel area
+Goa,Goa,683,Moderate,Moderate travel area
+Amritsar,Punjab,1301,High,Remote or high-distance area
+Mumbai,Maharashtra,898,Moderate,Moderate travel area
+Chennai,Tamil Nadu,1004,High,Remote or high-distance area
+Dehradun,Uttarakhand,966,Moderate,Moderate travel area
+Patna,Bihar,1337,High,Remote or high-distance area
+Ahmedabad,Gujarat,948,Moderate,Moderate travel area
+Pune,Maharashtra,1300,High,Remote or high-distance area
+Bhopal,Madhya Pradesh,363,Low,Low-risk region
+Thiruvananthapuram,Kerala,1035,High,Remote or high-distance area
+Bhubaneswar,Odisha,563,Moderate,Moderate travel area
+Chandigarh,Chandigarh,964,Moderate,Moderate travel area
+Nagpur,Maharashtra,191,Low,Low-risk region
+Lucknow,Uttar Pradesh,1417,High,Remote or high-distance area
+Ahmedabad,Gujarat,326,Low,Low-risk region
+Amritsar,Punjab,303,Low,Low-risk region
+Jodhpur,Rajasthan,1393,High,Remote or high-distance area
+Bhubaneswar,Odisha,628,Moderate,Moderate travel area
+Bhopal,Madhya Pradesh,424,Low,Low-risk region
+Chandigarh,Chandigarh,1391,High,Remote or high-distance area
+Bhubaneswar,Odisha,1277,High,Remote or high-distance area
+Patna,Bihar,473,Low,Low-risk region
+New Delhi,Delhi,678,Moderate,Moderate travel area
+Jodhpur,Rajasthan,1379,High,Remote or high-distance area
+Mumbai,Maharashtra,1157,High,Remote or high-distance area
+Hyderabad,Telangana,79,Low,Low-risk region
+Varanasi,Uttar Pradesh,145,Low,Low-risk region
+Jaipur,Rajasthan,1280,High,Remote or high-distance area
+Ranchi,Jharkhand,1196,High,Remote or high-distance area
+Pune,Maharashtra,828,Moderate,Moderate travel area
+Kolkata,West Bengal,1369,High,Remote or high-distance area
+Chandigarh,Chandigarh,1471,High,Remote or high-distance area
+Guwahati,Assam,920,Moderate,Moderate travel area
+Indore,Madhya Pradesh,1044,High,Remote or high-distance area
+Indore,Madhya Pradesh,740,Moderate,Moderate travel area
+Kolkata,West Bengal,359,Low,Low-risk region
+Jaipur,Rajasthan,508,Moderate,Moderate travel area
+Lucknow,Uttar Pradesh,1047,High,Remote or high-distance area
+Jodhpur,Rajasthan,1276,High,Remote or high-distance area
+Shimla,Himachal Pradesh,1436,High,Remote or high-distance area
+Pune,Maharashtra,148,Low,Low-risk region
+Chandigarh,Chandigarh,55,Low,Low-risk region
+Varanasi,Uttar Pradesh,469,Low,Low-risk region
+Thiruvananthapuram,Kerala,850,Moderate,Moderate travel area
+Raipur,Chhattisgarh,343,Low,Low-risk region
+Manali,Himachal Pradesh,804,Moderate,Moderate travel area
+Jodhpur,Rajasthan,1211,High,Remote or high-distance area
+Bhubaneswar,Odisha,521,Moderate,Moderate travel area
+Raipur,Chhattisgarh,770,Moderate,Moderate travel area
+Jaipur,Rajasthan,1283,High,Remote or high-distance area
+Hyderabad,Telangana,925,Moderate,Moderate travel area
+Agra,Uttar Pradesh,1392,High,Remote or high-distance area
+Bhopal,Madhya Pradesh,524,Moderate,Moderate travel area
+Jaipur,Rajasthan,529,Moderate,Moderate travel area
+Nagpur,Maharashtra,374,Low,Low-risk region
+New Delhi,Delhi,143,Low,Low-risk region
+Bhopal,Madhya Pradesh,1471,High,Remote or high-distance area
+Jaipur,Rajasthan,1100,High,Remote or high-distance area
+Ranchi,Jharkhand,971,Moderate,Moderate travel area
+Manali,Himachal Pradesh,429,Low,Low-risk region
+Shimla,Himachal Pradesh,1484,High,Remote or high-distance area
+Shimla,Himachal Pradesh,1141,High,Remote or high-distance area
+Indore,Madhya Pradesh,849,Moderate,Moderate travel area
+Bengaluru,Karnataka,173,Low,Low-risk region
+Jodhpur,Rajasthan,122,Low,Low-risk region
+Pune,Maharashtra,1369,High,Remote or high-distance area
+Mumbai,Maharashtra,1429,High,Remote or high-distance area
+Chandigarh,Chandigarh,80,Low,Low-risk region
+Pune,Maharashtra,606,Moderate,Moderate travel area
+Varanasi,Uttar Pradesh,775,Moderate,Moderate travel area
+Lucknow,Uttar Pradesh,111,Low,Low-risk region
+Amritsar,Punjab,259,Low,Low-risk region
+Hyderabad,Telangana,1073,High,Remote or high-distance area
+Chennai,Tamil Nadu,1108,High,Remote or high-distance area
+Lucknow,Uttar Pradesh,148,Low,Low-risk region
+Goa,Goa,308,Low,Low-risk region
+Bhubaneswar,Odisha,91,Low,Low-risk region
+Amritsar,Punjab,421,Low,Low-risk region
+Hyderabad,Telangana,523,Moderate,Moderate travel area
+Raipur,Chhattisgarh,1065,High,Remote or high-distance area
+Bengaluru,Karnataka,607,Moderate,Moderate travel area
+Mumbai,Maharashtra,1308,High,Remote or high-distance area
+Shimla,Himachal Pradesh,544,Moderate,Moderate travel area
+Kolkata,West Bengal,956,Moderate,Moderate travel area
+Pune,Maharashtra,174,Low,Low-risk region
+Patna,Bihar,217,Low,Low-risk region
+Bhopal,Madhya Pradesh,258,Low,Low-risk region
+Pune,Maharashtra,1098,High,Remote or high-distance area
+Ranchi,Jharkhand,101,Low,Low-risk region
+Kolkata,West Bengal,968,Moderate,Moderate travel area
+Amritsar,Punjab,987,Moderate,Moderate travel area
+Raipur,Chhattisgarh,695,Moderate,Moderate travel area
+Visakhapatnam,Andhra Pradesh,1022,High,Remote or high-distance area
+Jodhpur,Rajasthan,1060,High,Remote or high-distance area
+Bhopal,Madhya Pradesh,116,Low,Low-risk region
+Agra,Uttar Pradesh,518,Moderate,Moderate travel area
+Thiruvananthapuram,Kerala,872,Moderate,Moderate travel area
+Bhubaneswar,Odisha,843,Moderate,Moderate travel area
+Chandigarh,Chandigarh,1276,High,Remote or high-distance area
+Mumbai,Maharashtra,170,Low,Low-risk region
+Bhubaneswar,Odisha,389,Low,Low-risk region
+Jodhpur,Rajasthan,792,Moderate,Moderate travel area
+Varanasi,Uttar Pradesh,658,Moderate,Moderate travel area
+Ahmedabad,Gujarat,1180,High,Remote or high-distance area
+Chennai,Tamil Nadu,580,Moderate,Moderate travel area
+Raipur,Chhattisgarh,798,Moderate,Moderate travel area
+New Delhi,Delhi,1122,High,Remote or high-distance area
+Ahmedabad,Gujarat,1469,High,Remote or high-distance area
+Pune,Maharashtra,144,Low,Low-risk region
+Thiruvananthapuram,Kerala,924,Moderate,Moderate travel area
+Hyderabad,Telangana,443,Low,Low-risk region
+Bhopal,Madhya Pradesh,251,Low,Low-risk region
+Kolkata,West Bengal,455,Low,Low-risk region
+Bhopal,Madhya Pradesh,517,Moderate,Moderate travel area
+Ahmedabad,Gujarat,105,Low,Low-risk region
+Ahmedabad,Gujarat,1307,High,Remote or high-distance area
+Agra,Uttar Pradesh,1204,High,Remote or high-distance area
+Bhubaneswar,Odisha,541,Moderate,Moderate travel area
+Bhopal,Madhya Pradesh,831,Moderate,Moderate travel area
+Indore,Madhya Pradesh,1215,High,Remote or high-distance area
+Bengaluru,Karnataka,168,Low,Low-risk region
+Raipur,Chhattisgarh,413,Low,Low-risk region
+Dehradun,Uttarakhand,1176,High,Remote or high-distance area
+Kolkata,West Bengal,751,Moderate,Moderate travel area
+Jodhpur,Rajasthan,1112,High,Remote or high-distance area
+Chandigarh,Chandigarh,1303,High,Remote or high-distance area
+Patna,Bihar,997,Moderate,Moderate travel area
+Surat,Gujarat,971,Moderate,Moderate travel area
+Raipur,Chhattisgarh,388,Low,Low-risk region
+Visakhapatnam,Andhra Pradesh,778,Moderate,Moderate travel area
+Patna,Bihar,1257,High,Remote or high-distance area
+Visakhapatnam,Andhra Pradesh,1473,High,Remote or high-distance area
+Thiruvananthapuram,Kerala,997,Moderate,Moderate travel area
+Bhubaneswar,Odisha,1365,High,Remote or high-distance area
+Jaipur,Rajasthan,693,Moderate,Moderate travel area
+Mumbai,Maharashtra,565,Moderate,Moderate travel area
+Lucknow,Uttar Pradesh,708,Moderate,Moderate travel area
+Chandigarh,Chandigarh,1481,High,Remote or high-distance area
+Varanasi,Uttar Pradesh,609,Moderate,Moderate travel area
+Chennai,Tamil Nadu,358,Low,Low-risk region
+Ahmedabad,Gujarat,901,Moderate,Moderate travel area
+Raipur,Chhattisgarh,895,Moderate,Moderate travel area
+Lucknow,Uttar Pradesh,965,Moderate,Moderate travel area
+Bhubaneswar,Odisha,526,Moderate,Moderate travel area
+Jaipur,Rajasthan,122,Low,Low-risk region
+Visakhapatnam,Andhra Pradesh,663,Moderate,Moderate travel area
+Pune,Maharashtra,478,Low,Low-risk region
+Chennai,Tamil Nadu,553,Moderate,Moderate travel area
+Thiruvananthapuram,Kerala,579,Moderate,Moderate travel area
+New Delhi,Delhi,1134,High,Remote or high-distance area
+Guwahati,Assam,491,Low,Low-risk region
+Bhopal,Madhya Pradesh,760,Moderate,Moderate travel area
+Varanasi,Uttar Pradesh,771,Moderate,Moderate travel area
+Manali,Himachal Pradesh,1251,High,Remote or high-distance area
+Hyderabad,Telangana,225,Low,Low-risk region
+Bhubaneswar,Odisha,1337,High,Remote or high-distance area
+Jaipur,Rajasthan,829,Moderate,Moderate travel area
+Kolkata,West Bengal,1266,High,Remote or high-distance area
+Thiruvananthapuram,Kerala,225,Low,Low-risk region
+Ranchi,Jharkhand,116,Low,Low-risk region
+Bhubaneswar,Odisha,1000,High,Remote or high-distance area
+Shimla,Himachal Pradesh,1450,High,Remote or high-distance area
+Hyderabad,Telangana,643,Moderate,Moderate travel area
+Bhopal,Madhya Pradesh,510,Moderate,Moderate travel area
+Visakhapatnam,Andhra Pradesh,504,Moderate,Moderate travel area
+Patna,Bihar,1399,High,Remote or high-distance area
+Bhubaneswar,Odisha,556,Moderate,Moderate travel area
+Dehradun,Uttarakhand,471,Low,Low-risk region
+Nagpur,Maharashtra,548,Moderate,Moderate travel area
+Shimla,Himachal Pradesh,863,Moderate,Moderate travel area
+Surat,Gujarat,1165,High,Remote or high-distance area
+Bhubaneswar,Odisha,1348,High,Remote or high-distance area
+Manali,Himachal Pradesh,670,Moderate,Moderate travel area
+Ranchi,Jharkhand,972,Moderate,Moderate travel area
+Patna,Bihar,172,Low,Low-risk region
+Shimla,Himachal Pradesh,397,Low,Low-risk region
+Thiruvananthapuram,Kerala,1201,High,Remote or high-distance area
+Jaipur,Rajasthan,349,Low,Low-risk region
+Bengaluru,Karnataka,1322,High,Remote or high-distance area
+Raipur,Chhattisgarh,1191,High,Remote or high-distance area
+Lucknow,Uttar Pradesh,464,Low,Low-risk region
+Pune,Maharashtra,457,Low,Low-risk region
+Ahmedabad,Gujarat,929,Moderate,Moderate travel area
+Patna,Bihar,1002,High,Remote or high-distance area
+Ranchi,Jharkhand,220,Low,Low-risk region
+Chennai,Tamil Nadu,740,Moderate,Moderate travel area
+Indore,Madhya Pradesh,1376,High,Remote or high-distance area
+Mumbai,Maharashtra,307,Low,Low-risk region
+Surat,Gujarat,1165,High,Remote or high-distance area
+Hyderabad,Telangana,971,Moderate,Moderate travel area
+Bhubaneswar,Odisha,952,Moderate,Moderate travel area
+Shimla,Himachal Pradesh,562,Moderate,Moderate travel area
+Jodhpur,Rajasthan,1500,High,Remote or high-distance area
+Bhopal,Madhya Pradesh,247,Low,Low-risk region
+Shimla,Himachal Pradesh,142,Low,Low-risk region
+Hyderabad,Telangana,941,Moderate,Moderate travel area
+Agra,Uttar Pradesh,599,Moderate,Moderate travel area
+Nagpur,Maharashtra,1419,High,Remote or high-distance area
+Pune,Maharashtra,258,Low,Low-risk region
+Patna,Bihar,871,Moderate,Moderate travel area
+Guwahati,Assam,496,Low,Low-risk region
+New Delhi,Delhi,654,Moderate,Moderate travel area
+Thiruvananthapuram,Kerala,428,Low,Low-risk region
+Dehradun,Uttarakhand,779,Moderate,Moderate travel area
+Lucknow,Uttar Pradesh,554,Moderate,Moderate travel area
+Nagpur,Maharashtra,675,Moderate,Moderate travel area
+Guwahati,Assam,117,Low,Low-risk region
+Kolkata,West Bengal,1073,High,Remote or high-distance area
+Lucknow,Uttar Pradesh,105,Low,Low-risk region
+Jaipur,Rajasthan,383,Low,Low-risk region
+Chandigarh,Chandigarh,703,Moderate,Moderate travel area
+Raipur,Chhattisgarh,90,Low,Low-risk region
+Jodhpur,Rajasthan,726,Moderate,Moderate travel area
+Patna,Bihar,643,Moderate,Moderate travel area
+Hyderabad,Telangana,352,Low,Low-risk region
+Mumbai,Maharashtra,1324,High,Remote or high-distance area
+Bhubaneswar,Odisha,1360,High,Remote or high-distance area
+Kolkata,West Bengal,67,Low,Low-risk region
+Dehradun,Uttarakhand,306,Low,Low-risk region
+Surat,Gujarat,449,Low,Low-risk region
+Lucknow,Uttar Pradesh,79,Low,Low-risk region
+Guwahati,Assam,803,Moderate,Moderate travel area
+Jaipur,Rajasthan,119,Low,Low-risk region
+Nagpur,Maharashtra,239,Low,Low-risk region
+Varanasi,Uttar Pradesh,1336,High,Remote or high-distance area
+Varanasi,Uttar Pradesh,389,Low,Low-risk region
+Agra,Uttar Pradesh,843,Moderate,Moderate travel area
+Amritsar,Punjab,1237,High,Remote or high-distance area
+Bhubaneswar,Odisha,1378,High,Remote or high-distance area
+Bhubaneswar,Odisha,819,Moderate,Moderate travel area
+Ranchi,Jharkhand,330,Low,Low-risk region
+Dehradun,Uttarakhand,370,Low,Low-risk region
+Nagpur,Maharashtra,568,Moderate,Moderate travel area
+Bhopal,Madhya Pradesh,1221,High,Remote or high-distance area
+Patna,Bihar,945,Moderate,Moderate travel area
+Indore,Madhya Pradesh,1337,High,Remote or high-distance area
+Thiruvananthapuram,Kerala,1231,High,Remote or high-distance area
+Nagpur,Maharashtra,700,Moderate,Moderate travel area
+Agra,Uttar Pradesh,1418,High,Remote or high-distance area
+Lucknow,Uttar Pradesh,935,Moderate,Moderate travel area
+Goa,Goa,1435,High,Remote or high-distance area
+Dehradun,Uttarakhand,1090,High,Remote or high-distance area
+Guwahati,Assam,805,Moderate,Moderate travel area
+Bhopal,Madhya Pradesh,506,Moderate,Moderate travel area
+Pune,Maharashtra,1368,High,Remote or high-distance area
+New Delhi,Delhi,1291,High,Remote or high-distance area
+Hyderabad,Telangana,592,Moderate,Moderate travel area
+Surat,Gujarat,1296,High,Remote or high-distance area
+Bhubaneswar,Odisha,167,Low,Low-risk region
+Jaipur,Rajasthan,435,Low,Low-risk region
+Mumbai,Maharashtra,1104,High,Remote or high-distance area
+Hyderabad,Telangana,758,Moderate,Moderate travel area
+Ahmedabad,Gujarat,68,Low,Low-risk region
+Visakhapatnam,Andhra Pradesh,738,Moderate,Moderate travel area
+Chennai,Tamil Nadu,1090,High,Remote or high-distance area
+Patna,Bihar,151,Low,Low-risk region
+Manali,Himachal Pradesh,312,Low,Low-risk region
+Ahmedabad,Gujarat,619,Moderate,Moderate travel area
+Hyderabad,Telangana,1487,High,Remote or high-distance area
+Bhopal,Madhya Pradesh,406,Low,Low-risk region
+Bengaluru,Karnataka,673,Moderate,Moderate travel area
+Patna,Bihar,793,Moderate,Moderate travel area
+Bhopal,Madhya Pradesh,1375,High,Remote or high-distance area
+Mumbai,Maharashtra,1067,High,Remote or high-distance area
+Jaipur,Rajasthan,1038,High,Remote or high-distance area
+Dehradun,Uttarakhand,463,Low,Low-risk region
+Lucknow,Uttar Pradesh,618,Moderate,Moderate travel area
+Jodhpur,Rajasthan,1213,High,Remote or high-distance area
+Agra,Uttar Pradesh,1290,High,Remote or high-distance area
+Thiruvananthapuram,Kerala,1117,High,Remote or high-distance area
+Agra,Uttar Pradesh,1428,High,Remote or high-distance area
+Kolkata,West Bengal,478,Low,Low-risk region
+Pune,Maharashtra,1277,High,Remote or high-distance area
+Patna,Bihar,1440,High,Remote or high-distance area
+Kolkata,West Bengal,582,Moderate,Moderate travel area
+Manali,Himachal Pradesh,368,Low,Low-risk region
+Patna,Bihar,809,Moderate,Moderate travel area
+Hyderabad,Telangana,197,Low,Low-risk region
+Nagpur,Maharashtra,197,Low,Low-risk region
+Bhubaneswar,Odisha,1437,High,Remote or high-distance area
+Manali,Himachal Pradesh,609,Moderate,Moderate travel area
+Kolkata,West Bengal,1004,High,Remote or high-distance area
+Amritsar,Punjab,877,Moderate,Moderate travel area
+Goa,Goa,900,Moderate,Moderate travel area
+New Delhi,Delhi,1360,High,Remote or high-distance area
+Nagpur,Maharashtra,305,Low,Low-risk region
+New Delhi,Delhi,227,Low,Low-risk region
+Shimla,Himachal Pradesh,1069,High,Remote or high-distance area
+Chennai,Tamil Nadu,225,Low,Low-risk region
+Shimla,Himachal Pradesh,540,Moderate,Moderate travel area
+Manali,Himachal Pradesh,1212,High,Remote or high-distance area
+Chandigarh,Chandigarh,1039,High,Remote or high-distance area
+New Delhi,Delhi,350,Low,Low-risk region
+Ahmedabad,Gujarat,1121,High,Remote or high-distance area
+Pune,Maharashtra,1401,High,Remote or high-distance area
+Indore,Madhya Pradesh,1023,High,Remote or high-distance area
+Manali,Himachal Pradesh,1411,High,Remote or high-distance area
+Jaipur,Rajasthan,1496,High,Remote or high-distance area
+Amritsar,Punjab,1264,High,Remote or high-distance area
+Shimla,Himachal Pradesh,736,Moderate,Moderate travel area
+Nagpur,Maharashtra,674,Moderate,Moderate travel area
+Visakhapatnam,Andhra Pradesh,176,Low,Low-risk region
+Shimla,Himachal Pradesh,1137,High,Remote or high-distance area
+Dehradun,Uttarakhand,734,Moderate,Moderate travel area
+Indore,Madhya Pradesh,104,Low,Low-risk region
+Mumbai,Maharashtra,1131,High,Remote or high-distance area
+Indore,Madhya Pradesh,985,Moderate,Moderate travel area
+Jodhpur,Rajasthan,833,Moderate,Moderate travel area
+Varanasi,Uttar Pradesh,500,Moderate,Moderate travel area
+Varanasi,Uttar Pradesh,557,Moderate,Moderate travel area
+Shimla,Himachal Pradesh,586,Moderate,Moderate travel area
+Agra,Uttar Pradesh,301,Low,Low-risk region
+Raipur,Chhattisgarh,1047,High,Remote or high-distance area
+Thiruvananthapuram,Kerala,317,Low,Low-risk region
+Varanasi,Uttar Pradesh,664,Moderate,Moderate travel area
+Amritsar,Punjab,854,Moderate,Moderate travel area
+Patna,Bihar,319,Low,Low-risk region
+Varanasi,Uttar Pradesh,1146,High,Remote or high-distance area
+Ahmedabad,Gujarat,260,Low,Low-risk region
+Dehradun,Uttarakhand,1450,High,Remote or high-distance area
+Patna,Bihar,1498,High,Remote or high-distance area
+Bhopal,Madhya Pradesh,1482,High,Remote or high-distance area
+Bhopal,Madhya Pradesh,1195,High,Remote or high-distance area
+Mumbai,Maharashtra,327,Low,Low-risk region
+Surat,Gujarat,1410,High,Remote or high-distance area
+Hyderabad,Telangana,1188,High,Remote or high-distance area
+Bhubaneswar,Odisha,169,Low,Low-risk region
+Lucknow,Uttar Pradesh,111,Low,Low-risk region
+Agra,Uttar Pradesh,659,Moderate,Moderate travel area
+Bhopal,Madhya Pradesh,419,Low,Low-risk region
+Guwahati,Assam,555,Moderate,Moderate travel area
+Ahmedabad,Gujarat,958,Moderate,Moderate travel area
+Pune,Maharashtra,307,Low,Low-risk region
+Guwahati,Assam,908,Moderate,Moderate travel area
+Dehradun,Uttarakhand,1473,High,Remote or high-distance area
+Varanasi,Uttar Pradesh,375,Low,Low-risk region
+Nagpur,Maharashtra,193,Low,Low-risk region
+Mumbai,Maharashtra,716,Moderate,Moderate travel area
+Jaipur,Rajasthan,1434,High,Remote or high-distance area
+Hyderabad,Telangana,1293,High,Remote or high-distance area
+Surat,Gujarat,274,Low,Low-risk region
+Ranchi,Jharkhand,639,Moderate,Moderate travel area
+Kolkata,West Bengal,117,Low,Low-risk region
+Indore,Madhya Pradesh,1070,High,Remote or high-distance area
+Dehradun,Uttarakhand,1376,High,Remote or high-distance area
+Surat,Gujarat,1474,High,Remote or high-distance area
+Guwahati,Assam,147,Low,Low-risk region
+Surat,Gujarat,1347,High,Remote or high-distance area
+Goa,Goa,110,Low,Low-risk region
+Manali,Himachal Pradesh,1157,High,Remote or high-distance area
+Bengaluru,Karnataka,1241,High,Remote or high-distance area
+Raipur,Chhattisgarh,899,Moderate,Moderate travel area
+Shimla,Himachal Pradesh,1223,High,Remote or high-distance area
+Hyderabad,Telangana,249,Low,Low-risk region
+Jodhpur,Rajasthan,446,Low,Low-risk region
+Kolkata,West Bengal,302,Low,Low-risk region
+Patna,Bihar,871,Moderate,Moderate travel area
+Pune,Maharashtra,1007,High,Remote or high-distance area
+Surat,Gujarat,853,Moderate,Moderate travel area
+Chennai,Tamil Nadu,956,Moderate,Moderate travel area
+Bhubaneswar,Odisha,1039,High,Remote or high-distance area
+Thiruvananthapuram,Kerala,1344,High,Remote or high-distance area
+Visakhapatnam,Andhra Pradesh,1144,High,Remote or high-distance area
+Dehradun,Uttarakhand,1001,High,Remote or high-distance area
+Mumbai,Maharashtra,516,Moderate,Moderate travel area
+Ahmedabad,Gujarat,265,Low,Low-risk region
+Indore,Madhya Pradesh,1421,High,Remote or high-distance area
+Bengaluru,Karnataka,743,Moderate,Moderate travel area
+Hyderabad,Telangana,903,Moderate,Moderate travel area
+Varanasi,Uttar Pradesh,249,Low,Low-risk region
+Agra,Uttar Pradesh,1001,High,Remote or high-distance area
+Agra,Uttar Pradesh,1379,High,Remote or high-distance area
+Thiruvananthapuram,Kerala,279,Low,Low-risk region
+Shimla,Himachal Pradesh,901,Moderate,Moderate travel area
+Visakhapatnam,Andhra Pradesh,1268,High,Remote or high-distance area
+Ranchi,Jharkhand,663,Moderate,Moderate travel area
+Chennai,Tamil Nadu,187,Low,Low-risk region
+Chandigarh,Chandigarh,785,Moderate,Moderate travel area
+Bhopal,Madhya Pradesh,480,Low,Low-risk region
+Chandigarh,Chandigarh,1175,High,Remote or high-distance area
+Patna,Bihar,1403,High,Remote or high-distance area
+Varanasi,Uttar Pradesh,381,Low,Low-risk region
+Jodhpur,Rajasthan,689,Moderate,Moderate travel area
+Jodhpur,Rajasthan,350,Low,Low-risk region
+Surat,Gujarat,721,Moderate,Moderate travel area
+Shimla,Himachal Pradesh,400,Low,Low-risk region
+Dehradun,Uttarakhand,1500,High,Remote or high-distance area
+Visakhapatnam,Andhra Pradesh,393,Low,Low-risk region
+Bhubaneswar,Odisha,1481,High,Remote or high-distance area
+Raipur,Chhattisgarh,602,Moderate,Moderate travel area
+Ahmedabad,Gujarat,588,Moderate,Moderate travel area
+Jaipur,Rajasthan,1048,High,Remote or high-distance area
+Shimla,Himachal Pradesh,1428,High,Remote or high-distance area
+Dehradun,Uttarakhand,596,Moderate,Moderate travel area
+Ahmedabad,Gujarat,138,Low,Low-risk region
+Visakhapatnam,Andhra Pradesh,536,Moderate,Moderate travel area
+Ahmedabad,Gujarat,696,Moderate,Moderate travel area
+Dehradun,Uttarakhand,440,Low,Low-risk region
+Chandigarh,Chandigarh,50,Low,Low-risk region
+Hyderabad,Telangana,945,Moderate,Moderate travel area
+Hyderabad,Telangana,928,Moderate,Moderate travel area
+Nagpur,Maharashtra,605,Moderate,Moderate travel area
+Patna,Bihar,890,Moderate,Moderate travel area
+Raipur,Chhattisgarh,1016,High,Remote or high-distance area
+Kolkata,West Bengal,1036,High,Remote or high-distance area
+Hyderabad,Telangana,220,Low,Low-risk region
+Patna,Bihar,98,Low,Low-risk region
+Agra,Uttar Pradesh,1275,High,Remote or high-distance area
+Kolkata,West Bengal,700,Moderate,Moderate travel area
+Chennai,Tamil Nadu,403,Low,Low-risk region
+Jaipur,Rajasthan,417,Low,Low-risk region
+Dehradun,Uttarakhand,646,Moderate,Moderate travel area
+Jodhpur,Rajasthan,755,Moderate,Moderate travel area
+Visakhapatnam,Andhra Pradesh,1410,High,Remote or high-distance area
+Dehradun,Uttarakhand,658,Moderate,Moderate travel area
+Thiruvananthapuram,Kerala,582,Moderate,Moderate travel area
+Bhopal,Madhya Pradesh,109,Low,Low-risk region
+Hyderabad,Telangana,1107,High,Remote or high-distance area
+Thiruvananthapuram,Kerala,1432,High,Remote or high-distance area
+Bhopal,Madhya Pradesh,249,Low,Low-risk region
+Ahmedabad,Gujarat,818,Moderate,Moderate travel area
+Surat,Gujarat,1357,High,Remote or high-distance area
+Chennai,Tamil Nadu,329,Low,Low-risk region
+Surat,Gujarat,1387,High,Remote or high-distance area
+Dehradun,Uttarakhand,248,Low,Low-risk region
+Visakhapatnam,Andhra Pradesh,1342,High,Remote or high-distance area
+Pune,Maharashtra,399,Low,Low-risk region
+Chandigarh,Chandigarh,905,Moderate,Moderate travel area
+Jaipur,Rajasthan,456,Low,Low-risk region
+Surat,Gujarat,1376,High,Remote or high-distance area
+Indore,Madhya Pradesh,882,Moderate,Moderate travel area
+Jodhpur,Rajasthan,898,Moderate,Moderate travel area
+Chennai,Tamil Nadu,977,Moderate,Moderate travel area
+Goa,Goa,1454,High,Remote or high-distance area
+Ranchi,Jharkhand,603,Moderate,Moderate travel area
+Raipur,Chhattisgarh,191,Low,Low-risk region
+Surat,Gujarat,1326,High,Remote or high-distance area
+Ranchi,Jharkhand,691,Moderate,Moderate travel area
+Hyderabad,Telangana,1449,High,Remote or high-distance area
+Mumbai,Maharashtra,391,Low,Low-risk region
+Shimla,Himachal Pradesh,194,Low,Low-risk region
+Pune,Maharashtra,1241,High,Remote or high-distance area
+Indore,Madhya Pradesh,149,Low,Low-risk region
+Bhubaneswar,Odisha,1075,High,Remote or high-distance area
+Shimla,Himachal Pradesh,215,Low,Low-risk region
+Goa,Goa,715,Moderate,Moderate travel area
+Raipur,Chhattisgarh,1464,High,Remote or high-distance area
+Raipur,Chhattisgarh,1437,High,Remote or high-distance area
+Thiruvananthapuram,Kerala,1018,High,Remote or high-distance area
+Goa,Goa,1330,High,Remote or high-distance area
+Chandigarh,Chandigarh,706,Moderate,Moderate travel area
+Goa,Goa,114,Low,Low-risk region
+Indore,Madhya Pradesh,423,Low,Low-risk region
+Amritsar,Punjab,1426,High,Remote or high-distance area
+Indore,Madhya Pradesh,68,Low,Low-risk region
+Lucknow,Uttar Pradesh,455,Low,Low-risk region
+Guwahati,Assam,270,Low,Low-risk region
+Amritsar,Punjab,288,Low,Low-risk region
+Varanasi,Uttar Pradesh,1320,High,Remote or high-distance area
+Agra,Uttar Pradesh,1414,High,Remote or high-distance area
+Bengaluru,Karnataka,257,Low,Low-risk region
+Lucknow,Uttar Pradesh,828,Moderate,Moderate travel area
+Bengaluru,Karnataka,151,Low,Low-risk region
+New Delhi,Delhi,379,Low,Low-risk region
+Ranchi,Jharkhand,1195,High,Remote or high-distance area
+Lucknow,Uttar Pradesh,1478,High,Remote or high-distance area
+Jaipur,Rajasthan,1485,High,Remote or high-distance area
+Chennai,Tamil Nadu,776,Moderate,Moderate travel area
+Visakhapatnam,Andhra Pradesh,967,Moderate,Moderate travel area
+Pune,Maharashtra,1008,High,Remote or high-distance area
+Patna,Bihar,867,Moderate,Moderate travel area
+Pune,Maharashtra,248,Low,Low-risk region
+Mumbai,Maharashtra,142,Low,Low-risk region
+Jaipur,Rajasthan,215,Low,Low-risk region
+Indore,Madhya Pradesh,449,Low,Low-risk region
+Shimla,Himachal Pradesh,1438,High,Remote or high-distance area
+Shimla,Himachal Pradesh,730,Moderate,Moderate travel area
+Amritsar,Punjab,1231,High,Remote or high-distance area
+Amritsar,Punjab,1066,High,Remote or high-distance area
+Ahmedabad,Gujarat,1088,High,Remote or high-distance area
+Manali,Himachal Pradesh,368,Low,Low-risk region
+Varanasi,Uttar Pradesh,271,Low,Low-risk region
+Hyderabad,Telangana,1137,High,Remote or high-distance area
+Visakhapatnam,Andhra Pradesh,931,Moderate,Moderate travel area
+Thiruvananthapuram,Kerala,616,Moderate,Moderate travel area
+Chandigarh,Chandigarh,576,Moderate,Moderate travel area
+Hyderabad,Telangana,243,Low,Low-risk region
+Shimla,Himachal Pradesh,929,Moderate,Moderate travel area
+Indore,Madhya Pradesh,1150,High,Remote or high-distance area
+Goa,Goa,894,Moderate,Moderate travel area
+Jodhpur,Rajasthan,909,Moderate,Moderate travel area
+Manali,Himachal Pradesh,606,Moderate,Moderate travel area
+Jodhpur,Rajasthan,1223,High,Remote or high-distance area
+Bhubaneswar,Odisha,475,Low,Low-risk region
+Nagpur,Maharashtra,545,Moderate,Moderate travel area
+Bhopal,Madhya Pradesh,394,Low,Low-risk region
+Chennai,Tamil Nadu,796,Moderate,Moderate travel area
+Pune,Maharashtra,1145,High,Remote or high-distance area
+Bhubaneswar,Odisha,739,Moderate,Moderate travel area
+Guwahati,Assam,142,Low,Low-risk region
+Bhubaneswar,Odisha,116,Low,Low-risk region
+Indore,Madhya Pradesh,1489,High,Remote or high-distance area
+Bengaluru,Karnataka,1261,High,Remote or high-distance area
+Amritsar,Punjab,1048,High,Remote or high-distance area
+Varanasi,Uttar Pradesh,544,Moderate,Moderate travel area
+Mumbai,Maharashtra,590,Moderate,Moderate travel area
+Goa,Goa,1054,High,Remote or high-distance area
+Chennai,Tamil Nadu,888,Moderate,Moderate travel area
+Surat,Gujarat,586,Moderate,Moderate travel area
+Mumbai,Maharashtra,315,Low,Low-risk region
+Varanasi,Uttar Pradesh,518,Moderate,Moderate travel area
+Shimla,Himachal Pradesh,551,Moderate,Moderate travel area
+Dehradun,Uttarakhand,767,Moderate,Moderate travel area
+Thiruvananthapuram,Kerala,486,Low,Low-risk region
+Patna,Bihar,583,Moderate,Moderate travel area
+Chennai,Tamil Nadu,1331,High,Remote or high-distance area
+Pune,Maharashtra,521,Moderate,Moderate travel area
+Patna,Bihar,971,Moderate,Moderate travel area
+Thiruvananthapuram,Kerala,318,Low,Low-risk region
+Jaipur,Rajasthan,71,Low,Low-risk region
+Raipur,Chhattisgarh,582,Moderate,Moderate travel area
+Jodhpur,Rajasthan,860,Moderate,Moderate travel area
+Bhopal,Madhya Pradesh,1386,High,Remote or high-distance area
+Lucknow,Uttar Pradesh,1202,High,Remote or high-distance area
+Kolkata,West Bengal,329,Low,Low-risk region
+Mumbai,Maharashtra,643,Moderate,Moderate travel area
+Agra,Uttar Pradesh,842,Moderate,Moderate travel area
+Pune,Maharashtra,417,Low,Low-risk region
+Visakhapatnam,Andhra Pradesh,1420,High,Remote or high-distance area
+Chandigarh,Chandigarh,499,Low,Low-risk region
+Ranchi,Jharkhand,383,Low,Low-risk region
+Dehradun,Uttarakhand,1072,High,Remote or high-distance area
+Goa,Goa,1149,High,Remote or high-distance area
+Agra,Uttar Pradesh,974,Moderate,Moderate travel area
+Bhopal,Madhya Pradesh,1348,High,Remote or high-distance area
+Bengaluru,Karnataka,1119,High,Remote or high-distance area
+Visakhapatnam,Andhra Pradesh,839,Moderate,Moderate travel area
+Patna,Bihar,266,Low,Low-risk region
+Chandigarh,Chandigarh,1043,High,Remote or high-distance area
+Thiruvananthapuram,Kerala,444,Low,Low-risk region
+Goa,Goa,326,Low,Low-risk region
+Manali,Himachal Pradesh,325,Low,Low-risk region
+Lucknow,Uttar Pradesh,115,Low,Low-risk region
+Pune,Maharashtra,1099,High,Remote or high-distance area
+Chennai,Tamil Nadu,1324,High,Remote or high-distance area
+Raipur,Chhattisgarh,490,Low,Low-risk region
+Chennai,Tamil Nadu,343,Low,Low-risk region
+Jodhpur,Rajasthan,817,Moderate,Moderate travel area
+Chandigarh,Chandigarh,1400,High,Remote or high-distance area
+Manali,Himachal Pradesh,612,Moderate,Moderate travel area
+Kolkata,West Bengal,1384,High,Remote or high-distance area
+New Delhi,Delhi,623,Moderate,Moderate travel area
+Surat,Gujarat,1261,High,Remote or high-distance area
+Indore,Madhya Pradesh,352,Low,Low-risk region
+Jaipur,Rajasthan,1256,High,Remote or high-distance area
+Raipur,Chhattisgarh,740,Moderate,Moderate travel area
+Thiruvananthapuram,Kerala,1079,High,Remote or high-distance area
+Goa,Goa,1399,High,Remote or high-distance area
+Patna,Bihar,935,Moderate,Moderate travel area
+Bhubaneswar,Odisha,786,Moderate,Moderate travel area
+Chandigarh,Chandigarh,664,Moderate,Moderate travel area
+Bengaluru,Karnataka,818,Moderate,Moderate travel area
+Jodhpur,Rajasthan,931,Moderate,Moderate travel area
+Raipur,Chhattisgarh,1102,High,Remote or high-distance area
+Patna,Bihar,1005,High,Remote or high-distance area
+Varanasi,Uttar Pradesh,1215,High,Remote or high-distance area
+New Delhi,Delhi,997,Moderate,Moderate travel area
+Thiruvananthapuram,Kerala,657,Moderate,Moderate travel area
+Manali,Himachal Pradesh,446,Low,Low-risk region
+Jodhpur,Rajasthan,198,Low,Low-risk region
+Guwahati,Assam,1432,High,Remote or high-distance area
+Patna,Bihar,629,Moderate,Moderate travel area
+Dehradun,Uttarakhand,316,Low,Low-risk region
+Manali,Himachal Pradesh,175,Low,Low-risk region
+Patna,Bihar,403,Low,Low-risk region
+Ranchi,Jharkhand,580,Moderate,Moderate travel area
+Kolkata,West Bengal,1427,High,Remote or high-distance area
+Shimla,Himachal Pradesh,1071,High,Remote or high-distance area
+Goa,Goa,860,Moderate,Moderate travel area
+Varanasi,Uttar Pradesh,707,Moderate,Moderate travel area
+Surat,Gujarat,711,Moderate,Moderate travel area
+Guwahati,Assam,1036,High,Remote or high-distance area
+Pune,Maharashtra,360,Low,Low-risk region
+Kolkata,West Bengal,1426,High,Remote or high-distance area
+Mumbai,Maharashtra,1039,High,Remote or high-distance area
+Mumbai,Maharashtra,184,Low,Low-risk region
+Chandigarh,Chandigarh,1008,High,Remote or high-distance area
+Shimla,Himachal Pradesh,360,Low,Low-risk region
+Agra,Uttar Pradesh,1420,High,Remote or high-distance area
+Manali,Himachal Pradesh,1096,High,Remote or high-distance area
+Surat,Gujarat,484,Low,Low-risk region
+Raipur,Chhattisgarh,259,Low,Low-risk region
+Ranchi,Jharkhand,1269,High,Remote or high-distance area
+Hyderabad,Telangana,1286,High,Remote or high-distance area
+Chandigarh,Chandigarh,613,Moderate,Moderate travel area
+Raipur,Chhattisgarh,996,Moderate,Moderate travel area
+Jodhpur,Rajasthan,196,Low,Low-risk region
+Bengaluru,Karnataka,162,Low,Low-risk region
+Bhopal,Madhya Pradesh,878,Moderate,Moderate travel area
+Indore,Madhya Pradesh,753,Moderate,Moderate travel area
+Thiruvananthapuram,Kerala,446,Low,Low-risk region
+Jaipur,Rajasthan,1124,High,Remote or high-distance area
+Surat,Gujarat,463,Low,Low-risk region
+Raipur,Chhattisgarh,200,Low,Low-risk region
+Patna,Bihar,807,Moderate,Moderate travel area
+Guwahati,Assam,813,Moderate,Moderate travel area
+Surat,Gujarat,1354,High,Remote or high-distance area
+New Delhi,Delhi,760,Moderate,Moderate travel area
+Nagpur,Maharashtra,760,Moderate,Moderate travel area
+Lucknow,Uttar Pradesh,1484,High,Remote or high-distance area
+Lucknow,Uttar Pradesh,301,Low,Low-risk region
+Bhubaneswar,Odisha,969,Moderate,Moderate travel area
+Lucknow,Uttar Pradesh,747,Moderate,Moderate travel area
+Raipur,Chhattisgarh,372,Low,Low-risk region
+Thiruvananthapuram,Kerala,1459,High,Remote or high-distance area
+Ahmedabad,Gujarat,748,Moderate,Moderate travel area
+Bengaluru,Karnataka,1269,High,Remote or high-distance area
+New Delhi,Delhi,129,Low,Low-risk region
+Ranchi,Jharkhand,1036,High,Remote or high-distance area
+Chennai,Tamil Nadu,548,Moderate,Moderate travel area
+Guwahati,Assam,1021,High,Remote or high-distance area
+Chennai,Tamil Nadu,1256,High,Remote or high-distance area
+Guwahati,Assam,783,Moderate,Moderate travel area
+Amritsar,Punjab,981,Moderate,Moderate travel area
+Guwahati,Assam,605,Moderate,Moderate travel area
+Indore,Madhya Pradesh,995,Moderate,Moderate travel area
+Kolkata,West Bengal,172,Low,Low-risk region
+Bhopal,Madhya Pradesh,1093,High,Remote or high-distance area
+Goa,Goa,773,Moderate,Moderate travel area
+Visakhapatnam,Andhra Pradesh,163,Low,Low-risk region
+Raipur,Chhattisgarh,341,Low,Low-risk region
+Nagpur,Maharashtra,103,Low,Low-risk region
+Dehradun,Uttarakhand,1470,High,Remote or high-distance area
+Pune,Maharashtra,1424,High,Remote or high-distance area
+Chennai,Tamil Nadu,1241,High,Remote or high-distance area
+Bengaluru,Karnataka,371,Low,Low-risk region
+Amritsar,Punjab,1199,High,Remote or high-distance area
+Bhopal,Madhya Pradesh,906,Moderate,Moderate travel area
+Patna,Bihar,756,Moderate,Moderate travel area
+Bhubaneswar,Odisha,173,Low,Low-risk region
+Shimla,Himachal Pradesh,1494,High,Remote or high-distance area
+Patna,Bihar,746,Moderate,Moderate travel area
+Agra,Uttar Pradesh,132,Low,Low-risk region
+Dehradun,Uttarakhand,897,Moderate,Moderate travel area
+Kolkata,West Bengal,796,Moderate,Moderate travel area
+Bhubaneswar,Odisha,65,Low,Low-risk region
+Bengaluru,Karnataka,178,Low,Low-risk region
+Chandigarh,Chandigarh,875,Moderate,Moderate travel area
+Varanasi,Uttar Pradesh,965,Moderate,Moderate travel area
+Lucknow,Uttar Pradesh,75,Low,Low-risk region
+Amritsar,Punjab,1210,High,Remote or high-distance area
+Goa,Goa,1341,High,Remote or high-distance area
+Nagpur,Maharashtra,812,Moderate,Moderate travel area
+Varanasi,Uttar Pradesh,1146,High,Remote or high-distance area
+Raipur,Chhattisgarh,931,Moderate,Moderate travel area
+Lucknow,Uttar Pradesh,455,Low,Low-risk region
+Pune,Maharashtra,523,Moderate,Moderate travel area
+Goa,Goa,532,Moderate,Moderate travel area
+Bengaluru,Karnataka,327,Low,Low-risk region
+Hyderabad,Telangana,79,Low,Low-risk region
+Ahmedabad,Gujarat,1382,High,Remote or high-distance area
+Bhopal,Madhya Pradesh,297,Low,Low-risk region
+Indore,Madhya Pradesh,174,Low,Low-risk region
+Chennai,Tamil Nadu,1269,High,Remote or high-distance area
+Raipur,Chhattisgarh,373,Low,Low-risk region
+Goa,Goa,474,Low,Low-risk region
+Shimla,Himachal Pradesh,496,Low,Low-risk region
+Guwahati,Assam,238,Low,Low-risk region
+Agra,Uttar Pradesh,1076,High,Remote or high-distance area
+Bengaluru,Karnataka,1260,High,Remote or high-distance area
+Agra,Uttar Pradesh,1497,High,Remote or high-distance area
+Raipur,Chhattisgarh,264,Low,Low-risk region
+Manali,Himachal Pradesh,269,Low,Low-risk region
+Ranchi,Jharkhand,800,Moderate,Moderate travel area
+Lucknow,Uttar Pradesh,669,Moderate,Moderate travel area
+Goa,Goa,100,Low,Low-risk region
+Guwahati,Assam,768,Moderate,Moderate travel area
+Jodhpur,Rajasthan,290,Low,Low-risk region
+Jaipur,Rajasthan,229,Low,Low-risk region
+Bengaluru,Karnataka,600,Moderate,Moderate travel area
+Varanasi,Uttar Pradesh,1292,High,Remote or high-distance area
+Varanasi,Uttar Pradesh,69,Low,Low-risk region
+Pune,Maharashtra,390,Low,Low-risk region
+Visakhapatnam,Andhra Pradesh,1185,High,Remote or high-distance area
+Kolkata,West Bengal,1403,High,Remote or high-distance area
+Mumbai,Maharashtra,1199,High,Remote or high-distance area
+Mumbai,Maharashtra,386,Low,Low-risk region
+Jaipur,Rajasthan,861,Moderate,Moderate travel area
+Surat,Gujarat,1293,High,Remote or high-distance area
+Thiruvananthapuram,Kerala,1068,High,Remote or high-distance area
+Amritsar,Punjab,483,Low,Low-risk region
+Patna,Bihar,512,Moderate,Moderate travel area
+Raipur,Chhattisgarh,300,Low,Low-risk region
+Guwahati,Assam,918,Moderate,Moderate travel area
+Surat,Gujarat,602,Moderate,Moderate travel area
+Agra,Uttar Pradesh,949,Moderate,Moderate travel area
+Nagpur,Maharashtra,412,Low,Low-risk region
+Patna,Bihar,306,Low,Low-risk region
+Thiruvananthapuram,Kerala,1469,High,Remote or high-distance area
+Surat,Gujarat,1038,High,Remote or high-distance area
+Kolkata,West Bengal,901,Moderate,Moderate travel area
+Agra,Uttar Pradesh,1135,High,Remote or high-distance area
+Thiruvananthapuram,Kerala,538,Moderate,Moderate travel area
+Agra,Uttar Pradesh,1461,High,Remote or high-distance area
+Patna,Bihar,270,Low,Low-risk region
+Visakhapatnam,Andhra Pradesh,1066,High,Remote or high-distance area
+Ahmedabad,Gujarat,429,Low,Low-risk region
+Mumbai,Maharashtra,65,Low,Low-risk region
+Guwahati,Assam,1106,High,Remote or high-distance area
+Amritsar,Punjab,347,Low,Low-risk region
+New Delhi,Delhi,755,Moderate,Moderate travel area
+Shimla,Himachal Pradesh,914,Moderate,Moderate travel area
+Jodhpur,Rajasthan,1217,High,Remote or high-distance area
+Ranchi,Jharkhand,1002,High,Remote or high-distance area
+Goa,Goa,1216,High,Remote or high-distance area
+Chennai,Tamil Nadu,946,Moderate,Moderate travel area
+Mumbai,Maharashtra,1450,High,Remote or high-distance area
+Mumbai,Maharashtra,113,Low,Low-risk region
+Jaipur,Rajasthan,1334,High,Remote or high-distance area
+Shimla,Himachal Pradesh,63,Low,Low-risk region
+Manali,Himachal Pradesh,1208,High,Remote or high-distance area
+Visakhapatnam,Andhra Pradesh,543,Moderate,Moderate travel area
+Bhopal,Madhya Pradesh,1397,High,Remote or high-distance area
+Thiruvananthapuram,Kerala,1010,High,Remote or high-distance area
+Bengaluru,Karnataka,1039,High,Remote or high-distance area
+Patna,Bihar,273,Low,Low-risk region
+Chandigarh,Chandigarh,1031,High,Remote or high-distance area
+Bengaluru,Karnataka,876,Moderate,Moderate travel area
+Ahmedabad,Gujarat,1342,High,Remote or high-distance area
+Nagpur,Maharashtra,563,Moderate,Moderate travel area
+Nagpur,Maharashtra,290,Low,Low-risk region
+Amritsar,Punjab,380,Low,Low-risk region
+Ahmedabad,Gujarat,1383,High,Remote or high-distance area
+Goa,Goa,1455,High,Remote or high-distance area
+Goa,Goa,1340,High,Remote or high-distance area
+Agra,Uttar Pradesh,417,Low,Low-risk region
+Hyderabad,Telangana,798,Moderate,Moderate travel area
+Visakhapatnam,Andhra Pradesh,773,Moderate,Moderate travel area
+New Delhi,Delhi,1045,High,Remote or high-distance area
+Chandigarh,Chandigarh,702,Moderate,Moderate travel area
+Mumbai,Maharashtra,1450,High,Remote or high-distance area
+Shimla,Himachal Pradesh,699,Moderate,Moderate travel area
+Patna,Bihar,436,Low,Low-risk region
+Patna,Bihar,502,Moderate,Moderate travel area
+Manali,Himachal Pradesh,53,Low,Low-risk region
+Ranchi,Jharkhand,821,Moderate,Moderate travel area
+Pune,Maharashtra,811,Moderate,Moderate travel area
+Varanasi,Uttar Pradesh,950,Moderate,Moderate travel area
+Indore,Madhya Pradesh,1210,High,Remote or high-distance area
+Guwahati,Assam,1378,High,Remote or high-distance area
+Amritsar,Punjab,289,Low,Low-risk region
+Jaipur,Rajasthan,688,Moderate,Moderate travel area
+Ranchi,Jharkhand,563,Moderate,Moderate travel area
+Lucknow,Uttar Pradesh,733,Moderate,Moderate travel area
+Nagpur,Maharashtra,280,Low,Low-risk region
+Kolkata,West Bengal,819,Moderate,Moderate travel area
+Chennai,Tamil Nadu,588,Moderate,Moderate travel area
+Pune,Maharashtra,200,Low,Low-risk region
+Thiruvananthapuram,Kerala,393,Low,Low-risk region
+Shimla,Himachal Pradesh,619,Moderate,Moderate travel area
+Pune,Maharashtra,1493,High,Remote or high-distance area
+Surat,Gujarat,587,Moderate,Moderate travel area
+Jodhpur,Rajasthan,704,Moderate,Moderate travel area
+Bhopal,Madhya Pradesh,1233,High,Remote or high-distance area
+Lucknow,Uttar Pradesh,1429,High,Remote or high-distance area
+Manali,Himachal Pradesh,437,Low,Low-risk region
+Varanasi,Uttar Pradesh,958,Moderate,Moderate travel area
+Bhubaneswar,Odisha,177,Low,Low-risk region
+Varanasi,Uttar Pradesh,431,Low,Low-risk region
+Manali,Himachal Pradesh,403,Low,Low-risk region
+Chandigarh,Chandigarh,433,Low,Low-risk region
+Bhopal,Madhya Pradesh,539,Moderate,Moderate travel area
+Mumbai,Maharashtra,502,Moderate,Moderate travel area
+Bhopal,Madhya Pradesh,1192,High,Remote or high-distance area
+Dehradun,Uttarakhand,1140,High,Remote or high-distance area
+Agra,Uttar Pradesh,1430,High,Remote or high-distance area
+Jodhpur,Rajasthan,1323,High,Remote or high-distance area
+Indore,Madhya Pradesh,180,Low,Low-risk region
+Chandigarh,Chandigarh,347,Low,Low-risk region
+Chennai,Tamil Nadu,326,Low,Low-risk region
+Goa,Goa,1348,High,Remote or high-distance area
+Surat,Gujarat,1231,High,Remote or high-distance area
+Dehradun,Uttarakhand,1156,High,Remote or high-distance area
+Patna,Bihar,556,Moderate,Moderate travel area
+Pune,Maharashtra,1167,High,Remote or high-distance area
+Jaipur,Rajasthan,931,Moderate,Moderate travel area
+Dehradun,Uttarakhand,1187,High,Remote or high-distance area
+Surat,Gujarat,1130,High,Remote or high-distance area
+Hyderabad,Telangana,713,Moderate,Moderate travel area
+Surat,Gujarat,725,Moderate,Moderate travel area
+Bhubaneswar,Odisha,290,Low,Low-risk region
+Chandigarh,Chandigarh,1458,High,Remote or high-distance area
+Kolkata,West Bengal,586,Moderate,Moderate travel area
+Patna,Bihar,94,Low,Low-risk region
+Hyderabad,Telangana,1200,High,Remote or high-distance area
+Mumbai,Maharashtra,724,Moderate,Moderate travel area
+Amritsar,Punjab,175,Low,Low-risk region
+Pune,Maharashtra,759,Moderate,Moderate travel area
+Amritsar,Punjab,808,Moderate,Moderate travel area
+Jaipur,Rajasthan,578,Moderate,Moderate travel area
+Pune,Maharashtra,1482,High,Remote or high-distance area
+Shimla,Himachal Pradesh,1271,High,Remote or high-distance area
+Goa,Goa,322,Low,Low-risk region
+Surat,Gujarat,768,Moderate,Moderate travel area
+Surat,Gujarat,711,Moderate,Moderate travel area
+Raipur,Chhattisgarh,403,Low,Low-risk region
+Visakhapatnam,Andhra Pradesh,1493,High,Remote or high-distance area
+Indore,Madhya Pradesh,1178,High,Remote or high-distance area
+Bhopal,Madhya Pradesh,972,Moderate,Moderate travel area
+Raipur,Chhattisgarh,507,Moderate,Moderate travel area
+Manali,Himachal Pradesh,631,Moderate,Moderate travel area
+Shimla,Himachal Pradesh,412,Low,Low-risk region
+Bengaluru,Karnataka,334,Low,Low-risk region
+Ranchi,Jharkhand,729,Moderate,Moderate travel area
+Jodhpur,Rajasthan,98,Low,Low-risk region
+Surat,Gujarat,242,Low,Low-risk region
+Lucknow,Uttar Pradesh,1354,High,Remote or high-distance area
+Pune,Maharashtra,1041,High,Remote or high-distance area
+Chandigarh,Chandigarh,1387,High,Remote or high-distance area
+Patna,Bihar,653,Moderate,Moderate travel area
+Hyderabad,Telangana,1413,High,Remote or high-distance area
+Jodhpur,Rajasthan,1383,High,Remote or high-distance area
+Amritsar,Punjab,855,Moderate,Moderate travel area
+Varanasi,Uttar Pradesh,931,Moderate,Moderate travel area
+Raipur,Chhattisgarh,1408,High,Remote or high-distance area
+Agra,Uttar Pradesh,1089,High,Remote or high-distance area
+Goa,Goa,332,Low,Low-risk region
+Manali,Himachal Pradesh,558,Moderate,Moderate travel area
+Pune,Maharashtra,78,Low,Low-risk region
+Amritsar,Punjab,962,Moderate,Moderate travel area
+Agra,Uttar Pradesh,306,Low,Low-risk region
+Dehradun,Uttarakhand,1377,High,Remote or high-distance area
+Ahmedabad,Gujarat,924,Moderate,Moderate travel area
+Agra,Uttar Pradesh,795,Moderate,Moderate travel area
+Mumbai,Maharashtra,834,Moderate,Moderate travel area
+Raipur,Chhattisgarh,493,Low,Low-risk region
+Varanasi,Uttar Pradesh,1275,High,Remote or high-distance area
+Varanasi,Uttar Pradesh,640,Moderate,Moderate travel area
+Raipur,Chhattisgarh,146,Low,Low-risk region
+Patna,Bihar,519,Moderate,Moderate travel area
+Amritsar,Punjab,668,Moderate,Moderate travel area
+Dehradun,Uttarakhand,51,Low,Low-risk region
+Raipur,Chhattisgarh,839,Moderate,Moderate travel area
+Surat,Gujarat,411,Low,Low-risk region
+Indore,Madhya Pradesh,1175,High,Remote or high-distance area
+Hyderabad,Telangana,890,Moderate,Moderate travel area
+Pune,Maharashtra,1327,High,Remote or high-distance area
+Agra,Uttar Pradesh,1237,High,Remote or high-distance area
+Guwahati,Assam,979,Moderate,Moderate travel area
+Ahmedabad,Gujarat,286,Low,Low-risk region
+Visakhapatnam,Andhra Pradesh,546,Moderate,Moderate travel area
+Dehradun,Uttarakhand,1265,High,Remote or high-distance area
+Patna,Bihar,1006,High,Remote or high-distance area
+Manali,Himachal Pradesh,1093,High,Remote or high-distance area
+Jaipur,Rajasthan,796,Moderate,Moderate travel area
+Bhopal,Madhya Pradesh,600,Moderate,Moderate travel area
+Bengaluru,Karnataka,503,Moderate,Moderate travel area
+Surat,Gujarat,196,Low,Low-risk region
+Dehradun,Uttarakhand,902,Moderate,Moderate travel area
+Thiruvananthapuram,Kerala,277,Low,Low-risk region
+Surat,Gujarat,777,Moderate,Moderate travel area
+Thiruvananthapuram,Kerala,1278,High,Remote or high-distance area
+Patna,Bihar,1043,High,Remote or high-distance area
+Ahmedabad,Gujarat,210,Low,Low-risk region
+Chandigarh,Chandigarh,1148,High,Remote or high-distance area
+Patna,Bihar,1371,High,Remote or high-distance area
+Chandigarh,Chandigarh,901,Moderate,Moderate travel area
+Bengaluru,Karnataka,842,Moderate,Moderate travel area
+Dehradun,Uttarakhand,1038,High,Remote or high-distance area
+Indore,Madhya Pradesh,53,Low,Low-risk region
+Amritsar,Punjab,774,Moderate,Moderate travel area
+Indore,Madhya Pradesh,416,Low,Low-risk region
+Surat,Gujarat,1487,High,Remote or high-distance area
+Jodhpur,Rajasthan,331,Low,Low-risk region
+Nagpur,Maharashtra,592,Moderate,Moderate travel area
+Raipur,Chhattisgarh,398,Low,Low-risk region
+Jodhpur,Rajasthan,381,Low,Low-risk region
+Agra,Uttar Pradesh,130,Low,Low-risk region
+Bhubaneswar,Odisha,625,Moderate,Moderate travel area
+Varanasi,Uttar Pradesh,1175,High,Remote or high-distance area
+Goa,Goa,182,Low,Low-risk region
+New Delhi,Delhi,223,Low,Low-risk region
+Ahmedabad,Gujarat,1400,High,Remote or high-distance area
+Varanasi,Uttar Pradesh,1341,High,Remote or high-distance area
+Mumbai,Maharashtra,671,Moderate,Moderate travel area
+Varanasi,Uttar Pradesh,1275,High,Remote or high-distance area
+Varanasi,Uttar Pradesh,64,Low,Low-risk region
+Bhopal,Madhya Pradesh,636,Moderate,Moderate travel area
+Lucknow,Uttar Pradesh,948,Moderate,Moderate travel area
+Manali,Himachal Pradesh,1250,High,Remote or high-distance area
+Jaipur,Rajasthan,190,Low,Low-risk region
+Raipur,Chhattisgarh,1481,High,Remote or high-distance area
+Lucknow,Uttar Pradesh,808,Moderate,Moderate travel area
+Ranchi,Jharkhand,1136,High,Remote or high-distance area
+Pune,Maharashtra,947,Moderate,Moderate travel area
+Shimla,Himachal Pradesh,1257,High,Remote or high-distance area
+Raipur,Chhattisgarh,805,Moderate,Moderate travel area
+Bengaluru,Karnataka,1442,High,Remote or high-distance area
+Lucknow,Uttar Pradesh,382,Low,Low-risk region
+Jaipur,Rajasthan,806,Moderate,Moderate travel area
+Hyderabad,Telangana,117,Low,Low-risk region
+Mumbai,Maharashtra,220,Low,Low-risk region
+Thiruvananthapuram,Kerala,926,Moderate,Moderate travel area
+New Delhi,Delhi,159,Low,Low-risk region
+Jodhpur,Rajasthan,249,Low,Low-risk region
+Varanasi,Uttar Pradesh,768,Moderate,Moderate travel area
+Nagpur,Maharashtra,816,Moderate,Moderate travel area
+Dehradun,Uttarakhand,1169,High,Remote or high-distance area
+Ahmedabad,Gujarat,122,Low,Low-risk region
+Shimla,Himachal Pradesh,1208,High,Remote or high-distance area
+Agra,Uttar Pradesh,1137,High,Remote or high-distance area
+Varanasi,Uttar Pradesh,1257,High,Remote or high-distance area
+Raipur,Chhattisgarh,513,Moderate,Moderate travel area
+Jodhpur,Rajasthan,1290,High,Remote or high-distance area
+Lucknow,Uttar Pradesh,551,Moderate,Moderate travel area
+Guwahati,Assam,632,Moderate,Moderate travel area
+Agra,Uttar Pradesh,705,Moderate,Moderate travel area
+Raipur,Chhattisgarh,925,Moderate,Moderate travel area
+Agra,Uttar Pradesh,427,Low,Low-risk region
+Jaipur,Rajasthan,709,Moderate,Moderate travel area
+Manali,Himachal Pradesh,116,Low,Low-risk region
+Lucknow,Uttar Pradesh,1096,High,Remote or high-distance area
+Jaipur,Rajasthan,707,Moderate,Moderate travel area
+Guwahati,Assam,984,Moderate,Moderate travel area
+Manali,Himachal Pradesh,397,Low,Low-risk region
+Pune,Maharashtra,846,Moderate,Moderate travel area
+Hyderabad,Telangana,1081,High,Remote or high-distance area
+Mumbai,Maharashtra,693,Moderate,Moderate travel area
+Mumbai,Maharashtra,1415,High,Remote or high-distance area
+Ranchi,Jharkhand,1231,High,Remote or high-distance area
+Ahmedabad,Gujarat,301,Low,Low-risk region
+Bhopal,Madhya Pradesh,783,Moderate,Moderate travel area
+Varanasi,Uttar Pradesh,628,Moderate,Moderate travel area
+Chennai,Tamil Nadu,534,Moderate,Moderate travel area
+Lucknow,Uttar Pradesh,202,Low,Low-risk region
+Mumbai,Maharashtra,1037,High,Remote or high-distance area
+Chandigarh,Chandigarh,799,Moderate,Moderate travel area
+Pune,Maharashtra,939,Moderate,Moderate travel area
+Hyderabad,Telangana,1307,High,Remote or high-distance area
+Kolkata,West Bengal,729,Moderate,Moderate travel area
+Bengaluru,Karnataka,113,Low,Low-risk region
+Lucknow,Uttar Pradesh,700,Moderate,Moderate travel area
+Chennai,Tamil Nadu,1406,High,Remote or high-distance area
+Varanasi,Uttar Pradesh,1125,High,Remote or high-distance area
+Kolkata,West Bengal,1193,High,Remote or high-distance area
+Bengaluru,Karnataka,946,Moderate,Moderate travel area
+Amritsar,Punjab,608,Moderate,Moderate travel area
+Goa,Goa,647,Moderate,Moderate travel area
+Hyderabad,Telangana,1392,High,Remote or high-distance area
+Manali,Himachal Pradesh,98,Low,Low-risk region
+Nagpur,Maharashtra,1315,High,Remote or high-distance area
+Bengaluru,Karnataka,667,Moderate,Moderate travel area
+Manali,Himachal Pradesh,572,Moderate,Moderate travel area
+Ranchi,Jharkhand,1114,High,Remote or high-distance area
+New Delhi,Delhi,1330,High,Remote or high-distance area
+Jaipur,Rajasthan,517,Moderate,Moderate travel area
+Kolkata,West Bengal,1054,High,Remote or high-distance area
+Nagpur,Maharashtra,1451,High,Remote or high-distance area
+Dehradun,Uttarakhand,74,Low,Low-risk region
+Shimla,Himachal Pradesh,588,Moderate,Moderate travel area
+Pune,Maharashtra,827,Moderate,Moderate travel area
+Ahmedabad,Gujarat,274,Low,Low-risk region
+Ahmedabad,Gujarat,529,Moderate,Moderate travel area
+Visakhapatnam,Andhra Pradesh,1190,High,Remote or high-distance area
+Patna,Bihar,463,Low,Low-risk region
+New Delhi,Delhi,1254,High,Remote or high-distance area
+Patna,Bihar,134,Low,Low-risk region
+Raipur,Chhattisgarh,752,Moderate,Moderate travel area
+Chandigarh,Chandigarh,540,Moderate,Moderate travel area
+Shimla,Himachal Pradesh,1496,High,Remote or high-distance area
+New Delhi,Delhi,1325,High,Remote or high-distance area
+Dehradun,Uttarakhand,721,Moderate,Moderate travel area
+Shimla,Himachal Pradesh,957,Moderate,Moderate travel area
+Chandigarh,Chandigarh,313,Low,Low-risk region
+Mumbai,Maharashtra,1480,High,Remote or high-distance area
+Raipur,Chhattisgarh,448,Low,Low-risk region
+Bengaluru,Karnataka,217,Low,Low-risk region
+New Delhi,Delhi,423,Low,Low-risk region
+Amritsar,Punjab,823,Moderate,Moderate travel area
+Lucknow,Uttar Pradesh,318,Low,Low-risk region
+Bengaluru,Karnataka,842,Moderate,Moderate travel area
+New Delhi,Delhi,1013,High,Remote or high-distance area
+Dehradun,Uttarakhand,642,Moderate,Moderate travel area
+Bhopal,Madhya Pradesh,979,Moderate,Moderate travel area
+Pune,Maharashtra,1370,High,Remote or high-distance area
+Thiruvananthapuram,Kerala,993,Moderate,Moderate travel area
+Visakhapatnam,Andhra Pradesh,910,Moderate,Moderate travel area
+Dehradun,Uttarakhand,1486,High,Remote or high-distance area
+Patna,Bihar,1264,High,Remote or high-distance area
+Bengaluru,Karnataka,755,Moderate,Moderate travel area
+Visakhapatnam,Andhra Pradesh,1060,High,Remote or high-distance area
+Bengaluru,Karnataka,981,Moderate,Moderate travel area
+Guwahati,Assam,1413,High,Remote or high-distance area
+Lucknow,Uttar Pradesh,1093,High,Remote or high-distance area
+Nagpur,Maharashtra,634,Moderate,Moderate travel area
+Guwahati,Assam,131,Low,Low-risk region
+Varanasi,Uttar Pradesh,1346,High,Remote or high-distance area
+Ranchi,Jharkhand,611,Moderate,Moderate travel area
+New Delhi,Delhi,309,Low,Low-risk region
+Dehradun,Uttarakhand,418,Low,Low-risk region
+Pune,Maharashtra,1100,High,Remote or high-distance area
+Amritsar,Punjab,255,Low,Low-risk region
+Kolkata,West Bengal,1054,High,Remote or high-distance area
+New Delhi,Delhi,1237,High,Remote or high-distance area
+Raipur,Chhattisgarh,111,Low,Low-risk region
+Bhopal,Madhya Pradesh,834,Moderate,Moderate travel area
+Manali,Himachal Pradesh,467,Low,Low-risk region
+Patna,Bihar,1490,High,Remote or high-distance area
+Dehradun,Uttarakhand,1365,High,Remote or high-distance area
+Chandigarh,Chandigarh,178,Low,Low-risk region
+Agra,Uttar Pradesh,839,Moderate,Moderate travel area
+Kolkata,West Bengal,1422,High,Remote or high-distance area
+Lucknow,Uttar Pradesh,1072,High,Remote or high-distance area
+Varanasi,Uttar Pradesh,789,Moderate,Moderate travel area
+Amritsar,Punjab,555,Moderate,Moderate travel area
+Pune,Maharashtra,111,Low,Low-risk region
+Visakhapatnam,Andhra Pradesh,225,Low,Low-risk region
+Varanasi,Uttar Pradesh,174,Low,Low-risk region
+Chandigarh,Chandigarh,1257,High,Remote or high-distance area
+Patna,Bihar,1410,High,Remote or high-distance area
+Thiruvananthapuram,Kerala,978,Moderate,Moderate travel area
+Jaipur,Rajasthan,908,Moderate,Moderate travel area
+Hyderabad,Telangana,131,Low,Low-risk region
+Raipur,Chhattisgarh,1328,High,Remote or high-distance area
+Raipur,Chhattisgarh,823,Moderate,Moderate travel area
+Surat,Gujarat,1494,High,Remote or high-distance area
+Manali,Himachal Pradesh,1041,High,Remote or high-distance area
+Indore,Madhya Pradesh,1065,High,Remote or high-distance area
+Bhopal,Madhya Pradesh,492,Low,Low-risk region
+Guwahati,Assam,1014,High,Remote or high-distance area
+Jodhpur,Rajasthan,1012,High,Remote or high-distance area
+Raipur,Chhattisgarh,1182,High,Remote or high-distance area
+Ranchi,Jharkhand,1415,High,Remote or high-distance area
+Raipur,Chhattisgarh,1452,High,Remote or high-distance area
+Indore,Madhya Pradesh,636,Moderate,Moderate travel area
+Patna,Bihar,831,Moderate,Moderate travel area
+Kolkata,West Bengal,1335,High,Remote or high-distance area
+Bhopal,Madhya Pradesh,559,Moderate,Moderate travel area
+Amritsar,Punjab,616,Moderate,Moderate travel area
+Guwahati,Assam,996,Moderate,Moderate travel area
+Ahmedabad,Gujarat,479,Low,Low-risk region
+Pune,Maharashtra,1366,High,Remote or high-distance area
+Bengaluru,Karnataka,1235,High,Remote or high-distance area
+Bhubaneswar,Odisha,1057,High,Remote or high-distance area
+Ranchi,Jharkhand,1163,High,Remote or high-distance area
+Agra,Uttar Pradesh,934,Moderate,Moderate travel area
+Chandigarh,Chandigarh,362,Low,Low-risk region
+Lucknow,Uttar Pradesh,394,Low,Low-risk region
+Pune,Maharashtra,1224,High,Remote or high-distance area
+Bengaluru,Karnataka,295,Low,Low-risk region
+Visakhapatnam,Andhra Pradesh,639,Moderate,Moderate travel area
+Guwahati,Assam,936,Moderate,Moderate travel area
+Varanasi,Uttar Pradesh,1450,High,Remote or high-distance area
+Raipur,Chhattisgarh,1330,High,Remote or high-distance area
+Goa,Goa,1035,High,Remote or high-distance area
+Raipur,Chhattisgarh,1115,High,Remote or high-distance area
+Manali,Himachal Pradesh,620,Moderate,Moderate travel area
+Thiruvananthapuram,Kerala,94,Low,Low-risk region
+Visakhapatnam,Andhra Pradesh,647,Moderate,Moderate travel area
+Surat,Gujarat,402,Low,Low-risk region
+Dehradun,Uttarakhand,609,Moderate,Moderate travel area
+Bhopal,Madhya Pradesh,1189,High,Remote or high-distance area
+Indore,Madhya Pradesh,88,Low,Low-risk region
+Visakhapatnam,Andhra Pradesh,714,Moderate,Moderate travel area
+Surat,Gujarat,609,Moderate,Moderate travel area
+Patna,Bihar,1408,High,Remote or high-distance area
+Raipur,Chhattisgarh,352,Low,Low-risk region
+Ahmedabad,Gujarat,749,Moderate,Moderate travel area
+Mumbai,Maharashtra,69,Low,Low-risk region
+Patna,Bihar,1370,High,Remote or high-distance area
+Mumbai,Maharashtra,74,Low,Low-risk region
+Visakhapatnam,Andhra Pradesh,1254,High,Remote or high-distance area
+Guwahati,Assam,1446,High,Remote or high-distance area
+New Delhi,Delhi,787,Moderate,Moderate travel area
+Bhopal,Madhya Pradesh,704,Moderate,Moderate travel area
+Bengaluru,Karnataka,133,Low,Low-risk region
+Bhopal,Madhya Pradesh,1364,High,Remote or high-distance area
+Ahmedabad,Gujarat,129,Low,Low-risk region
+Surat,Gujarat,890,Moderate,Moderate travel area
+Ahmedabad,Gujarat,863,Moderate,Moderate travel area
+Bengaluru,Karnataka,653,Moderate,Moderate travel area
+Surat,Gujarat,83,Low,Low-risk region
+Jaipur,Rajasthan,587,Moderate,Moderate travel area
+Patna,Bihar,1168,High,Remote or high-distance area
+Mumbai,Maharashtra,545,Moderate,Moderate travel area
+Agra,Uttar Pradesh,361,Low,Low-risk region
+Raipur,Chhattisgarh,1447,High,Remote or high-distance area
+New Delhi,Delhi,1153,High,Remote or high-distance area
+Goa,Goa,531,Moderate,Moderate travel area
+Ranchi,Jharkhand,1216,High,Remote or high-distance area
+Jaipur,Rajasthan,1246,High,Remote or high-distance area
+Bengaluru,Karnataka,528,Moderate,Moderate travel area
+Lucknow,Uttar Pradesh,434,Low,Low-risk region
+Ahmedabad,Gujarat,925,Moderate,Moderate travel area
+Ranchi,Jharkhand,351,Low,Low-risk region
+Varanasi,Uttar Pradesh,990,Moderate,Moderate travel area
+Visakhapatnam,Andhra Pradesh,819,Moderate,Moderate travel area
+Chennai,Tamil Nadu,905,Moderate,Moderate travel area
+Shimla,Himachal Pradesh,1205,High,Remote or high-distance area
+Hyderabad,Telangana,677,Moderate,Moderate travel area
+Guwahati,Assam,329,Low,Low-risk region
+Ahmedabad,Gujarat,1448,High,Remote or high-distance area
+Lucknow,Uttar Pradesh,524,Moderate,Moderate travel area
+Indore,Madhya Pradesh,1128,High,Remote or high-distance area
+Kolkata,West Bengal,609,Moderate,Moderate travel area
+Chandigarh,Chandigarh,585,Moderate,Moderate travel area
+Ranchi,Jharkhand,1412,High,Remote or high-distance area
+Bhubaneswar,Odisha,879,Moderate,Moderate travel area
+Chennai,Tamil Nadu,1171,High,Remote or high-distance area
+Dehradun,Uttarakhand,191,Low,Low-risk region
+Patna,Bihar,302,Low,Low-risk region
+Agra,Uttar Pradesh,1011,High,Remote or high-distance area
+Manali,Himachal Pradesh,952,Moderate,Moderate travel area
+Chandigarh,Chandigarh,728,Moderate,Moderate travel area
+Chennai,Tamil Nadu,1155,High,Remote or high-distance area
+Goa,Goa,205,Low,Low-risk region
+Thiruvananthapuram,Kerala,1378,High,Remote or high-distance area
+Kolkata,West Bengal,826,Moderate,Moderate travel area
+Amritsar,Punjab,140,Low,Low-risk region
+Kolkata,West Bengal,1441,High,Remote or high-distance area
+Varanasi,Uttar Pradesh,877,Moderate,Moderate travel area
+Agra,Uttar Pradesh,1283,High,Remote or high-distance area
+New Delhi,Delhi,1364,High,Remote or high-distance area
+Lucknow,Uttar Pradesh,154,Low,Low-risk region
+Manali,Himachal Pradesh,112,Low,Low-risk region
+Goa,Goa,392,Low,Low-risk region
+Lucknow,Uttar Pradesh,196,Low,Low-risk region
+Pune,Maharashtra,133,Low,Low-risk region
+Guwahati,Assam,669,Moderate,Moderate travel area
+Chennai,Tamil Nadu,1005,High,Remote or high-distance area
+Jodhpur,Rajasthan,1478,High,Remote or high-distance area
+Pune,Maharashtra,641,Moderate,Moderate travel area
+Mumbai,Maharashtra,545,Moderate,Moderate travel area
+Amritsar,Punjab,515,Moderate,Moderate travel area
+Goa,Goa,383,Low,Low-risk region
+Dehradun,Uttarakhand,632,Moderate,Moderate travel area
+Amritsar,Punjab,1435,High,Remote or high-distance area
+Raipur,Chhattisgarh,615,Moderate,Moderate travel area
+Bhopal,Madhya Pradesh,1469,High,Remote or high-distance area
+Dehradun,Uttarakhand,885,Moderate,Moderate travel area
+Shimla,Himachal Pradesh,406,Low,Low-risk region
+Goa,Goa,697,Moderate,Moderate travel area
+Varanasi,Uttar Pradesh,79,Low,Low-risk region
+Bengaluru,Karnataka,1346,High,Remote or high-distance area
+Jodhpur,Rajasthan,1166,High,Remote or high-distance area
+Manali,Himachal Pradesh,363,Low,Low-risk region
+Ranchi,Jharkhand,1431,High,Remote or high-distance area
+Ahmedabad,Gujarat,1204,High,Remote or high-distance area
+Agra,Uttar Pradesh,54,Low,Low-risk region
+New Delhi,Delhi,1042,High,Remote or high-distance area
+Kolkata,West Bengal,1408,High,Remote or high-distance area
+Visakhapatnam,Andhra Pradesh,908,Moderate,Moderate travel area
+Patna,Bihar,1372,High,Remote or high-distance area
+Bhopal,Madhya Pradesh,223,Low,Low-risk region
+Bengaluru,Karnataka,356,Low,Low-risk region
+Chennai,Tamil Nadu,572,Moderate,Moderate travel area
+Patna,Bihar,1366,High,Remote or high-distance area
+Patna,Bihar,1254,High,Remote or high-distance area
+Jaipur,Rajasthan,1230,High,Remote or high-distance area
+Kolkata,West Bengal,853,Moderate,Moderate travel area
+Bhopal,Madhya Pradesh,1330,High,Remote or high-distance area
+Indore,Madhya Pradesh,734,Moderate,Moderate travel area
+Chennai,Tamil Nadu,317,Low,Low-risk region
+Amritsar,Punjab,1188,High,Remote or high-distance area
+Jodhpur,Rajasthan,1456,High,Remote or high-distance area
+Goa,Goa,696,Moderate,Moderate travel area
+Surat,Gujarat,1292,High,Remote or high-distance area
+Chennai,Tamil Nadu,63,Low,Low-risk region
+Ahmedabad,Gujarat,1397,High,Remote or high-distance area
+Chandigarh,Chandigarh,496,Low,Low-risk region
+Kolkata,West Bengal,846,Moderate,Moderate travel area
+Mumbai,Maharashtra,371,Low,Low-risk region
+New Delhi,Delhi,418,Low,Low-risk region
+Dehradun,Uttarakhand,1009,High,Remote or high-distance area
+Patna,Bihar,1331,High,Remote or high-distance area
+Manali,Himachal Pradesh,836,Moderate,Moderate travel area
+New Delhi,Delhi,127,Low,Low-risk region
+Manali,Himachal Pradesh,701,Moderate,Moderate travel area
+Shimla,Himachal Pradesh,631,Moderate,Moderate travel area
+Visakhapatnam,Andhra Pradesh,567,Moderate,Moderate travel area
+Shimla,Himachal Pradesh,120,Low,Low-risk region
+Ahmedabad,Gujarat,1363,High,Remote or high-distance area
+Guwahati,Assam,111,Low,Low-risk region
+Patna,Bihar,1255,High,Remote or high-distance area
+Lucknow,Uttar Pradesh,1343,High,Remote or high-distance area
+Bhubaneswar,Odisha,705,Moderate,Moderate travel area
+Hyderabad,Telangana,1461,High,Remote or high-distance area
+Jaipur,Rajasthan,439,Low,Low-risk region
+Kolkata,West Bengal,589,Moderate,Moderate travel area
+Patna,Bihar,170,Low,Low-risk region
+Bhopal,Madhya Pradesh,1153,High,Remote or high-distance area
+Jodhpur,Rajasthan,317,Low,Low-risk region
+Hyderabad,Telangana,357,Low,Low-risk region
+Bhubaneswar,Odisha,667,Moderate,Moderate travel area
+Agra,Uttar Pradesh,192,Low,Low-risk region
+Agra,Uttar Pradesh,338,Low,Low-risk region
+Indore,Madhya Pradesh,184,Low,Low-risk region
+Jaipur,Rajasthan,789,Moderate,Moderate travel area
+Shimla,Himachal Pradesh,862,Moderate,Moderate travel area
+Bhubaneswar,Odisha,522,Moderate,Moderate travel area
+Kolkata,West Bengal,692,Moderate,Moderate travel area
+Pune,Maharashtra,1084,High,Remote or high-distance area
+Jodhpur,Rajasthan,1218,High,Remote or high-distance area
+Chandigarh,Chandigarh,563,Moderate,Moderate travel area
+Visakhapatnam,Andhra Pradesh,1335,High,Remote or high-distance area
+Visakhapatnam,Andhra Pradesh,1198,High,Remote or high-distance area
+Chandigarh,Chandigarh,919,Moderate,Moderate travel area
+Agra,Uttar Pradesh,274,Low,Low-risk region
+Pune,Maharashtra,809,Moderate,Moderate travel area
+Patna,Bihar,1197,High,Remote or high-distance area
+Visakhapatnam,Andhra Pradesh,737,Moderate,Moderate travel area
+Chennai,Tamil Nadu,979,Moderate,Moderate travel area
+Varanasi,Uttar Pradesh,920,Moderate,Moderate travel area
+Hyderabad,Telangana,1054,High,Remote or high-distance area
+Varanasi,Uttar Pradesh,1487,High,Remote or high-distance area
+Bhopal,Madhya Pradesh,791,Moderate,Moderate travel area
+Jodhpur,Rajasthan,505,Moderate,Moderate travel area
+Amritsar,Punjab,1149,High,Remote or high-distance area
+Amritsar,Punjab,105,Low,Low-risk region
+Ahmedabad,Gujarat,123,Low,Low-risk region
+Shimla,Himachal Pradesh,294,Low,Low-risk region
+Nagpur,Maharashtra,499,Low,Low-risk region
+Visakhapatnam,Andhra Pradesh,164,Low,Low-risk region
+Manali,Himachal Pradesh,1156,High,Remote or high-distance area
+Bhubaneswar,Odisha,541,Moderate,Moderate travel area
+Lucknow,Uttar Pradesh,1192,High,Remote or high-distance area
+Kolkata,West Bengal,1394,High,Remote or high-distance area
+Bhubaneswar,Odisha,943,Moderate,Moderate travel area
+Patna,Bihar,1125,High,Remote or high-distance area
+Chennai,Tamil Nadu,1324,High,Remote or high-distance area
+Shimla,Himachal Pradesh,484,Low,Low-risk region
+Patna,Bihar,218,Low,Low-risk region
+Chennai,Tamil Nadu,1297,High,Remote or high-distance area
+Chandigarh,Chandigarh,1356,High,Remote or high-distance area
+Varanasi,Uttar Pradesh,156,Low,Low-risk region
+Patna,Bihar,772,Moderate,Moderate travel area
+Jodhpur,Rajasthan,593,Moderate,Moderate travel area
+Manali,Himachal Pradesh,1031,High,Remote or high-distance area
+Kolkata,West Bengal,116,Low,Low-risk region
+Chandigarh,Chandigarh,596,Moderate,Moderate travel area
+Varanasi,Uttar Pradesh,525,Moderate,Moderate travel area
+New Delhi,Delhi,1055,High,Remote or high-distance area
+Agra,Uttar Pradesh,1059,High,Remote or high-distance area
+Guwahati,Assam,954,Moderate,Moderate travel area
+Kolkata,West Bengal,1281,High,Remote or high-distance area
+Visakhapatnam,Andhra Pradesh,505,Moderate,Moderate travel area
+Ahmedabad,Gujarat,664,Moderate,Moderate travel area
+Thiruvananthapuram,Kerala,654,Moderate,Moderate travel area
+Ranchi,Jharkhand,909,Moderate,Moderate travel area
+Thiruvananthapuram,Kerala,362,Low,Low-risk region
+Jodhpur,Rajasthan,618,Moderate,Moderate travel area
+Jodhpur,Rajasthan,113,Low,Low-risk region
+Mumbai,Maharashtra,627,Moderate,Moderate travel area
+Ahmedabad,Gujarat,1201,High,Remote or high-distance area
+Lucknow,Uttar Pradesh,422,Low,Low-risk region
+Raipur,Chhattisgarh,328,Low,Low-risk region
+Guwahati,Assam,1387,High,Remote or high-distance area
+Ranchi,Jharkhand,1088,High,Remote or high-distance area
+Manali,Himachal Pradesh,738,Moderate,Moderate travel area
+Chennai,Tamil Nadu,665,Moderate,Moderate travel area
+Bengaluru,Karnataka,187,Low,Low-risk region
+Surat,Gujarat,1272,High,Remote or high-distance area
+Nagpur,Maharashtra,783,Moderate,Moderate travel area
+Indore,Madhya Pradesh,1320,High,Remote or high-distance area
+Pune,Maharashtra,545,Moderate,Moderate travel area
+New Delhi,Delhi,886,Moderate,Moderate travel area
+Ranchi,Jharkhand,523,Moderate,Moderate travel area
+Hyderabad,Telangana,1402,High,Remote or high-distance area
+Mumbai,Maharashtra,1371,High,Remote or high-distance area
+New Delhi,Delhi,742,Moderate,Moderate travel area
+Amritsar,Punjab,349,Low,Low-risk region
+Visakhapatnam,Andhra Pradesh,1264,High,Remote or high-distance area
+Manali,Himachal Pradesh,978,Moderate,Moderate travel area
+Manali,Himachal Pradesh,255,Low,Low-risk region
+Indore,Madhya Pradesh,143,Low,Low-risk region
+Pune,Maharashtra,651,Moderate,Moderate travel area
+Chennai,Tamil Nadu,548,Moderate,Moderate travel area
+Agra,Uttar Pradesh,197,Low,Low-risk region
+Guwahati,Assam,1296,High,Remote or high-distance area
+Hyderabad,Telangana,328,Low,Low-risk region
+Bhopal,Madhya Pradesh,1354,High,Remote or high-distance area
+Shimla,Himachal Pradesh,1307,High,Remote or high-distance area
+Varanasi,Uttar Pradesh,154,Low,Low-risk region
+Bhopal,Madhya Pradesh,1088,High,Remote or high-distance area
+Bhubaneswar,Odisha,1314,High,Remote or high-distance area
+Pune,Maharashtra,1145,High,Remote or high-distance area
+Raipur,Chhattisgarh,1010,High,Remote or high-distance area
+Ahmedabad,Gujarat,915,Moderate,Moderate travel area
+Indore,Madhya Pradesh,1191,High,Remote or high-distance area
+Goa,Goa,1351,High,Remote or high-distance area
+Ranchi,Jharkhand,521,Moderate,Moderate travel area
+Bengaluru,Karnataka,393,Low,Low-risk region
+Goa,Goa,91,Low,Low-risk region
+Goa,Goa,854,Moderate,Moderate travel area
+Thiruvananthapuram,Kerala,257,Low,Low-risk region
+Agra,Uttar Pradesh,725,Moderate,Moderate travel area
+Thiruvananthapuram,Kerala,1400,High,Remote or high-distance area
+Bhopal,Madhya Pradesh,1380,High,Remote or high-distance area
+Ranchi,Jharkhand,623,Moderate,Moderate travel area
+Bengaluru,Karnataka,394,Low,Low-risk region
+Ahmedabad,Gujarat,1142,High,Remote or high-distance area
+Dehradun,Uttarakhand,846,Moderate,Moderate travel area
+New Delhi,Delhi,55,Low,Low-risk region
+Chennai,Tamil Nadu,619,Moderate,Moderate travel area
+Chandigarh,Chandigarh,558,Moderate,Moderate travel area
+Bengaluru,Karnataka,833,Moderate,Moderate travel area
+Goa,Goa,1385,High,Remote or high-distance area
+Thiruvananthapuram,Kerala,344,Low,Low-risk region
+Surat,Gujarat,901,Moderate,Moderate travel area
+Manali,Himachal Pradesh,913,Moderate,Moderate travel area
+Lucknow,Uttar Pradesh,1092,High,Remote or high-distance area
+Manali,Himachal Pradesh,780,Moderate,Moderate travel area
+Indore,Madhya Pradesh,508,Moderate,Moderate travel area
+Mumbai,Maharashtra,1493,High,Remote or high-distance area
+Jodhpur,Rajasthan,251,Low,Low-risk region
+Ahmedabad,Gujarat,918,Moderate,Moderate travel area
+Bhubaneswar,Odisha,487,Low,Low-risk region
+Kolkata,West Bengal,817,Moderate,Moderate travel area
+Amritsar,Punjab,159,Low,Low-risk region
+Surat,Gujarat,1119,High,Remote or high-distance area
+Kolkata,West Bengal,1222,High,Remote or high-distance area
+Chandigarh,Chandigarh,208,Low,Low-risk region
+Ranchi,Jharkhand,822,Moderate,Moderate travel area
+Visakhapatnam,Andhra Pradesh,189,Low,Low-risk region
+Agra,Uttar Pradesh,369,Low,Low-risk region
+Pune,Maharashtra,1087,High,Remote or high-distance area
+Varanasi,Uttar Pradesh,156,Low,Low-risk region
+Bhopal,Madhya Pradesh,1096,High,Remote or high-distance area
+Indore,Madhya Pradesh,278,Low,Low-risk region
+Nagpur,Maharashtra,865,Moderate,Moderate travel area
+Visakhapatnam,Andhra Pradesh,791,Moderate,Moderate travel area
+Patna,Bihar,1303,High,Remote or high-distance area
+Amritsar,Punjab,274,Low,Low-risk region
+Dehradun,Uttarakhand,74,Low,Low-risk region
+Guwahati,Assam,512,Moderate,Moderate travel area
+Hyderabad,Telangana,108,Low,Low-risk region
+New Delhi,Delhi,68,Low,Low-risk region
+Manali,Himachal Pradesh,281,Low,Low-risk region
+Jodhpur,Rajasthan,299,Low,Low-risk region
+Thiruvananthapuram,Kerala,692,Moderate,Moderate travel area
+Pune,Maharashtra,1206,High,Remote or high-distance area
+Amritsar,Punjab,1010,High,Remote or high-distance area
+Patna,Bihar,952,Moderate,Moderate travel area
+Surat,Gujarat,1013,High,Remote or high-distance area
+Chennai,Tamil Nadu,731,Moderate,Moderate travel area
+Guwahati,Assam,462,Low,Low-risk region
+Lucknow,Uttar Pradesh,342,Low,Low-risk region
+Amritsar,Punjab,280,Low,Low-risk region
+Kolkata,West Bengal,540,Moderate,Moderate travel area
+Bhopal,Madhya Pradesh,830,Moderate,Moderate travel area
+Nagpur,Maharashtra,345,Low,Low-risk region
+Bhubaneswar,Odisha,1410,High,Remote or high-distance area
+Ranchi,Jharkhand,1251,High,Remote or high-distance area
+Bhopal,Madhya Pradesh,701,Moderate,Moderate travel area
+Visakhapatnam,Andhra Pradesh,262,Low,Low-risk region
+Surat,Gujarat,60,Low,Low-risk region
+Bengaluru,Karnataka,1421,High,Remote or high-distance area
+Ranchi,Jharkhand,1179,High,Remote or high-distance area
+Hyderabad,Telangana,1258,High,Remote or high-distance area
+Hyderabad,Telangana,1305,High,Remote or high-distance area
+Goa,Goa,813,Moderate,Moderate travel area
+Guwahati,Assam,276,Low,Low-risk region
+Ahmedabad,Gujarat,949,Moderate,Moderate travel area
+Mumbai,Maharashtra,241,Low,Low-risk region
+New Delhi,Delhi,898,Moderate,Moderate travel area
+Amritsar,Punjab,1381,High,Remote or high-distance area
+Ahmedabad,Gujarat,999,Moderate,Moderate travel area
+Hyderabad,Telangana,126,Low,Low-risk region
+New Delhi,Delhi,1241,High,Remote or high-distance area
+Goa,Goa,1163,High,Remote or high-distance area
+Pune,Maharashtra,892,Moderate,Moderate travel area
+Agra,Uttar Pradesh,927,Moderate,Moderate travel area
+Mumbai,Maharashtra,188,Low,Low-risk region
+Bhopal,Madhya Pradesh,232,Low,Low-risk region
+Kolkata,West Bengal,89,Low,Low-risk region
+Chennai,Tamil Nadu,889,Moderate,Moderate travel area
+Jodhpur,Rajasthan,1208,High,Remote or high-distance area
+Guwahati,Assam,910,Moderate,Moderate travel area
+Bengaluru,Karnataka,598,Moderate,Moderate travel area
+Agra,Uttar Pradesh,1146,High,Remote or high-distance area
+Goa,Goa,1317,High,Remote or high-distance area
+Chennai,Tamil Nadu,777,Moderate,Moderate travel area
+Hyderabad,Telangana,644,Moderate,Moderate travel area
+Chennai,Tamil Nadu,736,Moderate,Moderate travel area
+Amritsar,Punjab,128,Low,Low-risk region
+Bhubaneswar,Odisha,51,Low,Low-risk region
+Indore,Madhya Pradesh,1137,High,Remote or high-distance area
+Thiruvananthapuram,Kerala,1253,High,Remote or high-distance area
+Indore,Madhya Pradesh,1294,High,Remote or high-distance area
+Kolkata,West Bengal,761,Moderate,Moderate travel area
+Bengaluru,Karnataka,172,Low,Low-risk region
+Chandigarh,Chandigarh,521,Moderate,Moderate travel area
+Raipur,Chhattisgarh,1437,High,Remote or high-distance area
+Chennai,Tamil Nadu,764,Moderate,Moderate travel area
+Ranchi,Jharkhand,391,Low,Low-risk region
+Nagpur,Maharashtra,77,Low,Low-risk region
+Mumbai,Maharashtra,553,Moderate,Moderate travel area
+Chennai,Tamil Nadu,936,Moderate,Moderate travel area
+Hyderabad,Telangana,873,Moderate,Moderate travel area
+New Delhi,Delhi,810,Moderate,Moderate travel area
+Hyderabad,Telangana,1018,High,Remote or high-distance area
+Hyderabad,Telangana,1012,High,Remote or high-distance area
+Lucknow,Uttar Pradesh,492,Low,Low-risk region
+Bengaluru,Karnataka,1115,High,Remote or high-distance area
+Nagpur,Maharashtra,849,Moderate,Moderate travel area
+Ahmedabad,Gujarat,1182,High,Remote or high-distance area
+Bhopal,Madhya Pradesh,841,Moderate,Moderate travel area
+Lucknow,Uttar Pradesh,359,Low,Low-risk region
+Raipur,Chhattisgarh,471,Low,Low-risk region
+Nagpur,Maharashtra,927,Moderate,Moderate travel area
+Kolkata,West Bengal,722,Moderate,Moderate travel area
+Visakhapatnam,Andhra Pradesh,533,Moderate,Moderate travel area
+Bhopal,Madhya Pradesh,1041,High,Remote or high-distance area
+Bhubaneswar,Odisha,323,Low,Low-risk region
+Agra,Uttar Pradesh,1440,High,Remote or high-distance area
+Goa,Goa,473,Low,Low-risk region
+Agra,Uttar Pradesh,679,Moderate,Moderate travel area
+Dehradun,Uttarakhand,439,Low,Low-risk region
+Chennai,Tamil Nadu,669,Moderate,Moderate travel area
+Lucknow,Uttar Pradesh,1376,High,Remote or high-distance area
+Thiruvananthapuram,Kerala,225,Low,Low-risk region
+Chennai,Tamil Nadu,1437,High,Remote or high-distance area
+Chandigarh,Chandigarh,1445,High,Remote or high-distance area
+Manali,Himachal Pradesh,102,Low,Low-risk region
+New Delhi,Delhi,745,Moderate,Moderate travel area
+Manali,Himachal Pradesh,846,Moderate,Moderate travel area
+Amritsar,Punjab,1062,High,Remote or high-distance area
+Visakhapatnam,Andhra Pradesh,1317,High,Remote or high-distance area
+Manali,Himachal Pradesh,251,Low,Low-risk region
+Jodhpur,Rajasthan,304,Low,Low-risk region
+Shimla,Himachal Pradesh,906,Moderate,Moderate travel area
+Shimla,Himachal Pradesh,1129,High,Remote or high-distance area
+Guwahati,Assam,877,Moderate,Moderate travel area
+Varanasi,Uttar Pradesh,1478,High,Remote or high-distance area
+Ranchi,Jharkhand,421,Low,Low-risk region
+Goa,Goa,1247,High,Remote or high-distance area
+Kolkata,West Bengal,382,Low,Low-risk region
+Hyderabad,Telangana,624,Moderate,Moderate travel area
+New Delhi,Delhi,525,Moderate,Moderate travel area
+Mumbai,Maharashtra,369,Low,Low-risk region
+Manali,Himachal Pradesh,636,Moderate,Moderate travel area
+Amritsar,Punjab,1241,High,Remote or high-distance area
+Hyderabad,Telangana,1355,High,Remote or high-distance area
+Chennai,Tamil Nadu,1332,High,Remote or high-distance area
+Surat,Gujarat,1218,High,Remote or high-distance area
+Patna,Bihar,1304,High,Remote or high-distance area
+Surat,Gujarat,1085,High,Remote or high-distance area
+Amritsar,Punjab,1260,High,Remote or high-distance area
+Visakhapatnam,Andhra Pradesh,456,Low,Low-risk region
+Agra,Uttar Pradesh,1173,High,Remote or high-distance area
+Bhubaneswar,Odisha,441,Low,Low-risk region
+Nagpur,Maharashtra,96,Low,Low-risk region
+Bengaluru,Karnataka,788,Moderate,Moderate travel area
+Lucknow,Uttar Pradesh,350,Low,Low-risk region
+Bhubaneswar,Odisha,980,Moderate,Moderate travel area
+Jodhpur,Rajasthan,637,Moderate,Moderate travel area
+Thiruvananthapuram,Kerala,676,Moderate,Moderate travel area
+Jaipur,Rajasthan,284,Low,Low-risk region
+Visakhapatnam,Andhra Pradesh,444,Low,Low-risk region
+Raipur,Chhattisgarh,1374,High,Remote or high-distance area
+Manali,Himachal Pradesh,1189,High,Remote or high-distance area
+Shimla,Himachal Pradesh,1239,High,Remote or high-distance area
+Amritsar,Punjab,1022,High,Remote or high-distance area
