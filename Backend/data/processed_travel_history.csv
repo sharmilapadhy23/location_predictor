@@ -1,0 +1,1057 @@
+user_id,timestamp,start_city,start_state,start_country,end_city,end_state,end_country,distance_km,mode_of_transport,purpose,Origin_Lat,Origin_Lon,Dest_Lat,Dest_Lon
+1001,2025-03-04 11:00:00,Shimla,Himachal Pradesh,India,Bhopal,Madhya Pradesh,India,296,Car,Family Visit,31.1041526,77.1709729,23.2584857,77.401989
+1001,2025-03-09 18:00:00,Manali,Himachal Pradesh,India,New Delhi,Delhi,India,1245,Flight,Work,32.2454608,77.1872926,28.6430858,77.2192671
+1001,2025-03-10 21:00:00,Visakhapatnam,Andhra Pradesh,India,Surat,Gujarat,India,1382,Car,Work,17.6935526,83.2921297,21.2094892,72.8317058
+1001,2025-03-16 01:00:00,Ahmedabad,Gujarat,India,Raipur,Chhattisgarh,India,576,Bus,Work,23.0215374,72.5800568,21.2380912,81.6336993
+1001,2025-03-17 03:00:00,Chandigarh,Chandigarh,India,Bengaluru,Karnataka,India,1475,Car,Return Trip,30.7334421,76.7797143,12.9767936,77.590082
+1001,2025-03-21 12:00:00,Lucknow,Uttar Pradesh,India,Thiruvananthapuram,Kerala,India,926,Bus,Tourism,26.8381,80.9346001,8.4882267,76.947551
+1001,2025-03-25 19:00:00,Hyderabad,Telangana,India,Pune,Maharashtra,India,894,Car,Family Visit,17.360589,78.4740613,18.5213738,73.8545071
+1001,2025-03-29 04:00:00,Bhopal,Madhya Pradesh,India,Lucknow,Uttar Pradesh,India,1102,Bus,Business,23.2584857,77.401989,26.8381,80.9346001
+1001,2025-04-03 13:00:00,Goa,Goa,India,Bhopal,Madhya Pradesh,India,620,Flight,Leisure,15.4989946,73.8282141,23.2584857,77.401989
+1001,2025-04-06 22:00:00,Kolkata,West Bengal,India,Patna,Bihar,India,887,Car,Business,22.5726459,88.3638953,25.6093239,85.1235252
+1001,2025-04-12 03:00:00,Shimla,Himachal Pradesh,India,Nagpur,Maharashtra,India,1177,Car,Work,31.1041526,77.1709729,21.1498134,79.0820556
+1001,2025-04-17 04:00:00,Guwahati,Assam,India,Jaipur,Rajasthan,India,430,Flight,Business,26.1805978,91.753943,26.9154576,75.8189817
+1001,2025-04-22 11:00:00,Goa,Goa,India,Shimla,Himachal Pradesh,India,125,Car,Tourism,15.4989946,73.8282141,31.1041526,77.1709729
+1001,2025-04-23 19:00:00,Jaipur,Rajasthan,India,Indore,Madhya Pradesh,India,1257,Bus,Leisure,26.9154576,75.8189817,22.7203616,75.8681996
+1001,2025-04-27 02:00:00,Varanasi,Uttar Pradesh,India,Raipur,Chhattisgarh,India,159,Train,Trekking,25.3356491,83.0076292,21.2380912,81.6336993
+1001,2025-05-02 10:00:00,Lucknow,Uttar Pradesh,India,Pune,Maharashtra,India,1011,Train,Trekking,26.8381,80.9346001,18.5213738,73.8545071
+1001,2025-05-07 13:00:00,Bhubaneswar,Odisha,India,Goa,Goa,India,364,Train,Family Visit,20.2602964,85.8394521,15.4989946,73.8282141
+1001,2025-05-09 18:00:00,Ranchi,Jharkhand,India,Goa,Goa,India,1166,Bus,Leisure,23.3700501,85.3250387,15.4989946,73.8282141
+1001,2025-05-15 04:00:00,Guwahati,Assam,India,Kolkata,West Bengal,India,775,Train,Trekking,26.1805978,91.753943,22.5726459,88.3638953
+1001,2025-05-20 08:00:00,Ranchi,Jharkhand,India,Lucknow,Uttar Pradesh,India,1480,Train,Trekking,23.3700501,85.3250387,26.8381,80.9346001
+1001,2025-05-21 12:00:00,Ranchi,Jharkhand,India,Jodhpur,Rajasthan,India,1216,Flight,Work,23.3700501,85.3250387,26.2967719,73.0351433
+1001,2025-05-26 14:00:00,Goa,Goa,India,Ahmedabad,Gujarat,India,427,Flight,Business,15.4989946,73.8282141,23.0215374,72.5800568
+1001,2025-05-29 20:00:00,Shimla,Himachal Pradesh,India,Indore,Madhya Pradesh,India,238,Flight,Business,31.1041526,77.1709729,22.7203616,75.8681996
+1001,2025-06-03 00:00:00,Patna,Bihar,India,Thiruvananthapuram,Kerala,India,931,Flight,Business,25.6093239,85.1235252,8.4882267,76.947551
+1001,2025-06-06 06:00:00,Chandigarh,Chandigarh,India,Jaipur,Rajasthan,India,416,Bus,Family Visit,30.7334421,76.7797143,26.9154576,75.8189817
+1001,2025-06-09 09:00:00,Jaipur,Rajasthan,India,Guwahati,Assam,India,1435,Car,Trekking,26.9154576,75.8189817,26.1805978,91.753943
+1001,2025-06-13 16:00:00,Shimla,Himachal Pradesh,India,Pune,Maharashtra,India,670,Flight,Leisure,31.1041526,77.1709729,18.5213738,73.8545071
+1001,2025-06-15 21:00:00,Ahmedabad,Gujarat,India,Jodhpur,Rajasthan,India,556,Train,Business,23.0215374,72.5800568,26.2967719,73.0351433
+1001,2025-06-20 06:00:00,Bhopal,Madhya Pradesh,India,Amritsar,Punjab,India,1444,Bus,Tourism,23.2584857,77.401989,31.6356659,74.8787496
+1001,2025-06-24 16:00:00,New Delhi,Delhi,India,Indore,Madhya Pradesh,India,1264,Train,Return Trip,28.6430858,77.2192671,22.7203616,75.8681996
+1001,2025-06-29 23:00:00,Hyderabad,Telangana,India,New Delhi,Delhi,India,555,Train,Family Visit,17.360589,78.4740613,28.6430858,77.2192671
+1001,2025-07-03 03:00:00,Bengaluru,Karnataka,India,Kolkata,West Bengal,India,899,Train,Trekking,12.9767936,77.590082,22.5726459,88.3638953
+1001,2025-07-06 10:00:00,Ranchi,Jharkhand,India,Mumbai,Maharashtra,India,249,Bus,Tourism,23.3700501,85.3250387,19.054999,72.8692035
+1001,2025-07-11 13:00:00,Shimla,Himachal Pradesh,India,Chandigarh,Chandigarh,India,1060,Train,Trekking,31.1041526,77.1709729,30.7334421,76.7797143
+1001,2025-07-12 18:00:00,Jodhpur,Rajasthan,India,Pune,Maharashtra,India,307,Train,Leisure,26.2967719,73.0351433,18.5213738,73.8545071
+1001,2025-07-17 20:00:00,Indore,Madhya Pradesh,India,Jaipur,Rajasthan,India,1011,Train,Leisure,22.7203616,75.8681996,26.9154576,75.8189817
+1001,2025-07-19 05:00:00,Chandigarh,Chandigarh,India,Goa,Goa,India,995,Train,Return Trip,30.7334421,76.7797143,15.4989946,73.8282141
+1001,2025-07-20 12:00:00,Goa,Goa,India,Kolkata,West Bengal,India,889,Car,Tourism,15.4989946,73.8282141,22.5726459,88.3638953
+1001,2025-07-21 22:00:00,Amritsar,Punjab,India,Manali,Himachal Pradesh,India,1103,Bus,Work,31.6356659,74.8787496,32.2454608,77.1872926
+1001,2025-07-26 03:00:00,Dehradun,Uttarakhand,India,Nagpur,Maharashtra,India,1413,Bus,Business,30.3255646,78.0436813,21.1498134,79.0820556
+1001,2025-07-30 09:00:00,Raipur,Chhattisgarh,India,Chandigarh,Chandigarh,India,895,Bus,Tourism,21.2380912,81.6336993,30.7334421,76.7797143
+1001,2025-08-02 17:00:00,Varanasi,Uttar Pradesh,India,Surat,Gujarat,India,575,Flight,Family Visit,25.3356491,83.0076292,21.2094892,72.8317058
+1001,2025-08-03 22:00:00,Raipur,Chhattisgarh,India,Thiruvananthapuram,Kerala,India,137,Car,Family Visit,21.2380912,81.6336993,8.4882267,76.947551
+1001,2025-08-08 05:00:00,Indore,Madhya Pradesh,India,Bhopal,Madhya Pradesh,India,1046,Flight,Family Visit,22.7203616,75.8681996,23.2584857,77.401989
+1001,2025-08-10 14:00:00,Patna,Bihar,India,Ahmedabad,Gujarat,India,1430,Flight,Work,25.6093239,85.1235252,23.0215374,72.5800568
+1001,2025-08-12 00:00:00,New Delhi,Delhi,India,Visakhapatnam,Andhra Pradesh,India,339,Train,Trekking,28.6430858,77.2192671,17.6935526,83.2921297
+1001,2025-08-17 09:00:00,Varanasi,Uttar Pradesh,India,Nagpur,Maharashtra,India,309,Flight,Return Trip,25.3356491,83.0076292,21.1498134,79.0820556
+1001,2025-08-22 14:00:00,Visakhapatnam,Andhra Pradesh,India,Guwahati,Assam,India,711,Train,Business,17.6935526,83.2921297,26.1805978,91.753943
+1001,2025-08-26 15:00:00,Raipur,Chhattisgarh,India,Pune,Maharashtra,India,80,Flight,Work,21.2380912,81.6336993,18.5213738,73.8545071
+1001,2025-08-30 20:00:00,Chennai,Tamil Nadu,India,Dehradun,Uttarakhand,India,1299,Bus,Family Visit,13.0836939,80.270186,30.3255646,78.0436813
+1002,2025-03-03 14:00:00,Lucknow,Uttar Pradesh,India,Guwahati,Assam,India,1396,Car,Business,26.8381,80.9346001,26.1805978,91.753943
+1002,2025-03-04 17:00:00,Kolkata,West Bengal,India,Guwahati,Assam,India,501,Bus,Work,22.5726459,88.3638953,26.1805978,91.753943
+1002,2025-03-08 19:00:00,Mumbai,Maharashtra,India,Surat,Gujarat,India,264,Flight,Trekking,19.054999,72.8692035,21.2094892,72.8317058
+1002,2025-03-13 20:00:00,Thiruvananthapuram,Kerala,India,Jaipur,Rajasthan,India,1238,Bus,Return Trip,8.4882267,76.947551,26.9154576,75.8189817
+1002,2025-03-16 04:00:00,Surat,Gujarat,India,Amritsar,Punjab,India,1130,Train,Return Trip,21.2094892,72.8317058,31.6356659,74.8787496
+1002,2025-03-20 05:00:00,Hyderabad,Telangana,India,Mumbai,Maharashtra,India,373,Bus,Return Trip,17.360589,78.4740613,19.054999,72.8692035
+1002,2025-03-25 15:00:00,Guwahati,Assam,India,Mumbai,Maharashtra,India,159,Flight,Tourism,26.1805978,91.753943,19.054999,72.8692035
+1002,2025-03-27 18:00:00,Agra,Uttar Pradesh,India,Dehradun,Uttarakhand,India,621,Car,Tourism,27.1752554,78.0098161,30.3255646,78.0436813
+1002,2025-04-02 01:00:00,Guwahati,Assam,India,Manali,Himachal Pradesh,India,1008,Bus,Work,26.1805978,91.753943,32.2454608,77.1872926
+1002,2025-04-04 10:00:00,Ahmedabad,Gujarat,India,Varanasi,Uttar Pradesh,India,1274,Train,Trekking,23.0215374,72.5800568,25.3356491,83.0076292
+1002,2025-04-08 11:00:00,Guwahati,Assam,India,Dehradun,Uttarakhand,India,228,Bus,Family Visit,26.1805978,91.753943,30.3255646,78.0436813
+1002,2025-04-09 16:00:00,Guwahati,Assam,India,Nagpur,Maharashtra,India,370,Bus,Business,26.1805978,91.753943,21.1498134,79.0820556
+1002,2025-04-14 17:00:00,Agra,Uttar Pradesh,India,Bhubaneswar,Odisha,India,1165,Bus,Family Visit,27.1752554,78.0098161,20.2602964,85.8394521
+1002,2025-04-18 03:00:00,Hyderabad,Telangana,India,Guwahati,Assam,India,466,Train,Return Trip,17.360589,78.4740613,26.1805978,91.753943
+1002,2025-04-22 12:00:00,Patna,Bihar,India,Nagpur,Maharashtra,India,208,Car,Leisure,25.6093239,85.1235252,21.1498134,79.0820556
+1002,2025-04-26 15:00:00,Ranchi,Jharkhand,India,Visakhapatnam,Andhra Pradesh,India,934,Flight,Leisure,23.3700501,85.3250387,17.6935526,83.2921297
+1002,2025-04-29 23:00:00,Indore,Madhya Pradesh,India,Goa,Goa,India,368,Flight,Leisure,22.7203616,75.8681996,15.4989946,73.8282141
+1002,2025-05-04 08:00:00,Chennai,Tamil Nadu,India,Goa,Goa,India,1258,Bus,Trekking,13.0836939,80.270186,15.4989946,73.8282141
+1002,2025-05-05 10:00:00,Bhopal,Madhya Pradesh,India,Thiruvananthapuram,Kerala,India,866,Flight,Return Trip,23.2584857,77.401989,8.4882267,76.947551
+1002,2025-05-10 17:00:00,Surat,Gujarat,India,Kolkata,West Bengal,India,197,Train,Business,21.2094892,72.8317058,22.5726459,88.3638953
+1002,2025-05-15 18:00:00,Chandigarh,Chandigarh,India,Ahmedabad,Gujarat,India,1395,Train,Return Trip,30.7334421,76.7797143,23.0215374,72.5800568
+1002,2025-05-20 20:00:00,Jaipur,Rajasthan,India,Ahmedabad,Gujarat,India,1317,Car,Trekking,26.9154576,75.8189817,23.0215374,72.5800568
+1002,2025-05-26 04:00:00,Agra,Uttar Pradesh,India,Indore,Madhya Pradesh,India,291,Car,Family Visit,27.1752554,78.0098161,22.7203616,75.8681996
+1002,2025-05-28 12:00:00,New Delhi,Delhi,India,Lucknow,Uttar Pradesh,India,763,Train,Family Visit,28.6430858,77.2192671,26.8381,80.9346001
+1002,2025-05-29 19:00:00,Amritsar,Punjab,India,Chandigarh,Chandigarh,India,987,Bus,Return Trip,31.6356659,74.8787496,30.7334421,76.7797143
+1002,2025-05-31 23:00:00,New Delhi,Delhi,India,Indore,Madhya Pradesh,India,971,Flight,Trekking,28.6430858,77.2192671,22.7203616,75.8681996
+1002,2025-06-03 02:00:00,Bengaluru,Karnataka,India,Hyderabad,Telangana,India,895,Car,Tourism,12.9767936,77.590082,17.360589,78.4740613
+1002,2025-06-06 11:00:00,Ahmedabad,Gujarat,India,Surat,Gujarat,India,957,Bus,Tourism,23.0215374,72.5800568,21.2094892,72.8317058
+1002,2025-06-11 16:00:00,Surat,Gujarat,India,Chandigarh,Chandigarh,India,681,Bus,Tourism,21.2094892,72.8317058,30.7334421,76.7797143
+1002,2025-06-13 00:00:00,Jodhpur,Rajasthan,India,Chandigarh,Chandigarh,India,460,Bus,Business,26.2967719,73.0351433,30.7334421,76.7797143
+1002,2025-06-14 08:00:00,Guwahati,Assam,India,Pune,Maharashtra,India,792,Car,Trekking,26.1805978,91.753943,18.5213738,73.8545071
+1002,2025-06-17 11:00:00,Goa,Goa,India,Jaipur,Rajasthan,India,1347,Flight,Family Visit,15.4989946,73.8282141,26.9154576,75.8189817
+1002,2025-06-19 13:00:00,Mumbai,Maharashtra,India,Visakhapatnam,Andhra Pradesh,India,209,Flight,Return Trip,19.054999,72.8692035,17.6935526,83.2921297
+1002,2025-06-21 22:00:00,Indore,Madhya Pradesh,India,Amritsar,Punjab,India,1057,Train,Return Trip,22.7203616,75.8681996,31.6356659,74.8787496
+1002,2025-06-27 01:00:00,Chennai,Tamil Nadu,India,Patna,Bihar,India,542,Bus,Tourism,13.0836939,80.270186,25.6093239,85.1235252
+1002,2025-06-29 11:00:00,Dehradun,Uttarakhand,India,Jaipur,Rajasthan,India,729,Bus,Tourism,30.3255646,78.0436813,26.9154576,75.8189817
+1002,2025-07-03 12:00:00,Lucknow,Uttar Pradesh,India,Ahmedabad,Gujarat,India,201,Bus,Return Trip,26.8381,80.9346001,23.0215374,72.5800568
+1002,2025-07-05 16:00:00,Goa,Goa,India,Agra,Uttar Pradesh,India,616,Bus,Return Trip,15.4989946,73.8282141,27.1752554,78.0098161
+1002,2025-07-08 23:00:00,Chandigarh,Chandigarh,India,Bengaluru,Karnataka,India,354,Bus,Work,30.7334421,76.7797143,12.9767936,77.590082
+1002,2025-07-13 01:00:00,Manali,Himachal Pradesh,India,Kolkata,West Bengal,India,755,Car,Trekking,32.2454608,77.1872926,22.5726459,88.3638953
+1002,2025-07-18 05:00:00,Chennai,Tamil Nadu,India,Hyderabad,Telangana,India,758,Train,Trekking,13.0836939,80.270186,17.360589,78.4740613
+1002,2025-07-20 07:00:00,Surat,Gujarat,India,Shimla,Himachal Pradesh,India,870,Car,Family Visit,21.2094892,72.8317058,31.1041526,77.1709729
+1002,2025-07-23 16:00:00,Varanasi,Uttar Pradesh,India,Bengaluru,Karnataka,India,756,Car,Family Visit,25.3356491,83.0076292,12.9767936,77.590082
+1002,2025-07-29 02:00:00,Lucknow,Uttar Pradesh,India,Raipur,Chhattisgarh,India,171,Car,Business,26.8381,80.9346001,21.2380912,81.6336993
+1002,2025-08-02 07:00:00,Manali,Himachal Pradesh,India,Bhopal,Madhya Pradesh,India,1311,Train,Family Visit,32.2454608,77.1872926,23.2584857,77.401989
+1002,2025-08-06 15:00:00,Patna,Bihar,India,Indore,Madhya Pradesh,India,632,Flight,Leisure,25.6093239,85.1235252,22.7203616,75.8681996
+1002,2025-08-09 20:00:00,Manali,Himachal Pradesh,India,Jaipur,Rajasthan,India,962,Bus,Business,32.2454608,77.1872926,26.9154576,75.8189817
+1002,2025-08-13 05:00:00,Guwahati,Assam,India,Bhubaneswar,Odisha,India,162,Flight,Family Visit,26.1805978,91.753943,20.2602964,85.8394521
+1002,2025-08-16 09:00:00,Visakhapatnam,Andhra Pradesh,India,Nagpur,Maharashtra,India,169,Car,Return Trip,17.6935526,83.2921297,21.1498134,79.0820556
+1002,2025-08-21 10:00:00,Pune,Maharashtra,India,Jaipur,Rajasthan,India,889,Car,Tourism,18.5213738,73.8545071,26.9154576,75.8189817
+1003,2025-03-06 11:00:00,New Delhi,Delhi,India,Hyderabad,Telangana,India,1228,Bus,Return Trip,28.6430858,77.2192671,17.360589,78.4740613
+1003,2025-03-11 14:00:00,New Delhi,Delhi,India,Bengaluru,Karnataka,India,353,Flight,Trekking,28.6430858,77.2192671,12.9767936,77.590082
+1003,2025-03-15 23:00:00,Dehradun,Uttarakhand,India,Goa,Goa,India,910,Bus,Work,30.3255646,78.0436813,15.4989946,73.8282141
+1003,2025-03-17 02:00:00,Jodhpur,Rajasthan,India,New Delhi,Delhi,India,1366,Train,Business,26.2967719,73.0351433,28.6430858,77.2192671
+1003,2025-03-22 11:00:00,Manali,Himachal Pradesh,India,Goa,Goa,India,1260,Train,Return Trip,32.2454608,77.1872926,15.4989946,73.8282141
+1003,2025-03-26 12:00:00,Ahmedabad,Gujarat,India,Bhubaneswar,Odisha,India,209,Bus,Return Trip,23.0215374,72.5800568,20.2602964,85.8394521
+1003,2025-03-29 22:00:00,Ranchi,Jharkhand,India,Visakhapatnam,Andhra Pradesh,India,492,Car,Trekking,23.3700501,85.3250387,17.6935526,83.2921297
+1003,2025-04-02 06:00:00,Varanasi,Uttar Pradesh,India,Manali,Himachal Pradesh,India,1182,Car,Business,25.3356491,83.0076292,32.2454608,77.1872926
+1003,2025-04-06 11:00:00,Jodhpur,Rajasthan,India,Guwahati,Assam,India,730,Flight,Business,26.2967719,73.0351433,26.1805978,91.753943
+1003,2025-04-10 18:00:00,Jaipur,Rajasthan,India,Ahmedabad,Gujarat,India,906,Car,Work,26.9154576,75.8189817,23.0215374,72.5800568
+1003,2025-04-16 00:00:00,New Delhi,Delhi,India,Ranchi,Jharkhand,India,442,Flight,Return Trip,28.6430858,77.2192671,23.3700501,85.3250387
+1003,2025-04-18 04:00:00,Manali,Himachal Pradesh,India,Guwahati,Assam,India,370,Train,Family Visit,32.2454608,77.1872926,26.1805978,91.753943
+1003,2025-04-19 13:00:00,Shimla,Himachal Pradesh,India,New Delhi,Delhi,India,695,Train,Family Visit,31.1041526,77.1709729,28.6430858,77.2192671
+1003,2025-04-21 16:00:00,Shimla,Himachal Pradesh,India,Agra,Uttar Pradesh,India,846,Car,Work,31.1041526,77.1709729,27.1752554,78.0098161
+1003,2025-04-22 23:00:00,Jaipur,Rajasthan,India,Agra,Uttar Pradesh,India,416,Train,Tourism,26.9154576,75.8189817,27.1752554,78.0098161
+1003,2025-04-28 00:00:00,Patna,Bihar,India,Lucknow,Uttar Pradesh,India,551,Flight,Trekking,25.6093239,85.1235252,26.8381,80.9346001
+1003,2025-05-01 05:00:00,Jaipur,Rajasthan,India,Amritsar,Punjab,India,570,Flight,Business,26.9154576,75.8189817,31.6356659,74.8787496
+1003,2025-05-06 08:00:00,Bhubaneswar,Odisha,India,Indore,Madhya Pradesh,India,862,Train,Family Visit,20.2602964,85.8394521,22.7203616,75.8681996
+1003,2025-05-11 17:00:00,Dehradun,Uttarakhand,India,Bengaluru,Karnataka,India,145,Train,Business,30.3255646,78.0436813,12.9767936,77.590082
+1003,2025-05-15 21:00:00,Ahmedabad,Gujarat,India,Surat,Gujarat,India,857,Train,Return Trip,23.0215374,72.5800568,21.2094892,72.8317058
+1003,2025-05-17 01:00:00,Pune,Maharashtra,India,Thiruvananthapuram,Kerala,India,472,Train,Family Visit,18.5213738,73.8545071,8.4882267,76.947551
+1003,2025-05-22 08:00:00,Varanasi,Uttar Pradesh,India,Manali,Himachal Pradesh,India,1427,Bus,Business,25.3356491,83.0076292,32.2454608,77.1872926
+1003,2025-05-27 12:00:00,New Delhi,Delhi,India,Amritsar,Punjab,India,555,Train,Tourism,28.6430858,77.2192671,31.6356659,74.8787496
+1003,2025-05-31 18:00:00,Bhopal,Madhya Pradesh,India,Shimla,Himachal Pradesh,India,420,Flight,Leisure,23.2584857,77.401989,31.1041526,77.1709729
+1003,2025-06-04 19:00:00,Hyderabad,Telangana,India,Bhopal,Madhya Pradesh,India,1415,Flight,Business,17.360589,78.4740613,23.2584857,77.401989
+1003,2025-06-08 21:00:00,Bengaluru,Karnataka,India,New Delhi,Delhi,India,1073,Car,Leisure,12.9767936,77.590082,28.6430858,77.2192671
+1003,2025-06-14 03:00:00,Patna,Bihar,India,New Delhi,Delhi,India,185,Flight,Tourism,25.6093239,85.1235252,28.6430858,77.2192671
+1003,2025-06-19 10:00:00,Jodhpur,Rajasthan,India,Manali,Himachal Pradesh,India,595,Flight,Family Visit,26.2967719,73.0351433,32.2454608,77.1872926
+1003,2025-06-23 18:00:00,Ahmedabad,Gujarat,India,Nagpur,Maharashtra,India,896,Bus,Business,23.0215374,72.5800568,21.1498134,79.0820556
+1003,2025-06-25 22:00:00,Raipur,Chhattisgarh,India,Thiruvananthapuram,Kerala,India,834,Train,Return Trip,21.2380912,81.6336993,8.4882267,76.947551
+1003,2025-06-29 06:00:00,Visakhapatnam,Andhra Pradesh,India,Chennai,Tamil Nadu,India,1317,Car,Business,17.6935526,83.2921297,13.0836939,80.270186
+1003,2025-07-02 13:00:00,Hyderabad,Telangana,India,Surat,Gujarat,India,87,Flight,Business,17.360589,78.4740613,21.2094892,72.8317058
+1003,2025-07-05 22:00:00,Bhopal,Madhya Pradesh,India,Pune,Maharashtra,India,495,Train,Tourism,23.2584857,77.401989,18.5213738,73.8545071
+1003,2025-07-11 04:00:00,Thiruvananthapuram,Kerala,India,Surat,Gujarat,India,768,Bus,Family Visit,8.4882267,76.947551,21.2094892,72.8317058
+1003,2025-07-13 06:00:00,Dehradun,Uttarakhand,India,Jodhpur,Rajasthan,India,1420,Flight,Tourism,30.3255646,78.0436813,26.2967719,73.0351433
+1003,2025-07-18 15:00:00,Shimla,Himachal Pradesh,India,Manali,Himachal Pradesh,India,315,Bus,Return Trip,31.1041526,77.1709729,32.2454608,77.1872926
+1003,2025-07-22 16:00:00,Patna,Bihar,India,Thiruvananthapuram,Kerala,India,315,Train,Return Trip,25.6093239,85.1235252,8.4882267,76.947551
+1003,2025-07-23 20:00:00,Varanasi,Uttar Pradesh,India,Chandigarh,Chandigarh,India,668,Bus,Return Trip,25.3356491,83.0076292,30.7334421,76.7797143
+1003,2025-07-27 01:00:00,Surat,Gujarat,India,Chennai,Tamil Nadu,India,536,Car,Work,21.2094892,72.8317058,13.0836939,80.270186
+1003,2025-08-01 11:00:00,Hyderabad,Telangana,India,Pune,Maharashtra,India,1081,Flight,Trekking,17.360589,78.4740613,18.5213738,73.8545071
+1003,2025-08-02 17:00:00,Jaipur,Rajasthan,India,Amritsar,Punjab,India,1331,Flight,Business,26.9154576,75.8189817,31.6356659,74.8787496
+1003,2025-08-04 21:00:00,Varanasi,Uttar Pradesh,India,Bhubaneswar,Odisha,India,905,Bus,Leisure,25.3356491,83.0076292,20.2602964,85.8394521
+1003,2025-08-06 07:00:00,Ranchi,Jharkhand,India,Chandigarh,Chandigarh,India,500,Train,Return Trip,23.3700501,85.3250387,30.7334421,76.7797143
+1003,2025-08-10 13:00:00,Lucknow,Uttar Pradesh,India,Hyderabad,Telangana,India,378,Bus,Return Trip,26.8381,80.9346001,17.360589,78.4740613
+1003,2025-08-14 14:00:00,Indore,Madhya Pradesh,India,Thiruvananthapuram,Kerala,India,167,Flight,Tourism,22.7203616,75.8681996,8.4882267,76.947551
+1003,2025-08-18 15:00:00,Chennai,Tamil Nadu,India,Patna,Bihar,India,563,Flight,Work,13.0836939,80.270186,25.6093239,85.1235252
+1003,2025-08-23 21:00:00,Amritsar,Punjab,India,Patna,Bihar,India,1223,Car,Work,31.6356659,74.8787496,25.6093239,85.1235252
+1003,2025-08-29 04:00:00,Dehradun,Uttarakhand,India,Ranchi,Jharkhand,India,378,Car,Tourism,30.3255646,78.0436813,23.3700501,85.3250387
+1003,2025-09-02 07:00:00,Bengaluru,Karnataka,India,Thiruvananthapuram,Kerala,India,1388,Train,Business,12.9767936,77.590082,8.4882267,76.947551
+1003,2025-09-05 10:00:00,Dehradun,Uttarakhand,India,Agra,Uttar Pradesh,India,1106,Bus,Business,30.3255646,78.0436813,27.1752554,78.0098161
+1004,2025-03-06 12:00:00,Pune,Maharashtra,India,Dehradun,Uttarakhand,India,777,Bus,Family Visit,18.5213738,73.8545071,30.3255646,78.0436813
+1004,2025-03-09 15:00:00,Guwahati,Assam,India,Shimla,Himachal Pradesh,India,1140,Train,Business,26.1805978,91.753943,31.1041526,77.1709729
+1004,2025-03-12 20:00:00,Chennai,Tamil Nadu,India,Visakhapatnam,Andhra Pradesh,India,479,Bus,Work,13.0836939,80.270186,17.6935526,83.2921297
+1004,2025-03-16 00:00:00,Goa,Goa,India,Raipur,Chhattisgarh,India,1246,Train,Work,15.4989946,73.8282141,21.2380912,81.6336993
+1004,2025-03-17 06:00:00,Hyderabad,Telangana,India,Kolkata,West Bengal,India,1321,Flight,Business,17.360589,78.4740613,22.5726459,88.3638953
+1004,2025-03-21 07:00:00,New Delhi,Delhi,India,Nagpur,Maharashtra,India,102,Car,Work,28.6430858,77.2192671,21.1498134,79.0820556
+1004,2025-03-25 17:00:00,New Delhi,Delhi,India,Bengaluru,Karnataka,India,155,Bus,Tourism,28.6430858,77.2192671,12.9767936,77.590082
+1004,2025-03-28 03:00:00,Thiruvananthapuram,Kerala,India,Ahmedabad,Gujarat,India,1015,Train,Family Visit,8.4882267,76.947551,23.0215374,72.5800568
+1004,2025-03-31 10:00:00,Lucknow,Uttar Pradesh,India,Bhubaneswar,Odisha,India,86,Flight,Return Trip,26.8381,80.9346001,20.2602964,85.8394521
+1004,2025-04-01 15:00:00,New Delhi,Delhi,India,Mumbai,Maharashtra,India,1488,Train,Trekking,28.6430858,77.2192671,19.054999,72.8692035
+1004,2025-04-03 01:00:00,Ahmedabad,Gujarat,India,Bhubaneswar,Odisha,India,995,Flight,Return Trip,23.0215374,72.5800568,20.2602964,85.8394521
+1004,2025-04-07 06:00:00,Indore,Madhya Pradesh,India,Bhopal,Madhya Pradesh,India,128,Bus,Tourism,22.7203616,75.8681996,23.2584857,77.401989
+1004,2025-04-09 08:00:00,Chennai,Tamil Nadu,India,Shimla,Himachal Pradesh,India,730,Car,Trekking,13.0836939,80.270186,31.1041526,77.1709729
+1004,2025-04-13 18:00:00,Indore,Madhya Pradesh,India,Surat,Gujarat,India,1462,Flight,Leisure,22.7203616,75.8681996,21.2094892,72.8317058
+1004,2025-04-19 01:00:00,Chennai,Tamil Nadu,India,Varanasi,Uttar Pradesh,India,800,Car,Leisure,13.0836939,80.270186,25.3356491,83.0076292
+1004,2025-04-24 05:00:00,Ahmedabad,Gujarat,India,Chennai,Tamil Nadu,India,88,Flight,Trekking,23.0215374,72.5800568,13.0836939,80.270186
+1004,2025-04-28 06:00:00,Goa,Goa,India,Chandigarh,Chandigarh,India,1361,Train,Leisure,15.4989946,73.8282141,30.7334421,76.7797143
+1004,2025-05-01 07:00:00,Varanasi,Uttar Pradesh,India,Nagpur,Maharashtra,India,796,Car,Business,25.3356491,83.0076292,21.1498134,79.0820556
+1004,2025-05-02 15:00:00,Bhubaneswar,Odisha,India,Indore,Madhya Pradesh,India,1007,Train,Tourism,20.2602964,85.8394521,22.7203616,75.8681996
+1004,2025-05-06 23:00:00,Amritsar,Punjab,India,Guwahati,Assam,India,1093,Car,Business,31.6356659,74.8787496,26.1805978,91.753943
+1004,2025-05-12 04:00:00,Guwahati,Assam,India,New Delhi,Delhi,India,711,Flight,Work,26.1805978,91.753943,28.6430858,77.2192671
+1004,2025-05-13 13:00:00,Chandigarh,Chandigarh,India,Ahmedabad,Gujarat,India,123,Bus,Tourism,30.7334421,76.7797143,23.0215374,72.5800568
+1004,2025-05-15 21:00:00,Manali,Himachal Pradesh,India,Ranchi,Jharkhand,India,1290,Flight,Family Visit,32.2454608,77.1872926,23.3700501,85.3250387
+1004,2025-05-17 00:00:00,Bhopal,Madhya Pradesh,India,Varanasi,Uttar Pradesh,India,273,Bus,Work,23.2584857,77.401989,25.3356491,83.0076292
+1004,2025-05-21 09:00:00,Jaipur,Rajasthan,India,Jodhpur,Rajasthan,India,408,Train,Leisure,26.9154576,75.8189817,26.2967719,73.0351433
+1004,2025-05-24 15:00:00,Thiruvananthapuram,Kerala,India,Indore,Madhya Pradesh,India,938,Car,Family Visit,8.4882267,76.947551,22.7203616,75.8681996
+1004,2025-05-27 22:00:00,Amritsar,Punjab,India,Varanasi,Uttar Pradesh,India,324,Flight,Business,31.6356659,74.8787496,25.3356491,83.0076292
+1004,2025-05-31 02:00:00,Varanasi,Uttar Pradesh,India,Amritsar,Punjab,India,1317,Flight,Trekking,25.3356491,83.0076292,31.6356659,74.8787496
+1004,2025-06-03 03:00:00,Kolkata,West Bengal,India,Bhopal,Madhya Pradesh,India,518,Bus,Return Trip,22.5726459,88.3638953,23.2584857,77.401989
+1004,2025-06-08 07:00:00,Raipur,Chhattisgarh,India,Indore,Madhya Pradesh,India,946,Bus,Family Visit,21.2380912,81.6336993,22.7203616,75.8681996
+1004,2025-06-09 12:00:00,New Delhi,Delhi,India,Bhubaneswar,Odisha,India,539,Car,Work,28.6430858,77.2192671,20.2602964,85.8394521
+1004,2025-06-12 21:00:00,Surat,Gujarat,India,Dehradun,Uttarakhand,India,884,Car,Trekking,21.2094892,72.8317058,30.3255646,78.0436813
+1004,2025-06-16 05:00:00,Lucknow,Uttar Pradesh,India,New Delhi,Delhi,India,238,Car,Family Visit,26.8381,80.9346001,28.6430858,77.2192671
+1004,2025-06-21 06:00:00,New Delhi,Delhi,India,Shimla,Himachal Pradesh,India,718,Flight,Business,28.6430858,77.2192671,31.1041526,77.1709729
+1004,2025-06-24 16:00:00,Mumbai,Maharashtra,India,Ranchi,Jharkhand,India,1388,Flight,Work,19.054999,72.8692035,23.3700501,85.3250387
+1004,2025-06-27 00:00:00,Thiruvananthapuram,Kerala,India,Jaipur,Rajasthan,India,290,Bus,Return Trip,8.4882267,76.947551,26.9154576,75.8189817
+1004,2025-06-30 08:00:00,Visakhapatnam,Andhra Pradesh,India,Surat,Gujarat,India,664,Bus,Business,17.6935526,83.2921297,21.2094892,72.8317058
+1004,2025-07-04 12:00:00,Shimla,Himachal Pradesh,India,Ahmedabad,Gujarat,India,224,Bus,Trekking,31.1041526,77.1709729,23.0215374,72.5800568
+1004,2025-07-06 18:00:00,Raipur,Chhattisgarh,India,Agra,Uttar Pradesh,India,277,Flight,Family Visit,21.2380912,81.6336993,27.1752554,78.0098161
+1004,2025-07-07 22:00:00,Bhubaneswar,Odisha,India,Lucknow,Uttar Pradesh,India,249,Flight,Leisure,20.2602964,85.8394521,26.8381,80.9346001
+1004,2025-07-09 04:00:00,Bhubaneswar,Odisha,India,Kolkata,West Bengal,India,169,Bus,Business,20.2602964,85.8394521,22.5726459,88.3638953
+1004,2025-07-14 07:00:00,Indore,Madhya Pradesh,India,Goa,Goa,India,798,Flight,Leisure,22.7203616,75.8681996,15.4989946,73.8282141
+1004,2025-07-16 09:00:00,New Delhi,Delhi,India,Indore,Madhya Pradesh,India,967,Bus,Tourism,28.6430858,77.2192671,22.7203616,75.8681996
+1004,2025-07-18 12:00:00,Amritsar,Punjab,India,Bengaluru,Karnataka,India,106,Bus,Family Visit,31.6356659,74.8787496,12.9767936,77.590082
+1004,2025-07-23 17:00:00,Ranchi,Jharkhand,India,Bhubaneswar,Odisha,India,864,Bus,Tourism,23.3700501,85.3250387,20.2602964,85.8394521
+1004,2025-07-25 21:00:00,Manali,Himachal Pradesh,India,Guwahati,Assam,India,1152,Flight,Return Trip,32.2454608,77.1872926,26.1805978,91.753943
+1004,2025-07-30 00:00:00,Amritsar,Punjab,India,Visakhapatnam,Andhra Pradesh,India,459,Train,Leisure,31.6356659,74.8787496,17.6935526,83.2921297
+1004,2025-07-31 07:00:00,Manali,Himachal Pradesh,India,Chennai,Tamil Nadu,India,716,Bus,Leisure,32.2454608,77.1872926,13.0836939,80.270186
+1004,2025-08-01 15:00:00,Ahmedabad,Gujarat,India,Guwahati,Assam,India,130,Car,Leisure,23.0215374,72.5800568,26.1805978,91.753943
+1004,2025-08-04 01:00:00,Nagpur,Maharashtra,India,Kolkata,West Bengal,India,306,Train,Business,21.1498134,79.0820556,22.5726459,88.3638953
+1005,2025-03-04 16:00:00,Patna,Bihar,India,Pune,Maharashtra,India,415,Car,Return Trip,25.6093239,85.1235252,18.5213738,73.8545071
+1005,2025-03-05 17:00:00,Manali,Himachal Pradesh,India,Guwahati,Assam,India,789,Flight,Tourism,32.2454608,77.1872926,26.1805978,91.753943
+1005,2025-03-08 03:00:00,Manali,Himachal Pradesh,India,Lucknow,Uttar Pradesh,India,1478,Bus,Business,32.2454608,77.1872926,26.8381,80.9346001
+1005,2025-03-12 13:00:00,Jaipur,Rajasthan,India,Bhubaneswar,Odisha,India,523,Car,Business,26.9154576,75.8189817,20.2602964,85.8394521
+1005,2025-03-14 15:00:00,Guwahati,Assam,India,Agra,Uttar Pradesh,India,657,Bus,Work,26.1805978,91.753943,27.1752554,78.0098161
+1005,2025-03-18 21:00:00,Bhubaneswar,Odisha,India,Patna,Bihar,India,156,Flight,Tourism,20.2602964,85.8394521,25.6093239,85.1235252
+1005,2025-03-20 01:00:00,Patna,Bihar,India,Indore,Madhya Pradesh,India,1005,Bus,Work,25.6093239,85.1235252,22.7203616,75.8681996
+1005,2025-03-23 06:00:00,Pune,Maharashtra,India,New Delhi,Delhi,India,875,Bus,Family Visit,18.5213738,73.8545071,28.6430858,77.2192671
+1005,2025-03-28 10:00:00,Pune,Maharashtra,India,Surat,Gujarat,India,1130,Flight,Leisure,18.5213738,73.8545071,21.2094892,72.8317058
+1005,2025-03-30 19:00:00,Varanasi,Uttar Pradesh,India,Chandigarh,Chandigarh,India,156,Bus,Tourism,25.3356491,83.0076292,30.7334421,76.7797143
+1005,2025-04-05 03:00:00,Surat,Gujarat,India,Amritsar,Punjab,India,764,Train,Leisure,21.2094892,72.8317058,31.6356659,74.8787496
+1005,2025-04-07 08:00:00,Visakhapatnam,Andhra Pradesh,India,Varanasi,Uttar Pradesh,India,1415,Flight,Family Visit,17.6935526,83.2921297,25.3356491,83.0076292
+1005,2025-04-11 18:00:00,Lucknow,Uttar Pradesh,India,Mumbai,Maharashtra,India,1033,Flight,Trekking,26.8381,80.9346001,19.054999,72.8692035
+1005,2025-04-14 19:00:00,New Delhi,Delhi,India,Visakhapatnam,Andhra Pradesh,India,1043,Flight,Trekking,28.6430858,77.2192671,17.6935526,83.2921297
+1005,2025-04-18 03:00:00,Visakhapatnam,Andhra Pradesh,India,Bhubaneswar,Odisha,India,599,Bus,Return Trip,17.6935526,83.2921297,20.2602964,85.8394521
+1005,2025-04-19 07:00:00,Varanasi,Uttar Pradesh,India,Indore,Madhya Pradesh,India,422,Flight,Family Visit,25.3356491,83.0076292,22.7203616,75.8681996
+1005,2025-04-24 11:00:00,Chandigarh,Chandigarh,India,Chennai,Tamil Nadu,India,820,Train,Trekking,30.7334421,76.7797143,13.0836939,80.270186
+1005,2025-04-29 20:00:00,Jodhpur,Rajasthan,India,Hyderabad,Telangana,India,729,Car,Tourism,26.2967719,73.0351433,17.360589,78.4740613
+1005,2025-05-03 04:00:00,Thiruvananthapuram,Kerala,India,Patna,Bihar,India,1374,Car,Return Trip,8.4882267,76.947551,25.6093239,85.1235252
+1005,2025-05-07 07:00:00,Bhopal,Madhya Pradesh,India,Shimla,Himachal Pradesh,India,775,Car,Family Visit,23.2584857,77.401989,31.1041526,77.1709729
+1005,2025-05-10 16:00:00,Bengaluru,Karnataka,India,New Delhi,Delhi,India,371,Flight,Business,12.9767936,77.590082,28.6430858,77.2192671
+1005,2025-05-13 17:00:00,Ahmedabad,Gujarat,India,Thiruvananthapuram,Kerala,India,168,Bus,Tourism,23.0215374,72.5800568,8.4882267,76.947551
+1005,2025-05-15 02:00:00,Bhubaneswar,Odisha,India,Guwahati,Assam,India,726,Train,Family Visit,20.2602964,85.8394521,26.1805978,91.753943
+1005,2025-05-20 11:00:00,New Delhi,Delhi,India,Surat,Gujarat,India,954,Car,Family Visit,28.6430858,77.2192671,21.2094892,72.8317058
+1005,2025-05-23 17:00:00,Jodhpur,Rajasthan,India,Goa,Goa,India,1101,Flight,Tourism,26.2967719,73.0351433,15.4989946,73.8282141
+1005,2025-05-26 18:00:00,New Delhi,Delhi,India,Bhubaneswar,Odisha,India,1222,Car,Business,28.6430858,77.2192671,20.2602964,85.8394521
+1005,2025-05-29 22:00:00,Nagpur,Maharashtra,India,Patna,Bihar,India,849,Flight,Leisure,21.1498134,79.0820556,25.6093239,85.1235252
+1005,2025-06-01 23:00:00,Jodhpur,Rajasthan,India,Nagpur,Maharashtra,India,271,Train,Work,26.2967719,73.0351433,21.1498134,79.0820556
+1005,2025-06-04 01:00:00,Indore,Madhya Pradesh,India,Nagpur,Maharashtra,India,909,Bus,Family Visit,22.7203616,75.8681996,21.1498134,79.0820556
+1005,2025-06-06 11:00:00,Indore,Madhya Pradesh,India,Amritsar,Punjab,India,821,Flight,Work,22.7203616,75.8681996,31.6356659,74.8787496
+1005,2025-06-07 13:00:00,Bhubaneswar,Odisha,India,Shimla,Himachal Pradesh,India,1360,Car,Leisure,20.2602964,85.8394521,31.1041526,77.1709729
+1005,2025-06-08 22:00:00,Raipur,Chhattisgarh,India,Amritsar,Punjab,India,1045,Train,Tourism,21.2380912,81.6336993,31.6356659,74.8787496
+1005,2025-06-13 02:00:00,Raipur,Chhattisgarh,India,Varanasi,Uttar Pradesh,India,353,Flight,Tourism,21.2380912,81.6336993,25.3356491,83.0076292
+1005,2025-06-15 04:00:00,Nagpur,Maharashtra,India,Hyderabad,Telangana,India,974,Bus,Business,21.1498134,79.0820556,17.360589,78.4740613
+1005,2025-06-20 05:00:00,Mumbai,Maharashtra,India,New Delhi,Delhi,India,1394,Car,Tourism,19.054999,72.8692035,28.6430858,77.2192671
+1005,2025-06-22 15:00:00,Nagpur,Maharashtra,India,Varanasi,Uttar Pradesh,India,1123,Bus,Trekking,21.1498134,79.0820556,25.3356491,83.0076292
+1005,2025-06-25 19:00:00,Goa,Goa,India,Chandigarh,Chandigarh,India,847,Bus,Return Trip,15.4989946,73.8282141,30.7334421,76.7797143
+1005,2025-06-28 02:00:00,Chennai,Tamil Nadu,India,Nagpur,Maharashtra,India,303,Car,Return Trip,13.0836939,80.270186,21.1498134,79.0820556
+1005,2025-07-01 07:00:00,Guwahati,Assam,India,Pune,Maharashtra,India,930,Flight,Tourism,26.1805978,91.753943,18.5213738,73.8545071
+1005,2025-07-03 17:00:00,Guwahati,Assam,India,Goa,Goa,India,751,Car,Return Trip,26.1805978,91.753943,15.4989946,73.8282141
+1005,2025-07-04 22:00:00,Mumbai,Maharashtra,India,Lucknow,Uttar Pradesh,India,138,Bus,Trekking,19.054999,72.8692035,26.8381,80.9346001
+1005,2025-07-10 07:00:00,Ahmedabad,Gujarat,India,Varanasi,Uttar Pradesh,India,1393,Flight,Work,23.0215374,72.5800568,25.3356491,83.0076292
+1005,2025-07-14 12:00:00,Mumbai,Maharashtra,India,Pune,Maharashtra,India,82,Bus,Return Trip,19.054999,72.8692035,18.5213738,73.8545071
+1005,2025-07-18 18:00:00,Dehradun,Uttarakhand,India,Bengaluru,Karnataka,India,937,Car,Tourism,30.3255646,78.0436813,12.9767936,77.590082
+1005,2025-07-21 04:00:00,Agra,Uttar Pradesh,India,Manali,Himachal Pradesh,India,1281,Flight,Return Trip,27.1752554,78.0098161,32.2454608,77.1872926
+1005,2025-07-26 07:00:00,Jaipur,Rajasthan,India,Raipur,Chhattisgarh,India,1164,Car,Business,26.9154576,75.8189817,21.2380912,81.6336993
+1005,2025-07-30 13:00:00,Goa,Goa,India,Ahmedabad,Gujarat,India,1453,Flight,Work,15.4989946,73.8282141,23.0215374,72.5800568
+1005,2025-08-04 19:00:00,Pune,Maharashtra,India,Amritsar,Punjab,India,1383,Flight,Work,18.5213738,73.8545071,31.6356659,74.8787496
+1005,2025-08-09 02:00:00,Pune,Maharashtra,India,Goa,Goa,India,678,Flight,Return Trip,18.5213738,73.8545071,15.4989946,73.8282141
+1005,2025-08-14 05:00:00,Indore,Madhya Pradesh,India,Dehradun,Uttarakhand,India,88,Train,Work,22.7203616,75.8681996,30.3255646,78.0436813
+1006,2025-03-05 14:00:00,Surat,Gujarat,India,Ahmedabad,Gujarat,India,1283,Car,Family Visit,21.2094892,72.8317058,23.0215374,72.5800568
+1006,2025-03-06 20:00:00,Goa,Goa,India,Raipur,Chhattisgarh,India,1014,Train,Leisure,15.4989946,73.8282141,21.2380912,81.6336993
+1006,2025-03-09 03:00:00,Varanasi,Uttar Pradesh,India,Bhopal,Madhya Pradesh,India,977,Car,Trekking,25.3356491,83.0076292,23.2584857,77.401989
+1006,2025-03-13 10:00:00,Dehradun,Uttarakhand,India,Bengaluru,Karnataka,India,1335,Train,Work,30.3255646,78.0436813,12.9767936,77.590082
+1006,2025-03-15 12:00:00,Manali,Himachal Pradesh,India,Chandigarh,Chandigarh,India,1114,Bus,Trekking,32.2454608,77.1872926,30.7334421,76.7797143
+1006,2025-03-17 17:00:00,New Delhi,Delhi,India,Thiruvananthapuram,Kerala,India,188,Flight,Return Trip,28.6430858,77.2192671,8.4882267,76.947551
+1006,2025-03-23 03:00:00,Patna,Bihar,India,Bengaluru,Karnataka,India,767,Flight,Trekking,25.6093239,85.1235252,12.9767936,77.590082
+1006,2025-03-26 05:00:00,Mumbai,Maharashtra,India,Ahmedabad,Gujarat,India,181,Train,Return Trip,19.054999,72.8692035,23.0215374,72.5800568
+1006,2025-03-31 11:00:00,Lucknow,Uttar Pradesh,India,Agra,Uttar Pradesh,India,937,Bus,Return Trip,26.8381,80.9346001,27.1752554,78.0098161
+1006,2025-04-03 12:00:00,Ahmedabad,Gujarat,India,Goa,Goa,India,334,Flight,Tourism,23.0215374,72.5800568,15.4989946,73.8282141
+1006,2025-04-08 19:00:00,Goa,Goa,India,Kolkata,West Bengal,India,1195,Bus,Tourism,15.4989946,73.8282141,22.5726459,88.3638953
+1006,2025-04-10 21:00:00,Agra,Uttar Pradesh,India,Mumbai,Maharashtra,India,454,Bus,Family Visit,27.1752554,78.0098161,19.054999,72.8692035
+1006,2025-04-14 01:00:00,Pune,Maharashtra,India,Nagpur,Maharashtra,India,458,Bus,Trekking,18.5213738,73.8545071,21.1498134,79.0820556
+1006,2025-04-17 07:00:00,Lucknow,Uttar Pradesh,India,Amritsar,Punjab,India,1281,Flight,Return Trip,26.8381,80.9346001,31.6356659,74.8787496
+1006,2025-04-21 15:00:00,New Delhi,Delhi,India,Bengaluru,Karnataka,India,1059,Car,Business,28.6430858,77.2192671,12.9767936,77.590082
+1006,2025-04-25 23:00:00,Surat,Gujarat,India,Visakhapatnam,Andhra Pradesh,India,682,Train,Leisure,21.2094892,72.8317058,17.6935526,83.2921297
+1006,2025-04-28 04:00:00,Bengaluru,Karnataka,India,Nagpur,Maharashtra,India,795,Flight,Trekking,12.9767936,77.590082,21.1498134,79.0820556
+1006,2025-04-29 13:00:00,Ranchi,Jharkhand,India,Hyderabad,Telangana,India,473,Flight,Family Visit,23.3700501,85.3250387,17.360589,78.4740613
+1006,2025-05-04 23:00:00,Dehradun,Uttarakhand,India,Pune,Maharashtra,India,643,Bus,Family Visit,30.3255646,78.0436813,18.5213738,73.8545071
+1006,2025-05-10 04:00:00,Raipur,Chhattisgarh,India,Thiruvananthapuram,Kerala,India,142,Car,Tourism,21.2380912,81.6336993,8.4882267,76.947551
+1006,2025-05-11 12:00:00,Indore,Madhya Pradesh,India,Mumbai,Maharashtra,India,1088,Train,Business,22.7203616,75.8681996,19.054999,72.8692035
+1006,2025-05-15 20:00:00,Ranchi,Jharkhand,India,Kolkata,West Bengal,India,1235,Car,Leisure,23.3700501,85.3250387,22.5726459,88.3638953
+1006,2025-05-20 21:00:00,Bhubaneswar,Odisha,India,New Delhi,Delhi,India,884,Flight,Work,20.2602964,85.8394521,28.6430858,77.2192671
+1006,2025-05-24 22:00:00,Kolkata,West Bengal,India,Agra,Uttar Pradesh,India,934,Car,Work,22.5726459,88.3638953,27.1752554,78.0098161
+1006,2025-05-29 07:00:00,Patna,Bihar,India,Varanasi,Uttar Pradesh,India,1175,Bus,Leisure,25.6093239,85.1235252,25.3356491,83.0076292
+1006,2025-06-01 17:00:00,Pune,Maharashtra,India,Hyderabad,Telangana,India,266,Bus,Business,18.5213738,73.8545071,17.360589,78.4740613
+1006,2025-06-07 03:00:00,Guwahati,Assam,India,Pune,Maharashtra,India,1220,Bus,Trekking,26.1805978,91.753943,18.5213738,73.8545071
+1006,2025-06-11 13:00:00,Thiruvananthapuram,Kerala,India,Goa,Goa,India,1055,Flight,Return Trip,8.4882267,76.947551,15.4989946,73.8282141
+1006,2025-06-16 19:00:00,Guwahati,Assam,India,Chandigarh,Chandigarh,India,605,Train,Trekking,26.1805978,91.753943,30.7334421,76.7797143
+1006,2025-06-20 02:00:00,Mumbai,Maharashtra,India,Shimla,Himachal Pradesh,India,194,Bus,Family Visit,19.054999,72.8692035,31.1041526,77.1709729
+1006,2025-06-21 07:00:00,Patna,Bihar,India,Ahmedabad,Gujarat,India,876,Car,Return Trip,25.6093239,85.1235252,23.0215374,72.5800568
+1006,2025-06-25 17:00:00,Ranchi,Jharkhand,India,Varanasi,Uttar Pradesh,India,180,Train,Trekking,23.3700501,85.3250387,25.3356491,83.0076292
+1006,2025-06-30 01:00:00,Mumbai,Maharashtra,India,Amritsar,Punjab,India,1358,Flight,Tourism,19.054999,72.8692035,31.6356659,74.8787496
+1006,2025-07-03 08:00:00,Amritsar,Punjab,India,Surat,Gujarat,India,487,Flight,Business,31.6356659,74.8787496,21.2094892,72.8317058
+1006,2025-07-05 15:00:00,Manali,Himachal Pradesh,India,Surat,Gujarat,India,1144,Car,Tourism,32.2454608,77.1872926,21.2094892,72.8317058
+1006,2025-07-09 16:00:00,Manali,Himachal Pradesh,India,Jaipur,Rajasthan,India,1016,Car,Trekking,32.2454608,77.1872926,26.9154576,75.8189817
+1006,2025-07-11 18:00:00,Chandigarh,Chandigarh,India,Jodhpur,Rajasthan,India,666,Bus,Leisure,30.7334421,76.7797143,26.2967719,73.0351433
+1006,2025-07-14 19:00:00,Jaipur,Rajasthan,India,Manali,Himachal Pradesh,India,765,Flight,Trekking,26.9154576,75.8189817,32.2454608,77.1872926
+1006,2025-07-16 05:00:00,Thiruvananthapuram,Kerala,India,Ranchi,Jharkhand,India,1159,Bus,Trekking,8.4882267,76.947551,23.3700501,85.3250387
+1006,2025-07-18 13:00:00,Surat,Gujarat,India,Bhopal,Madhya Pradesh,India,561,Bus,Tourism,21.2094892,72.8317058,23.2584857,77.401989
+1006,2025-07-21 23:00:00,Ahmedabad,Gujarat,India,Bhubaneswar,Odisha,India,936,Bus,Trekking,23.0215374,72.5800568,20.2602964,85.8394521
+1006,2025-07-23 04:00:00,Bhubaneswar,Odisha,India,Jodhpur,Rajasthan,India,723,Flight,Leisure,20.2602964,85.8394521,26.2967719,73.0351433
+1006,2025-07-25 08:00:00,Pune,Maharashtra,India,Varanasi,Uttar Pradesh,India,1275,Train,Return Trip,18.5213738,73.8545071,25.3356491,83.0076292
+1006,2025-07-27 16:00:00,Pune,Maharashtra,India,Jaipur,Rajasthan,India,158,Flight,Return Trip,18.5213738,73.8545071,26.9154576,75.8189817
+1006,2025-07-30 02:00:00,Surat,Gujarat,India,Shimla,Himachal Pradesh,India,997,Train,Leisure,21.2094892,72.8317058,31.1041526,77.1709729
+1006,2025-08-02 11:00:00,Manali,Himachal Pradesh,India,Jaipur,Rajasthan,India,1164,Train,Trekking,32.2454608,77.1872926,26.9154576,75.8189817
+1006,2025-08-04 15:00:00,Chennai,Tamil Nadu,India,Nagpur,Maharashtra,India,1489,Train,Tourism,13.0836939,80.270186,21.1498134,79.0820556
+1006,2025-08-08 01:00:00,Bhopal,Madhya Pradesh,India,Thiruvananthapuram,Kerala,India,1351,Train,Tourism,23.2584857,77.401989,8.4882267,76.947551
+1006,2025-08-13 11:00:00,Lucknow,Uttar Pradesh,India,Kolkata,West Bengal,India,1286,Bus,Return Trip,26.8381,80.9346001,22.5726459,88.3638953
+1006,2025-08-18 13:00:00,Patna,Bihar,India,Visakhapatnam,Andhra Pradesh,India,883,Car,Trekking,25.6093239,85.1235252,17.6935526,83.2921297
+1007,2025-03-04 13:00:00,Jodhpur,Rajasthan,India,Pune,Maharashtra,India,591,Car,Tourism,26.2967719,73.0351433,18.5213738,73.8545071
+1007,2025-03-07 17:00:00,Mumbai,Maharashtra,India,Chandigarh,Chandigarh,India,967,Train,Return Trip,19.054999,72.8692035,30.7334421,76.7797143
+1007,2025-03-10 20:00:00,Patna,Bihar,India,Mumbai,Maharashtra,India,833,Train,Trekking,25.6093239,85.1235252,19.054999,72.8692035
+1007,2025-03-12 23:00:00,Jaipur,Rajasthan,India,Lucknow,Uttar Pradesh,India,862,Flight,Tourism,26.9154576,75.8189817,26.8381,80.9346001
+1007,2025-03-17 06:00:00,Visakhapatnam,Andhra Pradesh,India,Patna,Bihar,India,1416,Car,Leisure,17.6935526,83.2921297,25.6093239,85.1235252
+1007,2025-03-22 12:00:00,Jodhpur,Rajasthan,India,Guwahati,Assam,India,122,Flight,Business,26.2967719,73.0351433,26.1805978,91.753943
+1007,2025-03-25 14:00:00,Lucknow,Uttar Pradesh,India,New Delhi,Delhi,India,925,Bus,Business,26.8381,80.9346001,28.6430858,77.2192671
+1007,2025-03-30 22:00:00,Amritsar,Punjab,India,Dehradun,Uttarakhand,India,1400,Flight,Tourism,31.6356659,74.8787496,30.3255646,78.0436813
+1007,2025-04-04 07:00:00,Visakhapatnam,Andhra Pradesh,India,Patna,Bihar,India,1248,Train,Return Trip,17.6935526,83.2921297,25.6093239,85.1235252
+1007,2025-04-07 11:00:00,Dehradun,Uttarakhand,India,Thiruvananthapuram,Kerala,India,1454,Flight,Tourism,30.3255646,78.0436813,8.4882267,76.947551
+1007,2025-04-09 14:00:00,Varanasi,Uttar Pradesh,India,Surat,Gujarat,India,646,Flight,Tourism,25.3356491,83.0076292,21.2094892,72.8317058
+1007,2025-04-14 19:00:00,Jodhpur,Rajasthan,India,Surat,Gujarat,India,1398,Train,Return Trip,26.2967719,73.0351433,21.2094892,72.8317058
+1007,2025-04-20 00:00:00,Indore,Madhya Pradesh,India,New Delhi,Delhi,India,1305,Train,Return Trip,22.7203616,75.8681996,28.6430858,77.2192671
+1007,2025-04-21 04:00:00,Mumbai,Maharashtra,India,Kolkata,West Bengal,India,804,Bus,Family Visit,19.054999,72.8692035,22.5726459,88.3638953
+1007,2025-04-26 13:00:00,Indore,Madhya Pradesh,India,Nagpur,Maharashtra,India,204,Flight,Tourism,22.7203616,75.8681996,21.1498134,79.0820556
+1007,2025-04-30 16:00:00,Mumbai,Maharashtra,India,Goa,Goa,India,172,Car,Trekking,19.054999,72.8692035,15.4989946,73.8282141
+1007,2025-05-03 02:00:00,Guwahati,Assam,India,New Delhi,Delhi,India,474,Train,Return Trip,26.1805978,91.753943,28.6430858,77.2192671
+1007,2025-05-08 05:00:00,Ranchi,Jharkhand,India,Chandigarh,Chandigarh,India,1231,Train,Leisure,23.3700501,85.3250387,30.7334421,76.7797143
+1007,2025-05-13 08:00:00,Ahmedabad,Gujarat,India,Hyderabad,Telangana,India,1402,Bus,Return Trip,23.0215374,72.5800568,17.360589,78.4740613
+1007,2025-05-15 10:00:00,Raipur,Chhattisgarh,India,Kolkata,West Bengal,India,788,Train,Work,21.2380912,81.6336993,22.5726459,88.3638953
+1007,2025-05-20 15:00:00,Nagpur,Maharashtra,India,Ranchi,Jharkhand,India,1026,Train,Tourism,21.1498134,79.0820556,23.3700501,85.3250387
+1007,2025-05-21 21:00:00,Mumbai,Maharashtra,India,Raipur,Chhattisgarh,India,159,Car,Trekking,19.054999,72.8692035,21.2380912,81.6336993
+1007,2025-05-26 03:00:00,Hyderabad,Telangana,India,Nagpur,Maharashtra,India,446,Flight,Family Visit,17.360589,78.4740613,21.1498134,79.0820556
+1007,2025-05-31 11:00:00,Thiruvananthapuram,Kerala,India,Varanasi,Uttar Pradesh,India,1259,Train,Tourism,8.4882267,76.947551,25.3356491,83.0076292
+1007,2025-06-05 15:00:00,Nagpur,Maharashtra,India,Chandigarh,Chandigarh,India,1494,Bus,Tourism,21.1498134,79.0820556,30.7334421,76.7797143
+1007,2025-06-07 21:00:00,Visakhapatnam,Andhra Pradesh,India,Agra,Uttar Pradesh,India,351,Car,Trekking,17.6935526,83.2921297,27.1752554,78.0098161
+1007,2025-06-11 00:00:00,Manali,Himachal Pradesh,India,Hyderabad,Telangana,India,905,Flight,Business,32.2454608,77.1872926,17.360589,78.4740613
+1007,2025-06-16 02:00:00,Varanasi,Uttar Pradesh,India,Mumbai,Maharashtra,India,251,Flight,Tourism,25.3356491,83.0076292,19.054999,72.8692035
+1007,2025-06-18 12:00:00,Bhubaneswar,Odisha,India,Thiruvananthapuram,Kerala,India,1017,Flight,Trekking,20.2602964,85.8394521,8.4882267,76.947551
+1007,2025-06-22 15:00:00,Thiruvananthapuram,Kerala,India,Hyderabad,Telangana,India,1288,Train,Trekking,8.4882267,76.947551,17.360589,78.4740613
+1007,2025-06-23 23:00:00,Varanasi,Uttar Pradesh,India,Chandigarh,Chandigarh,India,874,Bus,Work,25.3356491,83.0076292,30.7334421,76.7797143
+1007,2025-06-26 05:00:00,Nagpur,Maharashtra,India,New Delhi,Delhi,India,939,Train,Work,21.1498134,79.0820556,28.6430858,77.2192671
+1007,2025-06-28 14:00:00,Shimla,Himachal Pradesh,India,Guwahati,Assam,India,1175,Car,Work,31.1041526,77.1709729,26.1805978,91.753943
+1007,2025-07-01 16:00:00,Indore,Madhya Pradesh,India,Dehradun,Uttarakhand,India,1089,Flight,Tourism,22.7203616,75.8681996,30.3255646,78.0436813
+1007,2025-07-03 19:00:00,Chandigarh,Chandigarh,India,Dehradun,Uttarakhand,India,1317,Train,Trekking,30.7334421,76.7797143,30.3255646,78.0436813
+1007,2025-07-07 20:00:00,Thiruvananthapuram,Kerala,India,Patna,Bihar,India,1315,Car,Work,8.4882267,76.947551,25.6093239,85.1235252
+1007,2025-07-09 01:00:00,Ranchi,Jharkhand,India,Bengaluru,Karnataka,India,1020,Flight,Family Visit,23.3700501,85.3250387,12.9767936,77.590082
+1007,2025-07-13 05:00:00,Hyderabad,Telangana,India,Agra,Uttar Pradesh,India,128,Flight,Return Trip,17.360589,78.4740613,27.1752554,78.0098161
+1007,2025-07-14 09:00:00,Jodhpur,Rajasthan,India,Nagpur,Maharashtra,India,1070,Flight,Return Trip,26.2967719,73.0351433,21.1498134,79.0820556
+1007,2025-07-18 14:00:00,Pune,Maharashtra,India,Indore,Madhya Pradesh,India,1145,Car,Trekking,18.5213738,73.8545071,22.7203616,75.8681996
+1007,2025-07-21 19:00:00,Varanasi,Uttar Pradesh,India,Hyderabad,Telangana,India,1051,Car,Return Trip,25.3356491,83.0076292,17.360589,78.4740613
+1007,2025-07-23 22:00:00,Thiruvananthapuram,Kerala,India,Bhubaneswar,Odisha,India,282,Car,Tourism,8.4882267,76.947551,20.2602964,85.8394521
+1007,2025-07-29 04:00:00,Bhopal,Madhya Pradesh,India,Bhubaneswar,Odisha,India,1356,Flight,Tourism,23.2584857,77.401989,20.2602964,85.8394521
+1007,2025-08-03 09:00:00,Lucknow,Uttar Pradesh,India,Jodhpur,Rajasthan,India,1435,Flight,Leisure,26.8381,80.9346001,26.2967719,73.0351433
+1007,2025-08-06 10:00:00,Ahmedabad,Gujarat,India,Ranchi,Jharkhand,India,1261,Flight,Tourism,23.0215374,72.5800568,23.3700501,85.3250387
+1007,2025-08-11 15:00:00,Chennai,Tamil Nadu,India,Thiruvananthapuram,Kerala,India,526,Flight,Business,13.0836939,80.270186,8.4882267,76.947551
+1007,2025-08-14 16:00:00,Thiruvananthapuram,Kerala,India,Agra,Uttar Pradesh,India,283,Flight,Return Trip,8.4882267,76.947551,27.1752554,78.0098161
+1007,2025-08-16 01:00:00,Patna,Bihar,India,Jaipur,Rajasthan,India,1489,Car,Leisure,25.6093239,85.1235252,26.9154576,75.8189817
+1007,2025-08-18 06:00:00,Patna,Bihar,India,Lucknow,Uttar Pradesh,India,504,Bus,Tourism,25.6093239,85.1235252,26.8381,80.9346001
+1007,2025-08-23 16:00:00,Chennai,Tamil Nadu,India,Guwahati,Assam,India,725,Car,Tourism,13.0836939,80.270186,26.1805978,91.753943
+1008,2025-03-06 11:00:00,Nagpur,Maharashtra,India,Dehradun,Uttarakhand,India,88,Flight,Family Visit,21.1498134,79.0820556,30.3255646,78.0436813
+1008,2025-03-11 17:00:00,Ranchi,Jharkhand,India,Dehradun,Uttarakhand,India,621,Train,Family Visit,23.3700501,85.3250387,30.3255646,78.0436813
+1008,2025-03-17 01:00:00,Goa,Goa,India,Raipur,Chhattisgarh,India,539,Train,Return Trip,15.4989946,73.8282141,21.2380912,81.6336993
+1008,2025-03-22 06:00:00,Bhopal,Madhya Pradesh,India,Shimla,Himachal Pradesh,India,341,Train,Tourism,23.2584857,77.401989,31.1041526,77.1709729
+1008,2025-03-25 09:00:00,New Delhi,Delhi,India,Raipur,Chhattisgarh,India,1167,Flight,Family Visit,28.6430858,77.2192671,21.2380912,81.6336993
+1008,2025-03-29 16:00:00,Indore,Madhya Pradesh,India,Shimla,Himachal Pradesh,India,197,Bus,Tourism,22.7203616,75.8681996,31.1041526,77.1709729
+1008,2025-04-01 00:00:00,Bengaluru,Karnataka,India,Hyderabad,Telangana,India,1076,Flight,Tourism,12.9767936,77.590082,17.360589,78.4740613
+1008,2025-04-03 07:00:00,Surat,Gujarat,India,Pune,Maharashtra,India,729,Car,Work,21.2094892,72.8317058,18.5213738,73.8545071
+1008,2025-04-04 08:00:00,Thiruvananthapuram,Kerala,India,Amritsar,Punjab,India,896,Train,Return Trip,8.4882267,76.947551,31.6356659,74.8787496
+1008,2025-04-06 15:00:00,Lucknow,Uttar Pradesh,India,Dehradun,Uttarakhand,India,578,Car,Tourism,26.8381,80.9346001,30.3255646,78.0436813
+1008,2025-04-10 21:00:00,Lucknow,Uttar Pradesh,India,Ranchi,Jharkhand,India,106,Flight,Business,26.8381,80.9346001,23.3700501,85.3250387
+1008,2025-04-15 00:00:00,Chennai,Tamil Nadu,India,Raipur,Chhattisgarh,India,1023,Train,Business,13.0836939,80.270186,21.2380912,81.6336993
+1008,2025-04-20 10:00:00,Amritsar,Punjab,India,Varanasi,Uttar Pradesh,India,105,Car,Trekking,31.6356659,74.8787496,25.3356491,83.0076292
+1008,2025-04-25 13:00:00,Patna,Bihar,India,Jaipur,Rajasthan,India,489,Car,Trekking,25.6093239,85.1235252,26.9154576,75.8189817
+1008,2025-04-27 22:00:00,Manali,Himachal Pradesh,India,Jaipur,Rajasthan,India,638,Car,Work,32.2454608,77.1872926,26.9154576,75.8189817
+1008,2025-04-29 08:00:00,New Delhi,Delhi,India,Surat,Gujarat,India,595,Car,Leisure,28.6430858,77.2192671,21.2094892,72.8317058
+1008,2025-05-04 13:00:00,Indore,Madhya Pradesh,India,Varanasi,Uttar Pradesh,India,805,Flight,Trekking,22.7203616,75.8681996,25.3356491,83.0076292
+1008,2025-05-05 17:00:00,Manali,Himachal Pradesh,India,Varanasi,Uttar Pradesh,India,181,Bus,Work,32.2454608,77.1872926,25.3356491,83.0076292
+1008,2025-05-06 19:00:00,Mumbai,Maharashtra,India,Jodhpur,Rajasthan,India,790,Bus,Leisure,19.054999,72.8692035,26.2967719,73.0351433
+1008,2025-05-11 01:00:00,Nagpur,Maharashtra,India,Jodhpur,Rajasthan,India,234,Train,Return Trip,21.1498134,79.0820556,26.2967719,73.0351433
+1008,2025-05-12 04:00:00,Goa,Goa,India,Patna,Bihar,India,1114,Bus,Return Trip,15.4989946,73.8282141,25.6093239,85.1235252
+1008,2025-05-16 05:00:00,Ahmedabad,Gujarat,India,Bhopal,Madhya Pradesh,India,1242,Flight,Business,23.0215374,72.5800568,23.2584857,77.401989
+1008,2025-05-21 06:00:00,Visakhapatnam,Andhra Pradesh,India,Shimla,Himachal Pradesh,India,1268,Flight,Leisure,17.6935526,83.2921297,31.1041526,77.1709729
+1008,2025-05-23 08:00:00,Nagpur,Maharashtra,India,Guwahati,Assam,India,653,Flight,Family Visit,21.1498134,79.0820556,26.1805978,91.753943
+1008,2025-05-26 16:00:00,Ahmedabad,Gujarat,India,Kolkata,West Bengal,India,1196,Flight,Work,23.0215374,72.5800568,22.5726459,88.3638953
+1008,2025-05-31 21:00:00,Lucknow,Uttar Pradesh,India,Dehradun,Uttarakhand,India,1348,Car,Trekking,26.8381,80.9346001,30.3255646,78.0436813
+1008,2025-06-04 01:00:00,Dehradun,Uttarakhand,India,Bhubaneswar,Odisha,India,1430,Car,Family Visit,30.3255646,78.0436813,20.2602964,85.8394521
+1008,2025-06-08 11:00:00,Raipur,Chhattisgarh,India,Dehradun,Uttarakhand,India,593,Train,Trekking,21.2380912,81.6336993,30.3255646,78.0436813
+1008,2025-06-09 16:00:00,Patna,Bihar,India,Bhopal,Madhya Pradesh,India,900,Flight,Return Trip,25.6093239,85.1235252,23.2584857,77.401989
+1008,2025-06-11 20:00:00,Jodhpur,Rajasthan,India,Shimla,Himachal Pradesh,India,610,Train,Leisure,26.2967719,73.0351433,31.1041526,77.1709729
+1008,2025-06-15 03:00:00,Chandigarh,Chandigarh,India,Bhubaneswar,Odisha,India,810,Car,Return Trip,30.7334421,76.7797143,20.2602964,85.8394521
+1008,2025-06-19 05:00:00,Visakhapatnam,Andhra Pradesh,India,Ranchi,Jharkhand,India,130,Car,Business,17.6935526,83.2921297,23.3700501,85.3250387
+1008,2025-06-20 11:00:00,Bhubaneswar,Odisha,India,Lucknow,Uttar Pradesh,India,902,Train,Leisure,20.2602964,85.8394521,26.8381,80.9346001
+1008,2025-06-24 20:00:00,Jodhpur,Rajasthan,India,Lucknow,Uttar Pradesh,India,953,Car,Family Visit,26.2967719,73.0351433,26.8381,80.9346001
+1008,2025-06-26 02:00:00,Varanasi,Uttar Pradesh,India,Jodhpur,Rajasthan,India,833,Flight,Family Visit,25.3356491,83.0076292,26.2967719,73.0351433
+1008,2025-06-30 12:00:00,Chennai,Tamil Nadu,India,Visakhapatnam,Andhra Pradesh,India,113,Bus,Trekking,13.0836939,80.270186,17.6935526,83.2921297
+1008,2025-07-03 14:00:00,Manali,Himachal Pradesh,India,Dehradun,Uttarakhand,India,357,Car,Return Trip,32.2454608,77.1872926,30.3255646,78.0436813
+1008,2025-07-06 23:00:00,Visakhapatnam,Andhra Pradesh,India,Chandigarh,Chandigarh,India,820,Bus,Family Visit,17.6935526,83.2921297,30.7334421,76.7797143
+1008,2025-07-11 09:00:00,Amritsar,Punjab,India,Jaipur,Rajasthan,India,621,Car,Trekking,31.6356659,74.8787496,26.9154576,75.8189817
+1008,2025-07-13 19:00:00,Mumbai,Maharashtra,India,Visakhapatnam,Andhra Pradesh,India,399,Flight,Leisure,19.054999,72.8692035,17.6935526,83.2921297
+1008,2025-07-18 02:00:00,Manali,Himachal Pradesh,India,New Delhi,Delhi,India,1148,Bus,Leisure,32.2454608,77.1872926,28.6430858,77.2192671
+1008,2025-07-19 05:00:00,Dehradun,Uttarakhand,India,Lucknow,Uttar Pradesh,India,899,Flight,Work,30.3255646,78.0436813,26.8381,80.9346001
+1008,2025-07-22 13:00:00,Agra,Uttar Pradesh,India,Raipur,Chhattisgarh,India,1126,Flight,Leisure,27.1752554,78.0098161,21.2380912,81.6336993
+1008,2025-07-25 16:00:00,Bhopal,Madhya Pradesh,India,Chennai,Tamil Nadu,India,311,Bus,Leisure,23.2584857,77.401989,13.0836939,80.270186
+1008,2025-07-30 23:00:00,Guwahati,Assam,India,Ranchi,Jharkhand,India,83,Car,Family Visit,26.1805978,91.753943,23.3700501,85.3250387
+1008,2025-08-05 07:00:00,Surat,Gujarat,India,Lucknow,Uttar Pradesh,India,186,Car,Leisure,21.2094892,72.8317058,26.8381,80.9346001
+1008,2025-08-09 17:00:00,Ranchi,Jharkhand,India,Shimla,Himachal Pradesh,India,886,Train,Leisure,23.3700501,85.3250387,31.1041526,77.1709729
+1008,2025-08-13 00:00:00,Bhubaneswar,Odisha,India,Dehradun,Uttarakhand,India,679,Bus,Tourism,20.2602964,85.8394521,30.3255646,78.0436813
+1008,2025-08-18 06:00:00,Ranchi,Jharkhand,India,Varanasi,Uttar Pradesh,India,976,Car,Return Trip,23.3700501,85.3250387,25.3356491,83.0076292
+1008,2025-08-21 10:00:00,Dehradun,Uttarakhand,India,Ahmedabad,Gujarat,India,1089,Bus,Family Visit,30.3255646,78.0436813,23.0215374,72.5800568
+1009,2025-03-02 15:00:00,New Delhi,Delhi,India,Hyderabad,Telangana,India,948,Car,Business,28.6430858,77.2192671,17.360589,78.4740613
+1009,2025-03-04 01:00:00,Lucknow,Uttar Pradesh,India,Bhubaneswar,Odisha,India,769,Car,Tourism,26.8381,80.9346001,20.2602964,85.8394521
+1009,2025-03-07 02:00:00,Shimla,Himachal Pradesh,India,Kolkata,West Bengal,India,563,Car,Return Trip,31.1041526,77.1709729,22.5726459,88.3638953
+1009,2025-03-12 06:00:00,Hyderabad,Telangana,India,Goa,Goa,India,560,Car,Family Visit,17.360589,78.4740613,15.4989946,73.8282141
+1009,2025-03-17 09:00:00,Indore,Madhya Pradesh,India,Shimla,Himachal Pradesh,India,531,Train,Work,22.7203616,75.8681996,31.1041526,77.1709729
+1009,2025-03-22 13:00:00,Agra,Uttar Pradesh,India,New Delhi,Delhi,India,1401,Car,Trekking,27.1752554,78.0098161,28.6430858,77.2192671
+1009,2025-03-23 15:00:00,Nagpur,Maharashtra,India,Agra,Uttar Pradesh,India,1378,Train,Family Visit,21.1498134,79.0820556,27.1752554,78.0098161
+1009,2025-03-27 18:00:00,Bhubaneswar,Odisha,India,Ranchi,Jharkhand,India,1396,Flight,Family Visit,20.2602964,85.8394521,23.3700501,85.3250387
+1009,2025-03-28 22:00:00,Varanasi,Uttar Pradesh,India,Mumbai,Maharashtra,India,410,Car,Family Visit,25.3356491,83.0076292,19.054999,72.8692035
+1009,2025-04-03 00:00:00,Thiruvananthapuram,Kerala,India,Indore,Madhya Pradesh,India,1107,Flight,Work,8.4882267,76.947551,22.7203616,75.8681996
+1009,2025-04-07 10:00:00,Bengaluru,Karnataka,India,Varanasi,Uttar Pradesh,India,1460,Flight,Tourism,12.9767936,77.590082,25.3356491,83.0076292
+1009,2025-04-12 20:00:00,Bhopal,Madhya Pradesh,India,Guwahati,Assam,India,683,Train,Return Trip,23.2584857,77.401989,26.1805978,91.753943
+1009,2025-04-14 23:00:00,Chandigarh,Chandigarh,India,New Delhi,Delhi,India,592,Flight,Return Trip,30.7334421,76.7797143,28.6430858,77.2192671
+1009,2025-04-19 07:00:00,Manali,Himachal Pradesh,India,Kolkata,West Bengal,India,1235,Car,Trekking,32.2454608,77.1872926,22.5726459,88.3638953
+1009,2025-04-24 12:00:00,Thiruvananthapuram,Kerala,India,Raipur,Chhattisgarh,India,341,Bus,Return Trip,8.4882267,76.947551,21.2380912,81.6336993
+1009,2025-04-28 18:00:00,Visakhapatnam,Andhra Pradesh,India,Nagpur,Maharashtra,India,1313,Bus,Work,17.6935526,83.2921297,21.1498134,79.0820556
+1009,2025-04-30 22:00:00,Indore,Madhya Pradesh,India,Goa,Goa,India,1015,Bus,Leisure,22.7203616,75.8681996,15.4989946,73.8282141
+1009,2025-05-05 08:00:00,Ranchi,Jharkhand,India,Chandigarh,Chandigarh,India,355,Train,Tourism,23.3700501,85.3250387,30.7334421,76.7797143
+1009,2025-05-08 15:00:00,Chandigarh,Chandigarh,India,Indore,Madhya Pradesh,India,1398,Bus,Tourism,30.7334421,76.7797143,22.7203616,75.8681996
+1009,2025-05-13 18:00:00,Mumbai,Maharashtra,India,Agra,Uttar Pradesh,India,1238,Car,Return Trip,19.054999,72.8692035,27.1752554,78.0098161
+1009,2025-05-15 02:00:00,Surat,Gujarat,India,Agra,Uttar Pradesh,India,1188,Train,Business,21.2094892,72.8317058,27.1752554,78.0098161
+1009,2025-05-17 09:00:00,Mumbai,Maharashtra,India,Manali,Himachal Pradesh,India,527,Train,Return Trip,19.054999,72.8692035,32.2454608,77.1872926
+1009,2025-05-20 10:00:00,Thiruvananthapuram,Kerala,India,Dehradun,Uttarakhand,India,125,Train,Return Trip,8.4882267,76.947551,30.3255646,78.0436813
+1009,2025-05-22 14:00:00,Hyderabad,Telangana,India,Lucknow,Uttar Pradesh,India,205,Flight,Family Visit,17.360589,78.4740613,26.8381,80.9346001
+1009,2025-05-26 15:00:00,Raipur,Chhattisgarh,India,Goa,Goa,India,1016,Bus,Business,21.2380912,81.6336993,15.4989946,73.8282141
+1009,2025-05-31 16:00:00,Thiruvananthapuram,Kerala,India,New Delhi,Delhi,India,535,Car,Leisure,8.4882267,76.947551,28.6430858,77.2192671
+1009,2025-06-05 01:00:00,Bhopal,Madhya Pradesh,India,Ranchi,Jharkhand,India,164,Train,Family Visit,23.2584857,77.401989,23.3700501,85.3250387
+1009,2025-06-08 09:00:00,Chandigarh,Chandigarh,India,Surat,Gujarat,India,1272,Bus,Business,30.7334421,76.7797143,21.2094892,72.8317058
+1009,2025-06-13 12:00:00,Surat,Gujarat,India,Lucknow,Uttar Pradesh,India,1243,Bus,Family Visit,21.2094892,72.8317058,26.8381,80.9346001
+1009,2025-06-15 19:00:00,Manali,Himachal Pradesh,India,Bhopal,Madhya Pradesh,India,861,Bus,Business,32.2454608,77.1872926,23.2584857,77.401989
+1009,2025-06-21 00:00:00,Kolkata,West Bengal,India,Ranchi,Jharkhand,India,883,Train,Tourism,22.5726459,88.3638953,23.3700501,85.3250387
+1009,2025-06-22 10:00:00,Nagpur,Maharashtra,India,Bhubaneswar,Odisha,India,783,Car,Return Trip,21.1498134,79.0820556,20.2602964,85.8394521
+1009,2025-06-27 20:00:00,Indore,Madhya Pradesh,India,Raipur,Chhattisgarh,India,104,Flight,Work,22.7203616,75.8681996,21.2380912,81.6336993
+1009,2025-07-03 00:00:00,Guwahati,Assam,India,Ranchi,Jharkhand,India,1484,Car,Family Visit,26.1805978,91.753943,23.3700501,85.3250387
+1009,2025-07-05 07:00:00,Thiruvananthapuram,Kerala,India,Amritsar,Punjab,India,945,Train,Tourism,8.4882267,76.947551,31.6356659,74.8787496
+1009,2025-07-09 16:00:00,Chandigarh,Chandigarh,India,Amritsar,Punjab,India,782,Train,Family Visit,30.7334421,76.7797143,31.6356659,74.8787496
+1009,2025-07-14 22:00:00,Varanasi,Uttar Pradesh,India,Amritsar,Punjab,India,576,Bus,Trekking,25.3356491,83.0076292,31.6356659,74.8787496
+1009,2025-07-17 04:00:00,Indore,Madhya Pradesh,India,Ranchi,Jharkhand,India,500,Train,Work,22.7203616,75.8681996,23.3700501,85.3250387
+1009,2025-07-18 08:00:00,Bhopal,Madhya Pradesh,India,Goa,Goa,India,209,Car,Work,23.2584857,77.401989,15.4989946,73.8282141
+1009,2025-07-19 18:00:00,Visakhapatnam,Andhra Pradesh,India,Lucknow,Uttar Pradesh,India,1439,Flight,Tourism,17.6935526,83.2921297,26.8381,80.9346001
+1009,2025-07-21 01:00:00,Dehradun,Uttarakhand,India,Pune,Maharashtra,India,587,Bus,Leisure,30.3255646,78.0436813,18.5213738,73.8545071
+1009,2025-07-22 04:00:00,Thiruvananthapuram,Kerala,India,New Delhi,Delhi,India,1481,Flight,Work,8.4882267,76.947551,28.6430858,77.2192671
+1009,2025-07-27 08:00:00,Lucknow,Uttar Pradesh,India,Kolkata,West Bengal,India,322,Train,Family Visit,26.8381,80.9346001,22.5726459,88.3638953
+1009,2025-07-31 14:00:00,Shimla,Himachal Pradesh,India,Hyderabad,Telangana,India,1268,Car,Return Trip,31.1041526,77.1709729,17.360589,78.4740613
+1009,2025-08-05 17:00:00,Hyderabad,Telangana,India,Varanasi,Uttar Pradesh,India,106,Train,Tourism,17.360589,78.4740613,25.3356491,83.0076292
+1009,2025-08-07 21:00:00,Amritsar,Punjab,India,Jaipur,Rajasthan,India,488,Car,Return Trip,31.6356659,74.8787496,26.9154576,75.8189817
+1009,2025-08-09 03:00:00,Amritsar,Punjab,India,Shimla,Himachal Pradesh,India,345,Bus,Leisure,31.6356659,74.8787496,31.1041526,77.1709729
+1009,2025-08-10 04:00:00,Bhopal,Madhya Pradesh,India,Shimla,Himachal Pradesh,India,1314,Bus,Business,23.2584857,77.401989,31.1041526,77.1709729
+1009,2025-08-12 05:00:00,Indore,Madhya Pradesh,India,New Delhi,Delhi,India,1224,Car,Trekking,22.7203616,75.8681996,28.6430858,77.2192671
+1009,2025-08-14 10:00:00,Surat,Gujarat,India,Nagpur,Maharashtra,India,62,Flight,Business,21.2094892,72.8317058,21.1498134,79.0820556
+1010,2025-03-06 17:00:00,Indore,Madhya Pradesh,India,Bhubaneswar,Odisha,India,208,Bus,Family Visit,22.7203616,75.8681996,20.2602964,85.8394521
+1010,2025-03-07 22:00:00,Goa,Goa,India,Pune,Maharashtra,India,506,Car,Trekking,15.4989946,73.8282141,18.5213738,73.8545071
+1010,2025-03-11 01:00:00,Indore,Madhya Pradesh,India,Bhubaneswar,Odisha,India,302,Car,Trekking,22.7203616,75.8681996,20.2602964,85.8394521
+1010,2025-03-15 07:00:00,Agra,Uttar Pradesh,India,Pune,Maharashtra,India,1343,Car,Return Trip,27.1752554,78.0098161,18.5213738,73.8545071
+1010,2025-03-19 09:00:00,Raipur,Chhattisgarh,India,Indore,Madhya Pradesh,India,300,Bus,Family Visit,21.2380912,81.6336993,22.7203616,75.8681996
+1010,2025-03-23 19:00:00,Hyderabad,Telangana,India,Pune,Maharashtra,India,421,Train,Family Visit,17.360589,78.4740613,18.5213738,73.8545071
+1010,2025-03-29 05:00:00,Lucknow,Uttar Pradesh,India,Hyderabad,Telangana,India,656,Train,Business,26.8381,80.9346001,17.360589,78.4740613
+1010,2025-04-03 06:00:00,Ranchi,Jharkhand,India,Raipur,Chhattisgarh,India,706,Train,Tourism,23.3700501,85.3250387,21.2380912,81.6336993
+1010,2025-04-05 08:00:00,Pune,Maharashtra,India,Bhopal,Madhya Pradesh,India,325,Bus,Family Visit,18.5213738,73.8545071,23.2584857,77.401989
+1010,2025-04-08 12:00:00,Jodhpur,Rajasthan,India,Bhubaneswar,Odisha,India,179,Bus,Leisure,26.2967719,73.0351433,20.2602964,85.8394521
+1010,2025-04-10 21:00:00,Ahmedabad,Gujarat,India,Lucknow,Uttar Pradesh,India,606,Car,Trekking,23.0215374,72.5800568,26.8381,80.9346001
+1010,2025-04-15 02:00:00,Lucknow,Uttar Pradesh,India,Varanasi,Uttar Pradesh,India,320,Bus,Return Trip,26.8381,80.9346001,25.3356491,83.0076292
+1010,2025-04-18 04:00:00,Indore,Madhya Pradesh,India,Ranchi,Jharkhand,India,1298,Flight,Family Visit,22.7203616,75.8681996,23.3700501,85.3250387
+1010,2025-04-21 14:00:00,Hyderabad,Telangana,India,Ahmedabad,Gujarat,India,223,Train,Business,17.360589,78.4740613,23.0215374,72.5800568
+1010,2025-04-24 20:00:00,Manali,Himachal Pradesh,India,Pune,Maharashtra,India,529,Flight,Tourism,32.2454608,77.1872926,18.5213738,73.8545071
+1010,2025-04-26 21:00:00,Guwahati,Assam,India,Lucknow,Uttar Pradesh,India,1394,Train,Trekking,26.1805978,91.753943,26.8381,80.9346001
+1010,2025-04-30 03:00:00,Visakhapatnam,Andhra Pradesh,India,Bhopal,Madhya Pradesh,India,385,Car,Leisure,17.6935526,83.2921297,23.2584857,77.401989
+1010,2025-05-02 07:00:00,New Delhi,Delhi,India,Ranchi,Jharkhand,India,841,Car,Tourism,28.6430858,77.2192671,23.3700501,85.3250387
+1010,2025-05-07 16:00:00,Ahmedabad,Gujarat,India,Chennai,Tamil Nadu,India,803,Bus,Leisure,23.0215374,72.5800568,13.0836939,80.270186
+1010,2025-05-12 02:00:00,Raipur,Chhattisgarh,India,Visakhapatnam,Andhra Pradesh,India,556,Flight,Tourism,21.2380912,81.6336993,17.6935526,83.2921297
+1010,2025-05-14 04:00:00,Thiruvananthapuram,Kerala,India,Pune,Maharashtra,India,897,Car,Leisure,8.4882267,76.947551,18.5213738,73.8545071
+1010,2025-05-15 07:00:00,Nagpur,Maharashtra,India,Guwahati,Assam,India,112,Car,Return Trip,21.1498134,79.0820556,26.1805978,91.753943
+1010,2025-05-18 08:00:00,Raipur,Chhattisgarh,India,Mumbai,Maharashtra,India,1039,Car,Business,21.2380912,81.6336993,19.054999,72.8692035
+1010,2025-05-19 16:00:00,Pune,Maharashtra,India,Kolkata,West Bengal,India,347,Flight,Return Trip,18.5213738,73.8545071,22.5726459,88.3638953
+1010,2025-05-23 23:00:00,Jaipur,Rajasthan,India,Manali,Himachal Pradesh,India,478,Car,Return Trip,26.9154576,75.8189817,32.2454608,77.1872926
+1010,2025-05-27 09:00:00,Bhopal,Madhya Pradesh,India,Agra,Uttar Pradesh,India,835,Train,Trekking,23.2584857,77.401989,27.1752554,78.0098161
+1010,2025-05-31 10:00:00,Goa,Goa,India,Jaipur,Rajasthan,India,367,Car,Leisure,15.4989946,73.8282141,26.9154576,75.8189817
+1010,2025-06-05 15:00:00,Surat,Gujarat,India,Manali,Himachal Pradesh,India,696,Train,Family Visit,21.2094892,72.8317058,32.2454608,77.1872926
+1010,2025-06-09 17:00:00,Ranchi,Jharkhand,India,Hyderabad,Telangana,India,916,Train,Trekking,23.3700501,85.3250387,17.360589,78.4740613
+1010,2025-06-13 22:00:00,Visakhapatnam,Andhra Pradesh,India,Amritsar,Punjab,India,144,Train,Family Visit,17.6935526,83.2921297,31.6356659,74.8787496
+1010,2025-06-19 03:00:00,Mumbai,Maharashtra,India,Hyderabad,Telangana,India,929,Flight,Return Trip,19.054999,72.8692035,17.360589,78.4740613
+1010,2025-06-21 09:00:00,Pune,Maharashtra,India,Goa,Goa,India,394,Flight,Tourism,18.5213738,73.8545071,15.4989946,73.8282141
+1010,2025-06-23 14:00:00,New Delhi,Delhi,India,Surat,Gujarat,India,75,Train,Leisure,28.6430858,77.2192671,21.2094892,72.8317058
+1010,2025-06-24 19:00:00,Mumbai,Maharashtra,India,Hyderabad,Telangana,India,1239,Train,Work,19.054999,72.8692035,17.360589,78.4740613
+1010,2025-06-26 02:00:00,Patna,Bihar,India,Jodhpur,Rajasthan,India,393,Flight,Leisure,25.6093239,85.1235252,26.2967719,73.0351433
+1010,2025-06-30 09:00:00,Lucknow,Uttar Pradesh,India,Chandigarh,Chandigarh,India,178,Flight,Tourism,26.8381,80.9346001,30.7334421,76.7797143
+1010,2025-07-03 13:00:00,Amritsar,Punjab,India,Shimla,Himachal Pradesh,India,1040,Bus,Leisure,31.6356659,74.8787496,31.1041526,77.1709729
+1010,2025-07-05 15:00:00,Indore,Madhya Pradesh,India,Hyderabad,Telangana,India,877,Car,Work,22.7203616,75.8681996,17.360589,78.4740613
+1010,2025-07-07 21:00:00,Chennai,Tamil Nadu,India,Varanasi,Uttar Pradesh,India,297,Bus,Work,13.0836939,80.270186,25.3356491,83.0076292
+1010,2025-07-12 00:00:00,New Delhi,Delhi,India,Nagpur,Maharashtra,India,1206,Train,Work,28.6430858,77.2192671,21.1498134,79.0820556
+1010,2025-07-14 05:00:00,Bengaluru,Karnataka,India,Agra,Uttar Pradesh,India,1138,Car,Leisure,12.9767936,77.590082,27.1752554,78.0098161
+1010,2025-07-16 07:00:00,Amritsar,Punjab,India,Dehradun,Uttarakhand,India,928,Car,Return Trip,31.6356659,74.8787496,30.3255646,78.0436813
+1010,2025-07-20 13:00:00,Chennai,Tamil Nadu,India,Pune,Maharashtra,India,1015,Train,Trekking,13.0836939,80.270186,18.5213738,73.8545071
+1010,2025-07-22 18:00:00,Nagpur,Maharashtra,India,Indore,Madhya Pradesh,India,255,Flight,Trekking,21.1498134,79.0820556,22.7203616,75.8681996
+1010,2025-07-23 19:00:00,Dehradun,Uttarakhand,India,Goa,Goa,India,125,Car,Family Visit,30.3255646,78.0436813,15.4989946,73.8282141
+1010,2025-07-27 21:00:00,Guwahati,Assam,India,New Delhi,Delhi,India,709,Bus,Trekking,26.1805978,91.753943,28.6430858,77.2192671
+1010,2025-08-01 02:00:00,Thiruvananthapuram,Kerala,India,Amritsar,Punjab,India,1098,Flight,Tourism,8.4882267,76.947551,31.6356659,74.8787496
+1010,2025-08-04 04:00:00,Guwahati,Assam,India,Bhubaneswar,Odisha,India,580,Flight,Family Visit,26.1805978,91.753943,20.2602964,85.8394521
+1010,2025-08-06 08:00:00,Dehradun,Uttarakhand,India,Shimla,Himachal Pradesh,India,1158,Flight,Leisure,30.3255646,78.0436813,31.1041526,77.1709729
+1010,2025-08-08 13:00:00,Pune,Maharashtra,India,Chandigarh,Chandigarh,India,738,Flight,Tourism,18.5213738,73.8545071,30.7334421,76.7797143
+1011,2025-03-02 16:00:00,Patna,Bihar,India,Bhopal,Madhya Pradesh,India,106,Bus,Return Trip,25.6093239,85.1235252,23.2584857,77.401989
+1011,2025-03-04 22:00:00,Hyderabad,Telangana,India,Surat,Gujarat,India,718,Flight,Trekking,17.360589,78.4740613,21.2094892,72.8317058
+1011,2025-03-09 04:00:00,Patna,Bihar,India,Lucknow,Uttar Pradesh,India,64,Train,Tourism,25.6093239,85.1235252,26.8381,80.9346001
+1011,2025-03-10 14:00:00,Kolkata,West Bengal,India,Surat,Gujarat,India,1219,Train,Tourism,22.5726459,88.3638953,21.2094892,72.8317058
+1011,2025-03-13 21:00:00,Indore,Madhya Pradesh,India,Chennai,Tamil Nadu,India,393,Train,Trekking,22.7203616,75.8681996,13.0836939,80.270186
+1011,2025-03-17 07:00:00,Indore,Madhya Pradesh,India,Jaipur,Rajasthan,India,887,Car,Business,22.7203616,75.8681996,26.9154576,75.8189817
+1011,2025-03-18 10:00:00,Kolkata,West Bengal,India,Thiruvananthapuram,Kerala,India,314,Flight,Return Trip,22.5726459,88.3638953,8.4882267,76.947551
+1011,2025-03-23 11:00:00,Nagpur,Maharashtra,India,Kolkata,West Bengal,India,88,Train,Return Trip,21.1498134,79.0820556,22.5726459,88.3638953
+1011,2025-03-25 18:00:00,Thiruvananthapuram,Kerala,India,Hyderabad,Telangana,India,765,Train,Family Visit,8.4882267,76.947551,17.360589,78.4740613
+1011,2025-03-29 02:00:00,Surat,Gujarat,India,Dehradun,Uttarakhand,India,1500,Car,Tourism,21.2094892,72.8317058,30.3255646,78.0436813
+1011,2025-03-30 05:00:00,Nagpur,Maharashtra,India,Jaipur,Rajasthan,India,1223,Flight,Business,21.1498134,79.0820556,26.9154576,75.8189817
+1011,2025-03-31 07:00:00,Manali,Himachal Pradesh,India,Indore,Madhya Pradesh,India,67,Train,Business,32.2454608,77.1872926,22.7203616,75.8681996
+1011,2025-04-04 11:00:00,Bhubaneswar,Odisha,India,Goa,Goa,India,1426,Bus,Return Trip,20.2602964,85.8394521,15.4989946,73.8282141
+1011,2025-04-08 19:00:00,Nagpur,Maharashtra,India,Chennai,Tamil Nadu,India,843,Flight,Tourism,21.1498134,79.0820556,13.0836939,80.270186
+1011,2025-04-12 03:00:00,Bhopal,Madhya Pradesh,India,Kolkata,West Bengal,India,1021,Car,Business,23.2584857,77.401989,22.5726459,88.3638953
+1011,2025-04-13 05:00:00,Chandigarh,Chandigarh,India,Patna,Bihar,India,538,Car,Family Visit,30.7334421,76.7797143,25.6093239,85.1235252
+1011,2025-04-15 07:00:00,Manali,Himachal Pradesh,India,Jodhpur,Rajasthan,India,399,Bus,Return Trip,32.2454608,77.1872926,26.2967719,73.0351433
+1011,2025-04-20 17:00:00,Chennai,Tamil Nadu,India,Mumbai,Maharashtra,India,95,Train,Tourism,13.0836939,80.270186,19.054999,72.8692035
+1011,2025-04-25 21:00:00,Indore,Madhya Pradesh,India,Visakhapatnam,Andhra Pradesh,India,1468,Train,Tourism,22.7203616,75.8681996,17.6935526,83.2921297
+1011,2025-04-29 22:00:00,Visakhapatnam,Andhra Pradesh,India,Patna,Bihar,India,360,Flight,Trekking,17.6935526,83.2921297,25.6093239,85.1235252
+1011,2025-05-02 05:00:00,Agra,Uttar Pradesh,India,Mumbai,Maharashtra,India,686,Train,Tourism,27.1752554,78.0098161,19.054999,72.8692035
+1011,2025-05-07 08:00:00,Manali,Himachal Pradesh,India,Bhopal,Madhya Pradesh,India,226,Car,Business,32.2454608,77.1872926,23.2584857,77.401989
+1011,2025-05-10 10:00:00,Kolkata,West Bengal,India,Pune,Maharashtra,India,1485,Flight,Tourism,22.5726459,88.3638953,18.5213738,73.8545071
+1011,2025-05-14 12:00:00,Nagpur,Maharashtra,India,Ahmedabad,Gujarat,India,54,Car,Trekking,21.1498134,79.0820556,23.0215374,72.5800568
+1011,2025-05-17 21:00:00,New Delhi,Delhi,India,Goa,Goa,India,924,Flight,Trekking,28.6430858,77.2192671,15.4989946,73.8282141
+1011,2025-05-20 00:00:00,Patna,Bihar,India,Jodhpur,Rajasthan,India,717,Car,Return Trip,25.6093239,85.1235252,26.2967719,73.0351433
+1011,2025-05-22 05:00:00,New Delhi,Delhi,India,Jaipur,Rajasthan,India,637,Bus,Work,28.6430858,77.2192671,26.9154576,75.8189817
+1011,2025-05-25 08:00:00,Raipur,Chhattisgarh,India,Ahmedabad,Gujarat,India,1111,Bus,Work,21.2380912,81.6336993,23.0215374,72.5800568
+1011,2025-05-27 12:00:00,Hyderabad,Telangana,India,Goa,Goa,India,1140,Car,Tourism,17.360589,78.4740613,15.4989946,73.8282141
+1011,2025-05-28 22:00:00,Manali,Himachal Pradesh,India,Goa,Goa,India,917,Car,Tourism,32.2454608,77.1872926,15.4989946,73.8282141
+1011,2025-05-30 23:00:00,Dehradun,Uttarakhand,India,New Delhi,Delhi,India,225,Bus,Family Visit,30.3255646,78.0436813,28.6430858,77.2192671
+1011,2025-06-05 04:00:00,Hyderabad,Telangana,India,Bengaluru,Karnataka,India,1164,Flight,Return Trip,17.360589,78.4740613,12.9767936,77.590082
+1011,2025-06-08 07:00:00,Nagpur,Maharashtra,India,Thiruvananthapuram,Kerala,India,587,Bus,Family Visit,21.1498134,79.0820556,8.4882267,76.947551
+1011,2025-06-11 17:00:00,Goa,Goa,India,Jaipur,Rajasthan,India,1208,Bus,Trekking,15.4989946,73.8282141,26.9154576,75.8189817
+1011,2025-06-12 21:00:00,Mumbai,Maharashtra,India,Thiruvananthapuram,Kerala,India,325,Flight,Return Trip,19.054999,72.8692035,8.4882267,76.947551
+1011,2025-06-16 03:00:00,Chennai,Tamil Nadu,India,Thiruvananthapuram,Kerala,India,1161,Car,Business,13.0836939,80.270186,8.4882267,76.947551
+1011,2025-06-21 09:00:00,Kolkata,West Bengal,India,Amritsar,Punjab,India,234,Bus,Family Visit,22.5726459,88.3638953,31.6356659,74.8787496
+1011,2025-06-22 18:00:00,Nagpur,Maharashtra,India,Jaipur,Rajasthan,India,621,Flight,Business,21.1498134,79.0820556,26.9154576,75.8189817
+1011,2025-06-25 00:00:00,Guwahati,Assam,India,Kolkata,West Bengal,India,484,Car,Family Visit,26.1805978,91.753943,22.5726459,88.3638953
+1011,2025-06-29 08:00:00,Patna,Bihar,India,New Delhi,Delhi,India,90,Train,Family Visit,25.6093239,85.1235252,28.6430858,77.2192671
+1011,2025-07-04 09:00:00,Dehradun,Uttarakhand,India,Goa,Goa,India,679,Car,Family Visit,30.3255646,78.0436813,15.4989946,73.8282141
+1011,2025-07-05 15:00:00,Bengaluru,Karnataka,India,Lucknow,Uttar Pradesh,India,1381,Flight,Work,12.9767936,77.590082,26.8381,80.9346001
+1011,2025-07-08 17:00:00,Hyderabad,Telangana,India,Chandigarh,Chandigarh,India,129,Bus,Trekking,17.360589,78.4740613,30.7334421,76.7797143
+1011,2025-07-10 19:00:00,Ranchi,Jharkhand,India,Guwahati,Assam,India,1417,Flight,Work,23.3700501,85.3250387,26.1805978,91.753943
+1011,2025-07-12 01:00:00,Visakhapatnam,Andhra Pradesh,India,Ahmedabad,Gujarat,India,1146,Train,Work,17.6935526,83.2921297,23.0215374,72.5800568
+1011,2025-07-15 10:00:00,Chandigarh,Chandigarh,India,Bhubaneswar,Odisha,India,1107,Flight,Trekking,30.7334421,76.7797143,20.2602964,85.8394521
+1011,2025-07-19 17:00:00,Lucknow,Uttar Pradesh,India,Varanasi,Uttar Pradesh,India,432,Train,Return Trip,26.8381,80.9346001,25.3356491,83.0076292
+1011,2025-07-24 22:00:00,Dehradun,Uttarakhand,India,Thiruvananthapuram,Kerala,India,687,Train,Trekking,30.3255646,78.0436813,8.4882267,76.947551
+1011,2025-07-30 03:00:00,Jaipur,Rajasthan,India,Visakhapatnam,Andhra Pradesh,India,414,Car,Trekking,26.9154576,75.8189817,17.6935526,83.2921297
+1011,2025-07-31 09:00:00,Chennai,Tamil Nadu,India,Guwahati,Assam,India,1288,Flight,Family Visit,13.0836939,80.270186,26.1805978,91.753943
+1012,2025-03-04 18:00:00,Bhubaneswar,Odisha,India,Nagpur,Maharashtra,India,1069,Train,Work,20.2602964,85.8394521,21.1498134,79.0820556
+1012,2025-03-10 03:00:00,Kolkata,West Bengal,India,Visakhapatnam,Andhra Pradesh,India,682,Train,Work,22.5726459,88.3638953,17.6935526,83.2921297
+1012,2025-03-13 05:00:00,Dehradun,Uttarakhand,India,Amritsar,Punjab,India,845,Flight,Business,30.3255646,78.0436813,31.6356659,74.8787496
+1012,2025-03-14 14:00:00,Chandigarh,Chandigarh,India,Manali,Himachal Pradesh,India,120,Train,Trekking,30.7334421,76.7797143,32.2454608,77.1872926
+1012,2025-03-19 15:00:00,Mumbai,Maharashtra,India,Hyderabad,Telangana,India,582,Flight,Family Visit,19.054999,72.8692035,17.360589,78.4740613
+1012,2025-03-22 01:00:00,Varanasi,Uttar Pradesh,India,Bhubaneswar,Odisha,India,337,Flight,Work,25.3356491,83.0076292,20.2602964,85.8394521
+1012,2025-03-26 05:00:00,Patna,Bihar,India,New Delhi,Delhi,India,696,Car,Trekking,25.6093239,85.1235252,28.6430858,77.2192671
+1012,2025-03-31 06:00:00,Pune,Maharashtra,India,Lucknow,Uttar Pradesh,India,259,Flight,Trekking,18.5213738,73.8545071,26.8381,80.9346001
+1012,2025-04-01 10:00:00,Guwahati,Assam,India,Dehradun,Uttarakhand,India,1234,Train,Return Trip,26.1805978,91.753943,30.3255646,78.0436813
+1012,2025-04-04 20:00:00,Shimla,Himachal Pradesh,India,Patna,Bihar,India,1290,Bus,Leisure,31.1041526,77.1709729,25.6093239,85.1235252
+1012,2025-04-06 22:00:00,Pune,Maharashtra,India,Manali,Himachal Pradesh,India,734,Train,Trekking,18.5213738,73.8545071,32.2454608,77.1872926
+1012,2025-04-12 06:00:00,Jaipur,Rajasthan,India,Manali,Himachal Pradesh,India,983,Bus,Work,26.9154576,75.8189817,32.2454608,77.1872926
+1012,2025-04-13 07:00:00,Manali,Himachal Pradesh,India,Bhubaneswar,Odisha,India,105,Bus,Work,32.2454608,77.1872926,20.2602964,85.8394521
+1012,2025-04-15 13:00:00,Ranchi,Jharkhand,India,Chandigarh,Chandigarh,India,508,Train,Family Visit,23.3700501,85.3250387,30.7334421,76.7797143
+1012,2025-04-18 15:00:00,Shimla,Himachal Pradesh,India,Bengaluru,Karnataka,India,894,Train,Return Trip,31.1041526,77.1709729,12.9767936,77.590082
+1012,2025-04-23 23:00:00,Amritsar,Punjab,India,Manali,Himachal Pradesh,India,1394,Bus,Work,31.6356659,74.8787496,32.2454608,77.1872926
+1012,2025-04-29 05:00:00,Nagpur,Maharashtra,India,Patna,Bihar,India,482,Flight,Work,21.1498134,79.0820556,25.6093239,85.1235252
+1012,2025-05-03 09:00:00,Goa,Goa,India,Jodhpur,Rajasthan,India,1042,Flight,Tourism,15.4989946,73.8282141,26.2967719,73.0351433
+1012,2025-05-07 17:00:00,Jaipur,Rajasthan,India,Manali,Himachal Pradesh,India,1345,Flight,Leisure,26.9154576,75.8189817,32.2454608,77.1872926
+1012,2025-05-10 02:00:00,Chennai,Tamil Nadu,India,Bhubaneswar,Odisha,India,568,Bus,Tourism,13.0836939,80.270186,20.2602964,85.8394521
+1012,2025-05-15 05:00:00,Bengaluru,Karnataka,India,Guwahati,Assam,India,466,Bus,Work,12.9767936,77.590082,26.1805978,91.753943
+1012,2025-05-19 10:00:00,Shimla,Himachal Pradesh,India,Indore,Madhya Pradesh,India,1376,Train,Return Trip,31.1041526,77.1709729,22.7203616,75.8681996
+1012,2025-05-20 17:00:00,Visakhapatnam,Andhra Pradesh,India,Jaipur,Rajasthan,India,326,Flight,Leisure,17.6935526,83.2921297,26.9154576,75.8189817
+1012,2025-05-24 21:00:00,Bengaluru,Karnataka,India,Raipur,Chhattisgarh,India,1102,Flight,Tourism,12.9767936,77.590082,21.2380912,81.6336993
+1012,2025-05-28 00:00:00,Pune,Maharashtra,India,Jodhpur,Rajasthan,India,1301,Bus,Work,18.5213738,73.8545071,26.2967719,73.0351433
+1012,2025-05-29 07:00:00,Nagpur,Maharashtra,India,Ahmedabad,Gujarat,India,970,Train,Tourism,21.1498134,79.0820556,23.0215374,72.5800568
+1012,2025-05-30 16:00:00,Chennai,Tamil Nadu,India,Agra,Uttar Pradesh,India,414,Car,Business,13.0836939,80.270186,27.1752554,78.0098161
+1012,2025-06-04 22:00:00,Manali,Himachal Pradesh,India,Surat,Gujarat,India,1170,Car,Family Visit,32.2454608,77.1872926,21.2094892,72.8317058
+1012,2025-06-10 05:00:00,Guwahati,Assam,India,Thiruvananthapuram,Kerala,India,181,Flight,Tourism,26.1805978,91.753943,8.4882267,76.947551
+1012,2025-06-13 15:00:00,Jodhpur,Rajasthan,India,Amritsar,Punjab,India,1116,Train,Tourism,26.2967719,73.0351433,31.6356659,74.8787496
+1012,2025-06-17 21:00:00,Kolkata,West Bengal,India,Raipur,Chhattisgarh,India,92,Train,Leisure,22.5726459,88.3638953,21.2380912,81.6336993
+1012,2025-06-20 06:00:00,New Delhi,Delhi,India,Manali,Himachal Pradesh,India,1130,Train,Business,28.6430858,77.2192671,32.2454608,77.1872926
+1012,2025-06-21 12:00:00,Pune,Maharashtra,India,Nagpur,Maharashtra,India,351,Car,Trekking,18.5213738,73.8545071,21.1498134,79.0820556
+1012,2025-06-25 20:00:00,Visakhapatnam,Andhra Pradesh,India,Jaipur,Rajasthan,India,214,Bus,Tourism,17.6935526,83.2921297,26.9154576,75.8189817
+1012,2025-06-28 01:00:00,Nagpur,Maharashtra,India,Chennai,Tamil Nadu,India,116,Flight,Trekking,21.1498134,79.0820556,13.0836939,80.270186
+1012,2025-07-01 06:00:00,Mumbai,Maharashtra,India,Amritsar,Punjab,India,150,Car,Family Visit,19.054999,72.8692035,31.6356659,74.8787496
+1012,2025-07-03 12:00:00,Patna,Bihar,India,Ahmedabad,Gujarat,India,1323,Bus,Leisure,25.6093239,85.1235252,23.0215374,72.5800568
+1012,2025-07-08 18:00:00,Varanasi,Uttar Pradesh,India,Amritsar,Punjab,India,1221,Train,Work,25.3356491,83.0076292,31.6356659,74.8787496
+1012,2025-07-13 01:00:00,Chennai,Tamil Nadu,India,Ahmedabad,Gujarat,India,1409,Flight,Leisure,13.0836939,80.270186,23.0215374,72.5800568
+1012,2025-07-16 02:00:00,Thiruvananthapuram,Kerala,India,Manali,Himachal Pradesh,India,74,Bus,Business,8.4882267,76.947551,32.2454608,77.1872926
+1012,2025-07-17 12:00:00,Nagpur,Maharashtra,India,Mumbai,Maharashtra,India,620,Flight,Return Trip,21.1498134,79.0820556,19.054999,72.8692035
+1012,2025-07-18 16:00:00,Guwahati,Assam,India,Bengaluru,Karnataka,India,1241,Train,Family Visit,26.1805978,91.753943,12.9767936,77.590082
+1012,2025-07-19 20:00:00,Thiruvananthapuram,Kerala,India,Ahmedabad,Gujarat,India,716,Bus,Business,8.4882267,76.947551,23.0215374,72.5800568
+1012,2025-07-23 22:00:00,Patna,Bihar,India,Thiruvananthapuram,Kerala,India,1284,Flight,Trekking,25.6093239,85.1235252,8.4882267,76.947551
+1012,2025-07-25 07:00:00,Thiruvananthapuram,Kerala,India,Ahmedabad,Gujarat,India,1000,Car,Trekking,8.4882267,76.947551,23.0215374,72.5800568
+1012,2025-07-28 11:00:00,Ahmedabad,Gujarat,India,Bhopal,Madhya Pradesh,India,966,Train,Leisure,23.0215374,72.5800568,23.2584857,77.401989
+1012,2025-08-01 14:00:00,Mumbai,Maharashtra,India,Jaipur,Rajasthan,India,984,Car,Return Trip,19.054999,72.8692035,26.9154576,75.8189817
+1012,2025-08-03 00:00:00,Chennai,Tamil Nadu,India,Ranchi,Jharkhand,India,810,Bus,Trekking,13.0836939,80.270186,23.3700501,85.3250387
+1012,2025-08-04 01:00:00,Surat,Gujarat,India,Manali,Himachal Pradesh,India,422,Train,Return Trip,21.2094892,72.8317058,32.2454608,77.1872926
+1012,2025-08-05 08:00:00,Goa,Goa,India,Chennai,Tamil Nadu,India,1122,Train,Leisure,15.4989946,73.8282141,13.0836939,80.270186
+1013,2025-03-05 15:00:00,Varanasi,Uttar Pradesh,India,Patna,Bihar,India,122,Flight,Trekking,25.3356491,83.0076292,25.6093239,85.1235252
+1013,2025-03-10 21:00:00,Bhubaneswar,Odisha,India,Mumbai,Maharashtra,India,1011,Bus,Return Trip,20.2602964,85.8394521,19.054999,72.8692035
+1013,2025-03-14 00:00:00,Pune,Maharashtra,India,Visakhapatnam,Andhra Pradesh,India,1033,Car,Work,18.5213738,73.8545071,17.6935526,83.2921297
+1013,2025-03-18 05:00:00,Manali,Himachal Pradesh,India,Guwahati,Assam,India,625,Flight,Return Trip,32.2454608,77.1872926,26.1805978,91.753943
+1013,2025-03-23 06:00:00,Kolkata,West Bengal,India,Lucknow,Uttar Pradesh,India,1246,Bus,Leisure,22.5726459,88.3638953,26.8381,80.9346001
+1013,2025-03-24 12:00:00,Bhubaneswar,Odisha,India,Thiruvananthapuram,Kerala,India,314,Flight,Work,20.2602964,85.8394521,8.4882267,76.947551
+1013,2025-03-27 21:00:00,Goa,Goa,India,Agra,Uttar Pradesh,India,672,Flight,Family Visit,15.4989946,73.8282141,27.1752554,78.0098161
+1013,2025-03-29 23:00:00,Manali,Himachal Pradesh,India,Kolkata,West Bengal,India,173,Flight,Family Visit,32.2454608,77.1872926,22.5726459,88.3638953
+1013,2025-04-04 01:00:00,Ahmedabad,Gujarat,India,Jaipur,Rajasthan,India,158,Train,Leisure,23.0215374,72.5800568,26.9154576,75.8189817
+1013,2025-04-09 03:00:00,Bhubaneswar,Odisha,India,Mumbai,Maharashtra,India,370,Flight,Business,20.2602964,85.8394521,19.054999,72.8692035
+1013,2025-04-11 06:00:00,Agra,Uttar Pradesh,India,Goa,Goa,India,997,Train,Trekking,27.1752554,78.0098161,15.4989946,73.8282141
+1013,2025-04-16 07:00:00,Bengaluru,Karnataka,India,Dehradun,Uttarakhand,India,1167,Bus,Business,12.9767936,77.590082,30.3255646,78.0436813
+1013,2025-04-19 11:00:00,Surat,Gujarat,India,Raipur,Chhattisgarh,India,805,Train,Leisure,21.2094892,72.8317058,21.2380912,81.6336993
+1013,2025-04-21 15:00:00,Kolkata,West Bengal,India,Jodhpur,Rajasthan,India,64,Flight,Business,22.5726459,88.3638953,26.2967719,73.0351433
+1013,2025-04-23 17:00:00,Jaipur,Rajasthan,India,Bhubaneswar,Odisha,India,663,Train,Trekking,26.9154576,75.8189817,20.2602964,85.8394521
+1013,2025-04-28 00:00:00,Agra,Uttar Pradesh,India,Jaipur,Rajasthan,India,994,Car,Tourism,27.1752554,78.0098161,26.9154576,75.8189817
+1013,2025-04-30 03:00:00,Varanasi,Uttar Pradesh,India,Bhubaneswar,Odisha,India,989,Train,Leisure,25.3356491,83.0076292,20.2602964,85.8394521
+1013,2025-05-01 09:00:00,Surat,Gujarat,India,Amritsar,Punjab,India,1203,Bus,Tourism,21.2094892,72.8317058,31.6356659,74.8787496
+1013,2025-05-04 13:00:00,Chandigarh,Chandigarh,India,Thiruvananthapuram,Kerala,India,852,Train,Trekking,30.7334421,76.7797143,8.4882267,76.947551
+1013,2025-05-09 17:00:00,Bhubaneswar,Odisha,India,Nagpur,Maharashtra,India,402,Flight,Tourism,20.2602964,85.8394521,21.1498134,79.0820556
+1013,2025-05-11 02:00:00,Pune,Maharashtra,India,Chandigarh,Chandigarh,India,461,Flight,Tourism,18.5213738,73.8545071,30.7334421,76.7797143
+1013,2025-05-14 04:00:00,Mumbai,Maharashtra,India,Dehradun,Uttarakhand,India,1182,Car,Return Trip,19.054999,72.8692035,30.3255646,78.0436813
+1013,2025-05-17 09:00:00,Amritsar,Punjab,India,Lucknow,Uttar Pradesh,India,630,Train,Family Visit,31.6356659,74.8787496,26.8381,80.9346001
+1013,2025-05-19 10:00:00,Nagpur,Maharashtra,India,Bhubaneswar,Odisha,India,450,Car,Business,21.1498134,79.0820556,20.2602964,85.8394521
+1013,2025-05-22 16:00:00,Thiruvananthapuram,Kerala,India,Patna,Bihar,India,385,Flight,Trekking,8.4882267,76.947551,25.6093239,85.1235252
+1013,2025-05-24 17:00:00,Varanasi,Uttar Pradesh,India,Manali,Himachal Pradesh,India,433,Car,Family Visit,25.3356491,83.0076292,32.2454608,77.1872926
+1013,2025-05-26 20:00:00,Lucknow,Uttar Pradesh,India,Bhubaneswar,Odisha,India,1279,Flight,Work,26.8381,80.9346001,20.2602964,85.8394521
+1013,2025-05-27 22:00:00,Amritsar,Punjab,India,Indore,Madhya Pradesh,India,1416,Train,Return Trip,31.6356659,74.8787496,22.7203616,75.8681996
+1013,2025-06-02 01:00:00,Mumbai,Maharashtra,India,Jaipur,Rajasthan,India,555,Bus,Leisure,19.054999,72.8692035,26.9154576,75.8189817
+1013,2025-06-05 07:00:00,Indore,Madhya Pradesh,India,Hyderabad,Telangana,India,1076,Car,Tourism,22.7203616,75.8681996,17.360589,78.4740613
+1013,2025-06-10 09:00:00,Pune,Maharashtra,India,Kolkata,West Bengal,India,298,Car,Work,18.5213738,73.8545071,22.5726459,88.3638953
+1013,2025-06-14 10:00:00,Patna,Bihar,India,Manali,Himachal Pradesh,India,106,Train,Family Visit,25.6093239,85.1235252,32.2454608,77.1872926
+1013,2025-06-19 17:00:00,Guwahati,Assam,India,Manali,Himachal Pradesh,India,583,Bus,Business,26.1805978,91.753943,32.2454608,77.1872926
+1013,2025-06-21 22:00:00,Shimla,Himachal Pradesh,India,Lucknow,Uttar Pradesh,India,936,Flight,Return Trip,31.1041526,77.1709729,26.8381,80.9346001
+1013,2025-06-24 04:00:00,Bhubaneswar,Odisha,India,Bhopal,Madhya Pradesh,India,788,Flight,Work,20.2602964,85.8394521,23.2584857,77.401989
+1013,2025-06-28 09:00:00,Mumbai,Maharashtra,India,Bhopal,Madhya Pradesh,India,703,Flight,Trekking,19.054999,72.8692035,23.2584857,77.401989
+1013,2025-07-01 10:00:00,Ahmedabad,Gujarat,India,Goa,Goa,India,1099,Flight,Family Visit,23.0215374,72.5800568,15.4989946,73.8282141
+1013,2025-07-06 16:00:00,Varanasi,Uttar Pradesh,India,Bengaluru,Karnataka,India,1176,Bus,Trekking,25.3356491,83.0076292,12.9767936,77.590082
+1013,2025-07-11 18:00:00,Chandigarh,Chandigarh,India,Bhopal,Madhya Pradesh,India,63,Train,Work,30.7334421,76.7797143,23.2584857,77.401989
+1013,2025-07-16 04:00:00,Kolkata,West Bengal,India,Thiruvananthapuram,Kerala,India,973,Flight,Work,22.5726459,88.3638953,8.4882267,76.947551
+1013,2025-07-17 10:00:00,Hyderabad,Telangana,India,Raipur,Chhattisgarh,India,1068,Flight,Leisure,17.360589,78.4740613,21.2380912,81.6336993
+1013,2025-07-21 13:00:00,Guwahati,Assam,India,Bengaluru,Karnataka,India,961,Car,Tourism,26.1805978,91.753943,12.9767936,77.590082
+1013,2025-07-22 18:00:00,Jaipur,Rajasthan,India,Mumbai,Maharashtra,India,98,Car,Trekking,26.9154576,75.8189817,19.054999,72.8692035
+1013,2025-07-25 01:00:00,Ranchi,Jharkhand,India,Amritsar,Punjab,India,892,Flight,Return Trip,23.3700501,85.3250387,31.6356659,74.8787496
+1013,2025-07-28 09:00:00,Kolkata,West Bengal,India,Varanasi,Uttar Pradesh,India,369,Flight,Trekking,22.5726459,88.3638953,25.3356491,83.0076292
+1013,2025-07-31 17:00:00,Ahmedabad,Gujarat,India,Thiruvananthapuram,Kerala,India,1394,Flight,Trekking,23.0215374,72.5800568,8.4882267,76.947551
+1013,2025-08-06 01:00:00,Mumbai,Maharashtra,India,Chennai,Tamil Nadu,India,732,Flight,Tourism,19.054999,72.8692035,13.0836939,80.270186
+1013,2025-08-10 05:00:00,Bengaluru,Karnataka,India,Shimla,Himachal Pradesh,India,641,Car,Business,12.9767936,77.590082,31.1041526,77.1709729
+1013,2025-08-14 10:00:00,Jodhpur,Rajasthan,India,Visakhapatnam,Andhra Pradesh,India,1483,Car,Return Trip,26.2967719,73.0351433,17.6935526,83.2921297
+1013,2025-08-19 16:00:00,Jaipur,Rajasthan,India,Chennai,Tamil Nadu,India,1258,Train,Business,26.9154576,75.8189817,13.0836939,80.270186
+1014,2025-03-06 11:00:00,Amritsar,Punjab,India,Shimla,Himachal Pradesh,India,1402,Bus,Return Trip,31.6356659,74.8787496,31.1041526,77.1709729
+1014,2025-03-08 14:00:00,Surat,Gujarat,India,Dehradun,Uttarakhand,India,114,Train,Return Trip,21.2094892,72.8317058,30.3255646,78.0436813
+1014,2025-03-10 22:00:00,Guwahati,Assam,India,Lucknow,Uttar Pradesh,India,1343,Train,Trekking,26.1805978,91.753943,26.8381,80.9346001
+1014,2025-03-16 08:00:00,Surat,Gujarat,India,Amritsar,Punjab,India,80,Flight,Trekking,21.2094892,72.8317058,31.6356659,74.8787496
+1014,2025-03-17 18:00:00,Visakhapatnam,Andhra Pradesh,India,Chandigarh,Chandigarh,India,691,Car,Tourism,17.6935526,83.2921297,30.7334421,76.7797143
+1014,2025-03-21 20:00:00,Jaipur,Rajasthan,India,Kolkata,West Bengal,India,732,Bus,Leisure,26.9154576,75.8189817,22.5726459,88.3638953
+1014,2025-03-24 03:00:00,Goa,Goa,India,New Delhi,Delhi,India,259,Bus,Business,15.4989946,73.8282141,28.6430858,77.2192671
+1014,2025-03-29 12:00:00,Lucknow,Uttar Pradesh,India,Varanasi,Uttar Pradesh,India,928,Flight,Return Trip,26.8381,80.9346001,25.3356491,83.0076292
+1014,2025-04-03 21:00:00,Manali,Himachal Pradesh,India,Guwahati,Assam,India,1123,Train,Work,32.2454608,77.1872926,26.1805978,91.753943
+1014,2025-04-07 04:00:00,Hyderabad,Telangana,India,New Delhi,Delhi,India,1479,Car,Trekking,17.360589,78.4740613,28.6430858,77.2192671
+1014,2025-04-10 10:00:00,Bengaluru,Karnataka,India,Indore,Madhya Pradesh,India,1232,Bus,Family Visit,12.9767936,77.590082,22.7203616,75.8681996
+1014,2025-04-12 13:00:00,Amritsar,Punjab,India,Chandigarh,Chandigarh,India,1079,Bus,Family Visit,31.6356659,74.8787496,30.7334421,76.7797143
+1014,2025-04-14 22:00:00,Nagpur,Maharashtra,India,Indore,Madhya Pradesh,India,1252,Car,Tourism,21.1498134,79.0820556,22.7203616,75.8681996
+1014,2025-04-19 07:00:00,Jaipur,Rajasthan,India,Ahmedabad,Gujarat,India,451,Train,Work,26.9154576,75.8189817,23.0215374,72.5800568
+1014,2025-04-23 15:00:00,Agra,Uttar Pradesh,India,Mumbai,Maharashtra,India,318,Train,Tourism,27.1752554,78.0098161,19.054999,72.8692035
+1014,2025-04-28 17:00:00,Lucknow,Uttar Pradesh,India,Patna,Bihar,India,1360,Flight,Business,26.8381,80.9346001,25.6093239,85.1235252
+1014,2025-05-01 19:00:00,Varanasi,Uttar Pradesh,India,Indore,Madhya Pradesh,India,301,Bus,Tourism,25.3356491,83.0076292,22.7203616,75.8681996
+1014,2025-05-03 20:00:00,Mumbai,Maharashtra,India,Jaipur,Rajasthan,India,977,Car,Tourism,19.054999,72.8692035,26.9154576,75.8189817
+1014,2025-05-07 02:00:00,Patna,Bihar,India,Bengaluru,Karnataka,India,1160,Flight,Business,25.6093239,85.1235252,12.9767936,77.590082
+1014,2025-05-12 10:00:00,Chennai,Tamil Nadu,India,Nagpur,Maharashtra,India,1232,Bus,Family Visit,13.0836939,80.270186,21.1498134,79.0820556
+1014,2025-05-13 19:00:00,Pune,Maharashtra,India,Goa,Goa,India,859,Car,Family Visit,18.5213738,73.8545071,15.4989946,73.8282141
+1014,2025-05-16 01:00:00,Nagpur,Maharashtra,India,New Delhi,Delhi,India,984,Train,Family Visit,21.1498134,79.0820556,28.6430858,77.2192671
+1014,2025-05-20 10:00:00,Lucknow,Uttar Pradesh,India,Amritsar,Punjab,India,279,Flight,Family Visit,26.8381,80.9346001,31.6356659,74.8787496
+1014,2025-05-25 11:00:00,Surat,Gujarat,India,Visakhapatnam,Andhra Pradesh,India,448,Flight,Leisure,21.2094892,72.8317058,17.6935526,83.2921297
+1014,2025-05-28 13:00:00,Visakhapatnam,Andhra Pradesh,India,Shimla,Himachal Pradesh,India,62,Bus,Tourism,17.6935526,83.2921297,31.1041526,77.1709729
+1014,2025-06-01 20:00:00,Kolkata,West Bengal,India,Chennai,Tamil Nadu,India,1327,Train,Family Visit,22.5726459,88.3638953,13.0836939,80.270186
+1014,2025-06-03 23:00:00,Kolkata,West Bengal,India,Pune,Maharashtra,India,1190,Car,Return Trip,22.5726459,88.3638953,18.5213738,73.8545071
+1014,2025-06-05 02:00:00,Jodhpur,Rajasthan,India,Chandigarh,Chandigarh,India,281,Train,Family Visit,26.2967719,73.0351433,30.7334421,76.7797143
+1014,2025-06-08 03:00:00,Chandigarh,Chandigarh,India,Bhopal,Madhya Pradesh,India,1298,Flight,Trekking,30.7334421,76.7797143,23.2584857,77.401989
+1014,2025-06-09 07:00:00,Thiruvananthapuram,Kerala,India,Visakhapatnam,Andhra Pradesh,India,274,Train,Tourism,8.4882267,76.947551,17.6935526,83.2921297
+1014,2025-06-13 17:00:00,Raipur,Chhattisgarh,India,Ranchi,Jharkhand,India,1353,Bus,Trekking,21.2380912,81.6336993,23.3700501,85.3250387
+1014,2025-06-14 21:00:00,Goa,Goa,India,Patna,Bihar,India,606,Car,Return Trip,15.4989946,73.8282141,25.6093239,85.1235252
+1014,2025-06-17 01:00:00,Patna,Bihar,India,Chandigarh,Chandigarh,India,890,Car,Trekking,25.6093239,85.1235252,30.7334421,76.7797143
+1014,2025-06-21 10:00:00,Raipur,Chhattisgarh,India,Manali,Himachal Pradesh,India,194,Flight,Return Trip,21.2380912,81.6336993,32.2454608,77.1872926
+1014,2025-06-26 15:00:00,New Delhi,Delhi,India,Agra,Uttar Pradesh,India,218,Train,Family Visit,28.6430858,77.2192671,27.1752554,78.0098161
+1014,2025-07-02 00:00:00,Surat,Gujarat,India,Visakhapatnam,Andhra Pradesh,India,1432,Flight,Business,21.2094892,72.8317058,17.6935526,83.2921297
+1014,2025-07-03 09:00:00,Jaipur,Rajasthan,India,Pune,Maharashtra,India,199,Flight,Work,26.9154576,75.8189817,18.5213738,73.8545071
+1014,2025-07-07 11:00:00,Goa,Goa,India,Chandigarh,Chandigarh,India,59,Flight,Family Visit,15.4989946,73.8282141,30.7334421,76.7797143
+1014,2025-07-10 15:00:00,Bhubaneswar,Odisha,India,Nagpur,Maharashtra,India,1086,Flight,Business,20.2602964,85.8394521,21.1498134,79.0820556
+1014,2025-07-12 22:00:00,Amritsar,Punjab,India,Varanasi,Uttar Pradesh,India,288,Car,Return Trip,31.6356659,74.8787496,25.3356491,83.0076292
+1014,2025-07-14 07:00:00,Jaipur,Rajasthan,India,Jodhpur,Rajasthan,India,201,Bus,Return Trip,26.9154576,75.8189817,26.2967719,73.0351433
+1014,2025-07-17 09:00:00,New Delhi,Delhi,India,Agra,Uttar Pradesh,India,577,Bus,Tourism,28.6430858,77.2192671,27.1752554,78.0098161
+1014,2025-07-18 15:00:00,Indore,Madhya Pradesh,India,Lucknow,Uttar Pradesh,India,688,Bus,Family Visit,22.7203616,75.8681996,26.8381,80.9346001
+1014,2025-07-21 16:00:00,Amritsar,Punjab,India,Indore,Madhya Pradesh,India,319,Flight,Work,31.6356659,74.8787496,22.7203616,75.8681996
+1014,2025-07-23 17:00:00,Ahmedabad,Gujarat,India,Ranchi,Jharkhand,India,129,Train,Trekking,23.0215374,72.5800568,23.3700501,85.3250387
+1014,2025-07-29 01:00:00,Ranchi,Jharkhand,India,Shimla,Himachal Pradesh,India,502,Car,Family Visit,23.3700501,85.3250387,31.1041526,77.1709729
+1014,2025-08-01 08:00:00,Agra,Uttar Pradesh,India,Goa,Goa,India,350,Car,Business,27.1752554,78.0098161,15.4989946,73.8282141
+1014,2025-08-04 16:00:00,Nagpur,Maharashtra,India,Thiruvananthapuram,Kerala,India,68,Car,Work,21.1498134,79.0820556,8.4882267,76.947551
+1014,2025-08-10 01:00:00,Goa,Goa,India,Guwahati,Assam,India,762,Flight,Return Trip,15.4989946,73.8282141,26.1805978,91.753943
+1014,2025-08-12 11:00:00,Bengaluru,Karnataka,India,Jaipur,Rajasthan,India,491,Car,Leisure,12.9767936,77.590082,26.9154576,75.8189817
+1015,2025-03-02 12:00:00,Ranchi,Jharkhand,India,Goa,Goa,India,1283,Car,Work,23.3700501,85.3250387,15.4989946,73.8282141
+1015,2025-03-06 19:00:00,Amritsar,Punjab,India,Patna,Bihar,India,198,Flight,Tourism,31.6356659,74.8787496,25.6093239,85.1235252
+1015,2025-03-09 21:00:00,Varanasi,Uttar Pradesh,India,Chennai,Tamil Nadu,India,961,Train,Return Trip,25.3356491,83.0076292,13.0836939,80.270186
+1015,2025-03-11 05:00:00,Raipur,Chhattisgarh,India,Visakhapatnam,Andhra Pradesh,India,802,Bus,Return Trip,21.2380912,81.6336993,17.6935526,83.2921297
+1015,2025-03-13 14:00:00,Mumbai,Maharashtra,India,Surat,Gujarat,India,1243,Car,Business,19.054999,72.8692035,21.2094892,72.8317058
+1015,2025-03-18 15:00:00,New Delhi,Delhi,India,Agra,Uttar Pradesh,India,244,Car,Leisure,28.6430858,77.2192671,27.1752554,78.0098161
+1015,2025-03-24 00:00:00,Patna,Bihar,India,Chennai,Tamil Nadu,India,698,Flight,Return Trip,25.6093239,85.1235252,13.0836939,80.270186
+1015,2025-03-26 05:00:00,New Delhi,Delhi,India,Nagpur,Maharashtra,India,976,Car,Business,28.6430858,77.2192671,21.1498134,79.0820556
+1015,2025-03-28 07:00:00,Chennai,Tamil Nadu,India,Amritsar,Punjab,India,763,Car,Business,13.0836939,80.270186,31.6356659,74.8787496
+1015,2025-04-01 16:00:00,Dehradun,Uttarakhand,India,Kolkata,West Bengal,India,1409,Train,Family Visit,30.3255646,78.0436813,22.5726459,88.3638953
+1015,2025-04-06 19:00:00,Patna,Bihar,India,New Delhi,Delhi,India,1429,Flight,Business,25.6093239,85.1235252,28.6430858,77.2192671
+1015,2025-04-09 22:00:00,Manali,Himachal Pradesh,India,Pune,Maharashtra,India,686,Flight,Return Trip,32.2454608,77.1872926,18.5213738,73.8545071
+1015,2025-04-15 02:00:00,Shimla,Himachal Pradesh,India,Thiruvananthapuram,Kerala,India,917,Train,Work,31.1041526,77.1709729,8.4882267,76.947551
+1015,2025-04-17 08:00:00,Dehradun,Uttarakhand,India,Lucknow,Uttar Pradesh,India,243,Train,Return Trip,30.3255646,78.0436813,26.8381,80.9346001
+1015,2025-04-20 14:00:00,Raipur,Chhattisgarh,India,Ranchi,Jharkhand,India,1492,Flight,Work,21.2380912,81.6336993,23.3700501,85.3250387
+1015,2025-04-24 17:00:00,Pune,Maharashtra,India,Ahmedabad,Gujarat,India,589,Flight,Business,18.5213738,73.8545071,23.0215374,72.5800568
+1015,2025-04-29 03:00:00,New Delhi,Delhi,India,Thiruvananthapuram,Kerala,India,1041,Train,Tourism,28.6430858,77.2192671,8.4882267,76.947551
+1015,2025-04-30 12:00:00,Kolkata,West Bengal,India,Mumbai,Maharashtra,India,1058,Bus,Business,22.5726459,88.3638953,19.054999,72.8692035
+1015,2025-05-05 14:00:00,Jodhpur,Rajasthan,India,Nagpur,Maharashtra,India,1164,Flight,Trekking,26.2967719,73.0351433,21.1498134,79.0820556
+1015,2025-05-07 19:00:00,Raipur,Chhattisgarh,India,Goa,Goa,India,1280,Car,Leisure,21.2380912,81.6336993,15.4989946,73.8282141
+1015,2025-05-12 23:00:00,Agra,Uttar Pradesh,India,Varanasi,Uttar Pradesh,India,89,Car,Business,27.1752554,78.0098161,25.3356491,83.0076292
+1015,2025-05-14 02:00:00,Lucknow,Uttar Pradesh,India,Agra,Uttar Pradesh,India,889,Bus,Leisure,26.8381,80.9346001,27.1752554,78.0098161
+1015,2025-05-17 10:00:00,Mumbai,Maharashtra,India,Bengaluru,Karnataka,India,1497,Train,Family Visit,19.054999,72.8692035,12.9767936,77.590082
+1015,2025-05-19 17:00:00,Pune,Maharashtra,India,Visakhapatnam,Andhra Pradesh,India,624,Train,Tourism,18.5213738,73.8545071,17.6935526,83.2921297
+1015,2025-05-23 19:00:00,Hyderabad,Telangana,India,Bhopal,Madhya Pradesh,India,604,Bus,Trekking,17.360589,78.4740613,23.2584857,77.401989
+1015,2025-05-25 22:00:00,Hyderabad,Telangana,India,Jodhpur,Rajasthan,India,204,Flight,Business,17.360589,78.4740613,26.2967719,73.0351433
+1015,2025-05-31 05:00:00,Chandigarh,Chandigarh,India,Chennai,Tamil Nadu,India,911,Bus,Work,30.7334421,76.7797143,13.0836939,80.270186
+1015,2025-06-05 08:00:00,Agra,Uttar Pradesh,India,Ahmedabad,Gujarat,India,200,Train,Business,27.1752554,78.0098161,23.0215374,72.5800568
+1015,2025-06-06 13:00:00,Kolkata,West Bengal,India,Bengaluru,Karnataka,India,50,Bus,Business,22.5726459,88.3638953,12.9767936,77.590082
+1015,2025-06-10 21:00:00,Manali,Himachal Pradesh,India,Bhubaneswar,Odisha,India,1241,Flight,Return Trip,32.2454608,77.1872926,20.2602964,85.8394521
+1015,2025-06-14 01:00:00,Ranchi,Jharkhand,India,Varanasi,Uttar Pradesh,India,1015,Bus,Return Trip,23.3700501,85.3250387,25.3356491,83.0076292
+1015,2025-06-16 06:00:00,Patna,Bihar,India,Surat,Gujarat,India,773,Bus,Leisure,25.6093239,85.1235252,21.2094892,72.8317058
+1015,2025-06-20 08:00:00,Surat,Gujarat,India,Dehradun,Uttarakhand,India,1165,Flight,Business,21.2094892,72.8317058,30.3255646,78.0436813
+1015,2025-06-21 18:00:00,Jaipur,Rajasthan,India,Patna,Bihar,India,1316,Car,Return Trip,26.9154576,75.8189817,25.6093239,85.1235252
+1015,2025-06-24 23:00:00,Thiruvananthapuram,Kerala,India,New Delhi,Delhi,India,1398,Car,Trekking,8.4882267,76.947551,28.6430858,77.2192671
+1015,2025-06-29 07:00:00,Pune,Maharashtra,India,New Delhi,Delhi,India,214,Bus,Work,18.5213738,73.8545071,28.6430858,77.2192671
+1015,2025-07-01 08:00:00,Visakhapatnam,Andhra Pradesh,India,Ranchi,Jharkhand,India,1326,Flight,Trekking,17.6935526,83.2921297,23.3700501,85.3250387
+1015,2025-07-03 18:00:00,New Delhi,Delhi,India,Chandigarh,Chandigarh,India,541,Car,Family Visit,28.6430858,77.2192671,30.7334421,76.7797143
+1015,2025-07-06 23:00:00,Goa,Goa,India,Indore,Madhya Pradesh,India,1123,Bus,Leisure,15.4989946,73.8282141,22.7203616,75.8681996
+1015,2025-07-08 02:00:00,Hyderabad,Telangana,India,Chennai,Tamil Nadu,India,1305,Car,Tourism,17.360589,78.4740613,13.0836939,80.270186
+1015,2025-07-13 08:00:00,Nagpur,Maharashtra,India,Mumbai,Maharashtra,India,842,Train,Business,21.1498134,79.0820556,19.054999,72.8692035
+1015,2025-07-16 15:00:00,Chandigarh,Chandigarh,India,Hyderabad,Telangana,India,377,Train,Leisure,30.7334421,76.7797143,17.360589,78.4740613
+1015,2025-07-20 17:00:00,New Delhi,Delhi,India,Nagpur,Maharashtra,India,595,Train,Business,28.6430858,77.2192671,21.1498134,79.0820556
+1015,2025-07-25 21:00:00,Jaipur,Rajasthan,India,Thiruvananthapuram,Kerala,India,1015,Flight,Family Visit,26.9154576,75.8189817,8.4882267,76.947551
+1015,2025-07-31 07:00:00,Guwahati,Assam,India,Shimla,Himachal Pradesh,India,965,Train,Trekking,26.1805978,91.753943,31.1041526,77.1709729
+1015,2025-08-05 14:00:00,Pune,Maharashtra,India,Manali,Himachal Pradesh,India,1391,Flight,Business,18.5213738,73.8545071,32.2454608,77.1872926
+1015,2025-08-07 15:00:00,Lucknow,Uttar Pradesh,India,Goa,Goa,India,1243,Train,Business,26.8381,80.9346001,15.4989946,73.8282141
+1015,2025-08-08 21:00:00,Raipur,Chhattisgarh,India,Chennai,Tamil Nadu,India,1385,Car,Trekking,21.2380912,81.6336993,13.0836939,80.270186
+1015,2025-08-12 02:00:00,Shimla,Himachal Pradesh,India,Raipur,Chhattisgarh,India,1095,Car,Family Visit,31.1041526,77.1709729,21.2380912,81.6336993
+1015,2025-08-17 04:00:00,Patna,Bihar,India,Raipur,Chhattisgarh,India,417,Bus,Trekking,25.6093239,85.1235252,21.2380912,81.6336993
+1016,2025-03-03 11:00:00,Bengaluru,Karnataka,India,Visakhapatnam,Andhra Pradesh,India,905,Bus,Business,12.9767936,77.590082,17.6935526,83.2921297
+1016,2025-03-08 12:00:00,Kolkata,West Bengal,India,Mumbai,Maharashtra,India,1122,Flight,Trekking,22.5726459,88.3638953,19.054999,72.8692035
+1016,2025-03-09 22:00:00,Visakhapatnam,Andhra Pradesh,India,Manali,Himachal Pradesh,India,1394,Flight,Family Visit,17.6935526,83.2921297,32.2454608,77.1872926
+1016,2025-03-14 05:00:00,Manali,Himachal Pradesh,India,Shimla,Himachal Pradesh,India,200,Car,Return Trip,32.2454608,77.1872926,31.1041526,77.1709729
+1016,2025-03-17 15:00:00,Agra,Uttar Pradesh,India,Nagpur,Maharashtra,India,1444,Train,Trekking,27.1752554,78.0098161,21.1498134,79.0820556
+1016,2025-03-19 16:00:00,Amritsar,Punjab,India,Nagpur,Maharashtra,India,936,Flight,Leisure,31.6356659,74.8787496,21.1498134,79.0820556
+1016,2025-03-22 00:00:00,Ahmedabad,Gujarat,India,Hyderabad,Telangana,India,171,Flight,Return Trip,23.0215374,72.5800568,17.360589,78.4740613
+1016,2025-03-26 01:00:00,Shimla,Himachal Pradesh,India,Bengaluru,Karnataka,India,1257,Flight,Work,31.1041526,77.1709729,12.9767936,77.590082
+1016,2025-03-27 11:00:00,Bhopal,Madhya Pradesh,India,Hyderabad,Telangana,India,1477,Car,Family Visit,23.2584857,77.401989,17.360589,78.4740613
+1016,2025-03-29 19:00:00,Jaipur,Rajasthan,India,Amritsar,Punjab,India,84,Train,Family Visit,26.9154576,75.8189817,31.6356659,74.8787496
+1016,2025-04-03 23:00:00,Dehradun,Uttarakhand,India,Bhopal,Madhya Pradesh,India,125,Train,Family Visit,30.3255646,78.0436813,23.2584857,77.401989
+1016,2025-04-08 02:00:00,Goa,Goa,India,New Delhi,Delhi,India,1245,Bus,Trekking,15.4989946,73.8282141,28.6430858,77.2192671
+1016,2025-04-12 04:00:00,Jodhpur,Rajasthan,India,Mumbai,Maharashtra,India,1488,Car,Business,26.2967719,73.0351433,19.054999,72.8692035
+1016,2025-04-16 05:00:00,Mumbai,Maharashtra,India,Chandigarh,Chandigarh,India,791,Train,Trekking,19.054999,72.8692035,30.7334421,76.7797143
+1016,2025-04-19 13:00:00,Ahmedabad,Gujarat,India,Mumbai,Maharashtra,India,483,Bus,Work,23.0215374,72.5800568,19.054999,72.8692035
+1016,2025-04-23 21:00:00,Surat,Gujarat,India,Manali,Himachal Pradesh,India,497,Car,Trekking,21.2094892,72.8317058,32.2454608,77.1872926
+1016,2025-04-28 06:00:00,Raipur,Chhattisgarh,India,Visakhapatnam,Andhra Pradesh,India,843,Train,Work,21.2380912,81.6336993,17.6935526,83.2921297
+1016,2025-04-30 09:00:00,Jaipur,Rajasthan,India,Raipur,Chhattisgarh,India,73,Car,Family Visit,26.9154576,75.8189817,21.2380912,81.6336993
+1016,2025-05-05 16:00:00,Kolkata,West Bengal,India,Guwahati,Assam,India,1121,Flight,Family Visit,22.5726459,88.3638953,26.1805978,91.753943
+1016,2025-05-07 01:00:00,Bhubaneswar,Odisha,India,Chennai,Tamil Nadu,India,133,Flight,Business,20.2602964,85.8394521,13.0836939,80.270186
+1016,2025-05-11 05:00:00,Mumbai,Maharashtra,India,Bengaluru,Karnataka,India,1229,Train,Business,19.054999,72.8692035,12.9767936,77.590082
+1016,2025-05-16 08:00:00,Jaipur,Rajasthan,India,Goa,Goa,India,161,Bus,Tourism,26.9154576,75.8189817,15.4989946,73.8282141
+1016,2025-05-19 16:00:00,Guwahati,Assam,India,Indore,Madhya Pradesh,India,1174,Car,Tourism,26.1805978,91.753943,22.7203616,75.8681996
+1016,2025-05-22 00:00:00,Shimla,Himachal Pradesh,India,Indore,Madhya Pradesh,India,1368,Train,Business,31.1041526,77.1709729,22.7203616,75.8681996
+1016,2025-05-25 08:00:00,Guwahati,Assam,India,Bhubaneswar,Odisha,India,1295,Car,Trekking,26.1805978,91.753943,20.2602964,85.8394521
+1016,2025-05-26 15:00:00,Visakhapatnam,Andhra Pradesh,India,Raipur,Chhattisgarh,India,1147,Train,Family Visit,17.6935526,83.2921297,21.2380912,81.6336993
+1016,2025-05-28 01:00:00,Pune,Maharashtra,India,Amritsar,Punjab,India,1487,Flight,Leisure,18.5213738,73.8545071,31.6356659,74.8787496
+1016,2025-06-02 06:00:00,Jodhpur,Rajasthan,India,Hyderabad,Telangana,India,1243,Bus,Trekking,26.2967719,73.0351433,17.360589,78.4740613
+1016,2025-06-04 11:00:00,Visakhapatnam,Andhra Pradesh,India,Pune,Maharashtra,India,1292,Flight,Business,17.6935526,83.2921297,18.5213738,73.8545071
+1016,2025-06-09 13:00:00,Thiruvananthapuram,Kerala,India,Shimla,Himachal Pradesh,India,223,Car,Tourism,8.4882267,76.947551,31.1041526,77.1709729
+1016,2025-06-10 18:00:00,Bhopal,Madhya Pradesh,India,Bhubaneswar,Odisha,India,162,Train,Family Visit,23.2584857,77.401989,20.2602964,85.8394521
+1016,2025-06-14 03:00:00,Dehradun,Uttarakhand,India,Goa,Goa,India,302,Car,Family Visit,30.3255646,78.0436813,15.4989946,73.8282141
+1016,2025-06-18 08:00:00,Kolkata,West Bengal,India,Patna,Bihar,India,958,Flight,Work,22.5726459,88.3638953,25.6093239,85.1235252
+1016,2025-06-19 09:00:00,Goa,Goa,India,Bengaluru,Karnataka,India,57,Flight,Trekking,15.4989946,73.8282141,12.9767936,77.590082
+1016,2025-06-23 10:00:00,Ranchi,Jharkhand,India,Chennai,Tamil Nadu,India,199,Flight,Work,23.3700501,85.3250387,13.0836939,80.270186
+1016,2025-06-26 11:00:00,Mumbai,Maharashtra,India,Manali,Himachal Pradesh,India,1104,Bus,Tourism,19.054999,72.8692035,32.2454608,77.1872926
+1016,2025-07-01 13:00:00,Ranchi,Jharkhand,India,Agra,Uttar Pradesh,India,110,Flight,Work,23.3700501,85.3250387,27.1752554,78.0098161
+1016,2025-07-06 14:00:00,Ranchi,Jharkhand,India,Lucknow,Uttar Pradesh,India,1429,Train,Business,23.3700501,85.3250387,26.8381,80.9346001
+1016,2025-07-09 00:00:00,Hyderabad,Telangana,India,Jodhpur,Rajasthan,India,1484,Train,Work,17.360589,78.4740613,26.2967719,73.0351433
+1016,2025-07-11 09:00:00,Dehradun,Uttarakhand,India,Jodhpur,Rajasthan,India,431,Bus,Return Trip,30.3255646,78.0436813,26.2967719,73.0351433
+1016,2025-07-16 18:00:00,Hyderabad,Telangana,India,Nagpur,Maharashtra,India,673,Flight,Work,17.360589,78.4740613,21.1498134,79.0820556
+1016,2025-07-20 02:00:00,Jaipur,Rajasthan,India,Ahmedabad,Gujarat,India,528,Train,Family Visit,26.9154576,75.8189817,23.0215374,72.5800568
+1016,2025-07-22 09:00:00,Shimla,Himachal Pradesh,India,Bhubaneswar,Odisha,India,943,Car,Trekking,31.1041526,77.1709729,20.2602964,85.8394521
+1016,2025-07-26 17:00:00,Thiruvananthapuram,Kerala,India,Visakhapatnam,Andhra Pradesh,India,887,Train,Work,8.4882267,76.947551,17.6935526,83.2921297
+1016,2025-07-28 20:00:00,Amritsar,Punjab,India,Surat,Gujarat,India,791,Car,Leisure,31.6356659,74.8787496,21.2094892,72.8317058
+1016,2025-07-29 23:00:00,Raipur,Chhattisgarh,India,Varanasi,Uttar Pradesh,India,990,Car,Leisure,21.2380912,81.6336993,25.3356491,83.0076292
+1016,2025-07-31 05:00:00,Chennai,Tamil Nadu,India,Mumbai,Maharashtra,India,636,Flight,Work,13.0836939,80.270186,19.054999,72.8692035
+1016,2025-08-03 06:00:00,Guwahati,Assam,India,Goa,Goa,India,561,Bus,Tourism,26.1805978,91.753943,15.4989946,73.8282141
+1016,2025-08-04 08:00:00,Pune,Maharashtra,India,Visakhapatnam,Andhra Pradesh,India,1368,Bus,Trekking,18.5213738,73.8545071,17.6935526,83.2921297
+1016,2025-08-05 11:00:00,Goa,Goa,India,New Delhi,Delhi,India,427,Flight,Family Visit,15.4989946,73.8282141,28.6430858,77.2192671
+1017,2025-03-03 13:00:00,Surat,Gujarat,India,Bengaluru,Karnataka,India,442,Car,Tourism,21.2094892,72.8317058,12.9767936,77.590082
+1017,2025-03-07 14:00:00,Dehradun,Uttarakhand,India,Thiruvananthapuram,Kerala,India,1362,Flight,Work,30.3255646,78.0436813,8.4882267,76.947551
+1017,2025-03-11 20:00:00,Surat,Gujarat,India,Goa,Goa,India,868,Flight,Business,21.2094892,72.8317058,15.4989946,73.8282141
+1017,2025-03-16 01:00:00,Pune,Maharashtra,India,Jodhpur,Rajasthan,India,1474,Car,Business,18.5213738,73.8545071,26.2967719,73.0351433
+1017,2025-03-17 11:00:00,Hyderabad,Telangana,India,Ahmedabad,Gujarat,India,1261,Flight,Return Trip,17.360589,78.4740613,23.0215374,72.5800568
+1017,2025-03-21 14:00:00,Jodhpur,Rajasthan,India,Bengaluru,Karnataka,India,1482,Car,Family Visit,26.2967719,73.0351433,12.9767936,77.590082
+1017,2025-03-25 15:00:00,Jaipur,Rajasthan,India,Lucknow,Uttar Pradesh,India,1446,Flight,Work,26.9154576,75.8189817,26.8381,80.9346001
+1017,2025-03-30 17:00:00,Dehradun,Uttarakhand,India,Agra,Uttar Pradesh,India,765,Car,Leisure,30.3255646,78.0436813,27.1752554,78.0098161
+1017,2025-04-01 21:00:00,Chandigarh,Chandigarh,India,Goa,Goa,India,805,Car,Return Trip,30.7334421,76.7797143,15.4989946,73.8282141
+1017,2025-04-04 07:00:00,Bengaluru,Karnataka,India,Guwahati,Assam,India,939,Train,Tourism,12.9767936,77.590082,26.1805978,91.753943
+1017,2025-04-05 10:00:00,Jaipur,Rajasthan,India,Varanasi,Uttar Pradesh,India,830,Train,Return Trip,26.9154576,75.8189817,25.3356491,83.0076292
+1017,2025-04-09 20:00:00,Kolkata,West Bengal,India,Indore,Madhya Pradesh,India,1392,Bus,Family Visit,22.5726459,88.3638953,22.7203616,75.8681996
+1017,2025-04-12 03:00:00,Chennai,Tamil Nadu,India,Goa,Goa,India,1416,Car,Family Visit,13.0836939,80.270186,15.4989946,73.8282141
+1017,2025-04-13 09:00:00,Lucknow,Uttar Pradesh,India,Agra,Uttar Pradesh,India,1293,Train,Tourism,26.8381,80.9346001,27.1752554,78.0098161
+1017,2025-04-16 17:00:00,Chennai,Tamil Nadu,India,Guwahati,Assam,India,1454,Train,Leisure,13.0836939,80.270186,26.1805978,91.753943
+1017,2025-04-19 23:00:00,Visakhapatnam,Andhra Pradesh,India,Kolkata,West Bengal,India,1131,Train,Family Visit,17.6935526,83.2921297,22.5726459,88.3638953
+1017,2025-04-23 03:00:00,Raipur,Chhattisgarh,India,Varanasi,Uttar Pradesh,India,696,Bus,Trekking,21.2380912,81.6336993,25.3356491,83.0076292
+1017,2025-04-27 12:00:00,Amritsar,Punjab,India,Guwahati,Assam,India,925,Car,Family Visit,31.6356659,74.8787496,26.1805978,91.753943
+1017,2025-04-28 20:00:00,Pune,Maharashtra,India,Indore,Madhya Pradesh,India,1155,Bus,Leisure,18.5213738,73.8545071,22.7203616,75.8681996
+1017,2025-05-04 06:00:00,Bhubaneswar,Odisha,India,Mumbai,Maharashtra,India,603,Car,Trekking,20.2602964,85.8394521,19.054999,72.8692035
+1017,2025-05-06 08:00:00,Ranchi,Jharkhand,India,Kolkata,West Bengal,India,1485,Car,Family Visit,23.3700501,85.3250387,22.5726459,88.3638953
+1017,2025-05-10 13:00:00,Lucknow,Uttar Pradesh,India,Thiruvananthapuram,Kerala,India,1093,Car,Business,26.8381,80.9346001,8.4882267,76.947551
+1017,2025-05-15 19:00:00,New Delhi,Delhi,India,Chandigarh,Chandigarh,India,613,Bus,Work,28.6430858,77.2192671,30.7334421,76.7797143
+1017,2025-05-17 03:00:00,Thiruvananthapuram,Kerala,India,Hyderabad,Telangana,India,1480,Flight,Work,8.4882267,76.947551,17.360589,78.4740613
+1017,2025-05-18 12:00:00,Jaipur,Rajasthan,India,Lucknow,Uttar Pradesh,India,869,Flight,Business,26.9154576,75.8189817,26.8381,80.9346001
+1017,2025-05-19 21:00:00,New Delhi,Delhi,India,Thiruvananthapuram,Kerala,India,1112,Car,Work,28.6430858,77.2192671,8.4882267,76.947551
+1017,2025-05-25 04:00:00,Kolkata,West Bengal,India,New Delhi,Delhi,India,788,Bus,Return Trip,22.5726459,88.3638953,28.6430858,77.2192671
+1017,2025-05-28 08:00:00,Shimla,Himachal Pradesh,India,Bhopal,Madhya Pradesh,India,1185,Car,Tourism,31.1041526,77.1709729,23.2584857,77.401989
+1017,2025-06-01 12:00:00,Jaipur,Rajasthan,India,Raipur,Chhattisgarh,India,100,Car,Trekking,26.9154576,75.8189817,21.2380912,81.6336993
+1017,2025-06-02 21:00:00,Jodhpur,Rajasthan,India,Bengaluru,Karnataka,India,653,Car,Return Trip,26.2967719,73.0351433,12.9767936,77.590082
+1017,2025-06-05 07:00:00,Dehradun,Uttarakhand,India,Kolkata,West Bengal,India,158,Bus,Tourism,30.3255646,78.0436813,22.5726459,88.3638953
+1017,2025-06-07 15:00:00,Chandigarh,Chandigarh,India,Agra,Uttar Pradesh,India,1072,Bus,Leisure,30.7334421,76.7797143,27.1752554,78.0098161
+1017,2025-06-12 01:00:00,Manali,Himachal Pradesh,India,Kolkata,West Bengal,India,786,Train,Work,32.2454608,77.1872926,22.5726459,88.3638953
+1017,2025-06-15 06:00:00,Bengaluru,Karnataka,India,Surat,Gujarat,India,746,Train,Trekking,12.9767936,77.590082,21.2094892,72.8317058
+1017,2025-06-17 11:00:00,Jodhpur,Rajasthan,India,Varanasi,Uttar Pradesh,India,1195,Flight,Business,26.2967719,73.0351433,25.3356491,83.0076292
+1017,2025-06-20 17:00:00,Chennai,Tamil Nadu,India,Bhubaneswar,Odisha,India,1209,Bus,Family Visit,13.0836939,80.270186,20.2602964,85.8394521
+1017,2025-06-25 23:00:00,Nagpur,Maharashtra,India,Visakhapatnam,Andhra Pradesh,India,849,Train,Tourism,21.1498134,79.0820556,17.6935526,83.2921297
+1017,2025-06-27 07:00:00,Bhopal,Madhya Pradesh,India,New Delhi,Delhi,India,353,Car,Work,23.2584857,77.401989,28.6430858,77.2192671
+1017,2025-06-28 17:00:00,Chandigarh,Chandigarh,India,Hyderabad,Telangana,India,669,Train,Business,30.7334421,76.7797143,17.360589,78.4740613
+1017,2025-06-29 21:00:00,Visakhapatnam,Andhra Pradesh,India,Thiruvananthapuram,Kerala,India,1086,Train,Leisure,17.6935526,83.2921297,8.4882267,76.947551
+1017,2025-07-02 02:00:00,Hyderabad,Telangana,India,Chennai,Tamil Nadu,India,1049,Car,Business,17.360589,78.4740613,13.0836939,80.270186
+1017,2025-07-07 07:00:00,Shimla,Himachal Pradesh,India,Nagpur,Maharashtra,India,217,Flight,Work,31.1041526,77.1709729,21.1498134,79.0820556
+1017,2025-07-10 11:00:00,Pune,Maharashtra,India,New Delhi,Delhi,India,689,Bus,Trekking,18.5213738,73.8545071,28.6430858,77.2192671
+1017,2025-07-14 18:00:00,Visakhapatnam,Andhra Pradesh,India,Goa,Goa,India,1087,Bus,Tourism,17.6935526,83.2921297,15.4989946,73.8282141
+1017,2025-07-15 19:00:00,Nagpur,Maharashtra,India,Goa,Goa,India,1059,Train,Return Trip,21.1498134,79.0820556,15.4989946,73.8282141
+1017,2025-07-20 04:00:00,Jodhpur,Rajasthan,India,Guwahati,Assam,India,414,Bus,Family Visit,26.2967719,73.0351433,26.1805978,91.753943
+1017,2025-07-22 10:00:00,New Delhi,Delhi,India,Indore,Madhya Pradesh,India,193,Flight,Leisure,28.6430858,77.2192671,22.7203616,75.8681996
+1017,2025-07-24 16:00:00,Guwahati,Assam,India,Ranchi,Jharkhand,India,842,Flight,Leisure,26.1805978,91.753943,23.3700501,85.3250387
+1017,2025-07-28 17:00:00,Bhopal,Madhya Pradesh,India,New Delhi,Delhi,India,319,Bus,Business,23.2584857,77.401989,28.6430858,77.2192671
+1017,2025-08-01 00:00:00,Chandigarh,Chandigarh,India,Mumbai,Maharashtra,India,1363,Car,Business,30.7334421,76.7797143,19.054999,72.8692035
+1018,2025-03-02 12:00:00,Dehradun,Uttarakhand,India,Chandigarh,Chandigarh,India,820,Train,Family Visit,30.3255646,78.0436813,30.7334421,76.7797143
+1018,2025-03-05 21:00:00,Guwahati,Assam,India,New Delhi,Delhi,India,1145,Train,Business,26.1805978,91.753943,28.6430858,77.2192671
+1018,2025-03-08 07:00:00,Bengaluru,Karnataka,India,Jodhpur,Rajasthan,India,1363,Car,Work,12.9767936,77.590082,26.2967719,73.0351433
+1018,2025-03-12 09:00:00,Shimla,Himachal Pradesh,India,Surat,Gujarat,India,1476,Bus,Tourism,31.1041526,77.1709729,21.2094892,72.8317058
+1018,2025-03-13 15:00:00,Amritsar,Punjab,India,Dehradun,Uttarakhand,India,916,Train,Work,31.6356659,74.8787496,30.3255646,78.0436813
+1018,2025-03-17 01:00:00,Ranchi,Jharkhand,India,Varanasi,Uttar Pradesh,India,1396,Flight,Business,23.3700501,85.3250387,25.3356491,83.0076292
+1018,2025-03-18 09:00:00,Goa,Goa,India,Ranchi,Jharkhand,India,938,Flight,Work,15.4989946,73.8282141,23.3700501,85.3250387
+1018,2025-03-23 11:00:00,Amritsar,Punjab,India,Visakhapatnam,Andhra Pradesh,India,1268,Flight,Return Trip,31.6356659,74.8787496,17.6935526,83.2921297
+1018,2025-03-24 17:00:00,Goa,Goa,India,Chennai,Tamil Nadu,India,91,Bus,Work,15.4989946,73.8282141,13.0836939,80.270186
+1018,2025-03-27 00:00:00,Ahmedabad,Gujarat,India,Bengaluru,Karnataka,India,439,Flight,Return Trip,23.0215374,72.5800568,12.9767936,77.590082
+1018,2025-03-28 05:00:00,Jodhpur,Rajasthan,India,Visakhapatnam,Andhra Pradesh,India,110,Bus,Business,26.2967719,73.0351433,17.6935526,83.2921297
+1018,2025-04-01 10:00:00,Bengaluru,Karnataka,India,Patna,Bihar,India,197,Bus,Return Trip,12.9767936,77.590082,25.6093239,85.1235252
+1018,2025-04-04 20:00:00,Shimla,Himachal Pradesh,India,Jaipur,Rajasthan,India,1428,Bus,Family Visit,31.1041526,77.1709729,26.9154576,75.8189817
+1018,2025-04-08 22:00:00,Nagpur,Maharashtra,India,Varanasi,Uttar Pradesh,India,882,Train,Business,21.1498134,79.0820556,25.3356491,83.0076292
+1018,2025-04-13 00:00:00,Jaipur,Rajasthan,India,Chennai,Tamil Nadu,India,1105,Flight,Work,26.9154576,75.8189817,13.0836939,80.270186
+1018,2025-04-15 04:00:00,Chennai,Tamil Nadu,India,Shimla,Himachal Pradesh,India,946,Train,Business,13.0836939,80.270186,31.1041526,77.1709729
+1018,2025-04-17 05:00:00,Jaipur,Rajasthan,India,Chennai,Tamil Nadu,India,595,Car,Trekking,26.9154576,75.8189817,13.0836939,80.270186
+1018,2025-04-19 07:00:00,Thiruvananthapuram,Kerala,India,Chennai,Tamil Nadu,India,650,Train,Business,8.4882267,76.947551,13.0836939,80.270186
+1018,2025-04-20 17:00:00,Mumbai,Maharashtra,India,Patna,Bihar,India,244,Car,Return Trip,19.054999,72.8692035,25.6093239,85.1235252
+1018,2025-04-21 20:00:00,Mumbai,Maharashtra,India,Bhubaneswar,Odisha,India,514,Train,Trekking,19.054999,72.8692035,20.2602964,85.8394521
+1018,2025-04-23 21:00:00,Mumbai,Maharashtra,India,Thiruvananthapuram,Kerala,India,216,Train,Leisure,19.054999,72.8692035,8.4882267,76.947551
+1018,2025-04-27 01:00:00,Thiruvananthapuram,Kerala,India,Pune,Maharashtra,India,1382,Car,Work,8.4882267,76.947551,18.5213738,73.8545071
+1018,2025-04-29 03:00:00,Shimla,Himachal Pradesh,India,Thiruvananthapuram,Kerala,India,1140,Bus,Trekking,31.1041526,77.1709729,8.4882267,76.947551
+1018,2025-05-03 13:00:00,Chandigarh,Chandigarh,India,Jaipur,Rajasthan,India,535,Flight,Leisure,30.7334421,76.7797143,26.9154576,75.8189817
+1018,2025-05-08 23:00:00,Patna,Bihar,India,Lucknow,Uttar Pradesh,India,528,Flight,Family Visit,25.6093239,85.1235252,26.8381,80.9346001
+1018,2025-05-10 09:00:00,Visakhapatnam,Andhra Pradesh,India,Chandigarh,Chandigarh,India,251,Bus,Leisure,17.6935526,83.2921297,30.7334421,76.7797143
+1018,2025-05-12 15:00:00,Kolkata,West Bengal,India,Hyderabad,Telangana,India,519,Flight,Family Visit,22.5726459,88.3638953,17.360589,78.4740613
+1018,2025-05-15 17:00:00,Dehradun,Uttarakhand,India,Ahmedabad,Gujarat,India,1279,Flight,Business,30.3255646,78.0436813,23.0215374,72.5800568
+1018,2025-05-20 02:00:00,Amritsar,Punjab,India,Mumbai,Maharashtra,India,879,Bus,Leisure,31.6356659,74.8787496,19.054999,72.8692035
+1018,2025-05-21 09:00:00,Shimla,Himachal Pradesh,India,Hyderabad,Telangana,India,1443,Flight,Business,31.1041526,77.1709729,17.360589,78.4740613
+1018,2025-05-25 11:00:00,Bengaluru,Karnataka,India,Ranchi,Jharkhand,India,1454,Bus,Tourism,12.9767936,77.590082,23.3700501,85.3250387
+1018,2025-05-27 19:00:00,Bengaluru,Karnataka,India,Goa,Goa,India,1382,Car,Trekking,12.9767936,77.590082,15.4989946,73.8282141
+1018,2025-05-29 21:00:00,Patna,Bihar,India,Agra,Uttar Pradesh,India,636,Bus,Business,25.6093239,85.1235252,27.1752554,78.0098161
+1018,2025-06-03 06:00:00,Varanasi,Uttar Pradesh,India,Chennai,Tamil Nadu,India,665,Train,Trekking,25.3356491,83.0076292,13.0836939,80.270186
+1018,2025-06-05 08:00:00,Indore,Madhya Pradesh,India,Shimla,Himachal Pradesh,India,799,Car,Trekking,22.7203616,75.8681996,31.1041526,77.1709729
+1018,2025-06-07 09:00:00,Manali,Himachal Pradesh,India,Patna,Bihar,India,1218,Flight,Business,32.2454608,77.1872926,25.6093239,85.1235252
+1018,2025-06-08 10:00:00,Varanasi,Uttar Pradesh,India,Shimla,Himachal Pradesh,India,471,Flight,Work,25.3356491,83.0076292,31.1041526,77.1709729
+1018,2025-06-10 12:00:00,Surat,Gujarat,India,Raipur,Chhattisgarh,India,1154,Flight,Leisure,21.2094892,72.8317058,21.2380912,81.6336993
+1018,2025-06-13 20:00:00,Thiruvananthapuram,Kerala,India,Agra,Uttar Pradesh,India,994,Train,Trekking,8.4882267,76.947551,27.1752554,78.0098161
+1018,2025-06-17 05:00:00,Hyderabad,Telangana,India,Dehradun,Uttarakhand,India,503,Bus,Tourism,17.360589,78.4740613,30.3255646,78.0436813
+1018,2025-06-19 09:00:00,Chennai,Tamil Nadu,India,Ranchi,Jharkhand,India,1453,Bus,Work,13.0836939,80.270186,23.3700501,85.3250387
+1018,2025-06-24 19:00:00,Thiruvananthapuram,Kerala,India,New Delhi,Delhi,India,486,Bus,Return Trip,8.4882267,76.947551,28.6430858,77.2192671
+1018,2025-06-30 05:00:00,Indore,Madhya Pradesh,India,Ranchi,Jharkhand,India,1154,Flight,Work,22.7203616,75.8681996,23.3700501,85.3250387
+1018,2025-07-03 07:00:00,Lucknow,Uttar Pradesh,India,Manali,Himachal Pradesh,India,678,Car,Family Visit,26.8381,80.9346001,32.2454608,77.1872926
+1018,2025-07-06 08:00:00,Kolkata,West Bengal,India,Jodhpur,Rajasthan,India,499,Train,Tourism,22.5726459,88.3638953,26.2967719,73.0351433
+1018,2025-07-11 16:00:00,Chandigarh,Chandigarh,India,Pune,Maharashtra,India,1194,Bus,Work,30.7334421,76.7797143,18.5213738,73.8545071
+1018,2025-07-15 17:00:00,Raipur,Chhattisgarh,India,Surat,Gujarat,India,922,Bus,Tourism,21.2380912,81.6336993,21.2094892,72.8317058
+1018,2025-07-20 02:00:00,Nagpur,Maharashtra,India,Kolkata,West Bengal,India,93,Flight,Tourism,21.1498134,79.0820556,22.5726459,88.3638953
+1018,2025-07-21 11:00:00,Bhubaneswar,Odisha,India,Chennai,Tamil Nadu,India,1237,Bus,Leisure,20.2602964,85.8394521,13.0836939,80.270186
+1018,2025-07-22 18:00:00,Indore,Madhya Pradesh,India,Ranchi,Jharkhand,India,186,Bus,Return Trip,22.7203616,75.8681996,23.3700501,85.3250387
+1019,2025-03-06 17:00:00,Chandigarh,Chandigarh,India,Surat,Gujarat,India,112,Car,Family Visit,30.7334421,76.7797143,21.2094892,72.8317058
+1019,2025-03-08 01:00:00,Visakhapatnam,Andhra Pradesh,India,Bengaluru,Karnataka,India,425,Car,Work,17.6935526,83.2921297,12.9767936,77.590082
+1019,2025-03-11 06:00:00,Surat,Gujarat,India,Ahmedabad,Gujarat,India,345,Bus,Trekking,21.2094892,72.8317058,23.0215374,72.5800568
+1019,2025-03-14 12:00:00,Kolkata,West Bengal,India,Lucknow,Uttar Pradesh,India,1257,Train,Return Trip,22.5726459,88.3638953,26.8381,80.9346001
+1019,2025-03-18 14:00:00,Chandigarh,Chandigarh,India,Indore,Madhya Pradesh,India,916,Train,Leisure,30.7334421,76.7797143,22.7203616,75.8681996
+1019,2025-03-19 21:00:00,Lucknow,Uttar Pradesh,India,Bengaluru,Karnataka,India,1289,Train,Trekking,26.8381,80.9346001,12.9767936,77.590082
+1019,2025-03-21 00:00:00,Agra,Uttar Pradesh,India,Amritsar,Punjab,India,832,Train,Tourism,27.1752554,78.0098161,31.6356659,74.8787496
+1019,2025-03-24 03:00:00,Surat,Gujarat,India,Amritsar,Punjab,India,623,Bus,Return Trip,21.2094892,72.8317058,31.6356659,74.8787496
+1019,2025-03-27 12:00:00,Ahmedabad,Gujarat,India,Ranchi,Jharkhand,India,1183,Bus,Return Trip,23.0215374,72.5800568,23.3700501,85.3250387
+1019,2025-03-29 18:00:00,Guwahati,Assam,India,Kolkata,West Bengal,India,1393,Bus,Trekking,26.1805978,91.753943,22.5726459,88.3638953
+1019,2025-04-03 23:00:00,Hyderabad,Telangana,India,Ranchi,Jharkhand,India,1153,Car,Trekking,17.360589,78.4740613,23.3700501,85.3250387
+1019,2025-04-08 00:00:00,Ranchi,Jharkhand,India,Lucknow,Uttar Pradesh,India,279,Car,Family Visit,23.3700501,85.3250387,26.8381,80.9346001
+1019,2025-04-12 07:00:00,Indore,Madhya Pradesh,India,Bhubaneswar,Odisha,India,624,Train,Leisure,22.7203616,75.8681996,20.2602964,85.8394521
+1019,2025-04-14 11:00:00,New Delhi,Delhi,India,Bhopal,Madhya Pradesh,India,1028,Bus,Return Trip,28.6430858,77.2192671,23.2584857,77.401989
+1019,2025-04-19 15:00:00,Pune,Maharashtra,India,Manali,Himachal Pradesh,India,491,Car,Trekking,18.5213738,73.8545071,32.2454608,77.1872926
+1019,2025-04-24 17:00:00,New Delhi,Delhi,India,Bhubaneswar,Odisha,India,212,Bus,Leisure,28.6430858,77.2192671,20.2602964,85.8394521
+1019,2025-04-30 02:00:00,Goa,Goa,India,Agra,Uttar Pradesh,India,83,Car,Tourism,15.4989946,73.8282141,27.1752554,78.0098161
+1019,2025-05-01 07:00:00,Bengaluru,Karnataka,India,Pune,Maharashtra,India,1360,Car,Tourism,12.9767936,77.590082,18.5213738,73.8545071
+1019,2025-05-03 15:00:00,Shimla,Himachal Pradesh,India,Amritsar,Punjab,India,472,Flight,Leisure,31.1041526,77.1709729,31.6356659,74.8787496
+1019,2025-05-04 23:00:00,Jodhpur,Rajasthan,India,Indore,Madhya Pradesh,India,173,Car,Return Trip,26.2967719,73.0351433,22.7203616,75.8681996
+1019,2025-05-08 07:00:00,New Delhi,Delhi,India,Thiruvananthapuram,Kerala,India,1080,Bus,Trekking,28.6430858,77.2192671,8.4882267,76.947551
+1019,2025-05-11 13:00:00,Thiruvananthapuram,Kerala,India,Ahmedabad,Gujarat,India,553,Flight,Trekking,8.4882267,76.947551,23.0215374,72.5800568
+1019,2025-05-13 15:00:00,Varanasi,Uttar Pradesh,India,Nagpur,Maharashtra,India,1491,Train,Family Visit,25.3356491,83.0076292,21.1498134,79.0820556
+1019,2025-05-18 22:00:00,Dehradun,Uttarakhand,India,Chennai,Tamil Nadu,India,238,Train,Work,30.3255646,78.0436813,13.0836939,80.270186
+1019,2025-05-24 06:00:00,Chennai,Tamil Nadu,India,Visakhapatnam,Andhra Pradesh,India,470,Flight,Business,13.0836939,80.270186,17.6935526,83.2921297
+1019,2025-05-26 07:00:00,Lucknow,Uttar Pradesh,India,Ranchi,Jharkhand,India,1041,Flight,Work,26.8381,80.9346001,23.3700501,85.3250387
+1019,2025-05-28 16:00:00,Chennai,Tamil Nadu,India,Guwahati,Assam,India,133,Train,Family Visit,13.0836939,80.270186,26.1805978,91.753943
+1019,2025-05-29 17:00:00,Kolkata,West Bengal,India,Lucknow,Uttar Pradesh,India,438,Flight,Return Trip,22.5726459,88.3638953,26.8381,80.9346001
+1019,2025-05-31 21:00:00,Ahmedabad,Gujarat,India,Visakhapatnam,Andhra Pradesh,India,786,Bus,Trekking,23.0215374,72.5800568,17.6935526,83.2921297
+1019,2025-06-03 07:00:00,Jodhpur,Rajasthan,India,Dehradun,Uttarakhand,India,726,Bus,Work,26.2967719,73.0351433,30.3255646,78.0436813
+1019,2025-06-06 11:00:00,Indore,Madhya Pradesh,India,Hyderabad,Telangana,India,502,Car,Business,22.7203616,75.8681996,17.360589,78.4740613
+1019,2025-06-08 12:00:00,Visakhapatnam,Andhra Pradesh,India,Agra,Uttar Pradesh,India,707,Bus,Business,17.6935526,83.2921297,27.1752554,78.0098161
+1019,2025-06-11 20:00:00,Chennai,Tamil Nadu,India,Amritsar,Punjab,India,58,Car,Work,13.0836939,80.270186,31.6356659,74.8787496
+1019,2025-06-14 00:00:00,Goa,Goa,India,Ahmedabad,Gujarat,India,628,Train,Trekking,15.4989946,73.8282141,23.0215374,72.5800568
+1019,2025-06-16 02:00:00,Goa,Goa,India,Chandigarh,Chandigarh,India,72,Flight,Tourism,15.4989946,73.8282141,30.7334421,76.7797143
+1019,2025-06-17 10:00:00,Bengaluru,Karnataka,India,Nagpur,Maharashtra,India,929,Flight,Tourism,12.9767936,77.590082,21.1498134,79.0820556
+1019,2025-06-22 11:00:00,New Delhi,Delhi,India,Jodhpur,Rajasthan,India,1378,Train,Tourism,28.6430858,77.2192671,26.2967719,73.0351433
+1019,2025-06-26 13:00:00,Thiruvananthapuram,Kerala,India,Hyderabad,Telangana,India,323,Flight,Return Trip,8.4882267,76.947551,17.360589,78.4740613
+1019,2025-06-28 20:00:00,Amritsar,Punjab,India,Manali,Himachal Pradesh,India,855,Flight,Family Visit,31.6356659,74.8787496,32.2454608,77.1872926
+1019,2025-07-01 05:00:00,Bengaluru,Karnataka,India,Chennai,Tamil Nadu,India,1215,Train,Work,12.9767936,77.590082,13.0836939,80.270186
+1019,2025-07-02 13:00:00,Dehradun,Uttarakhand,India,Hyderabad,Telangana,India,1223,Bus,Family Visit,30.3255646,78.0436813,17.360589,78.4740613
+1019,2025-07-04 17:00:00,Goa,Goa,India,Kolkata,West Bengal,India,1115,Bus,Leisure,15.4989946,73.8282141,22.5726459,88.3638953
+1019,2025-07-07 03:00:00,Agra,Uttar Pradesh,India,Goa,Goa,India,232,Train,Tourism,27.1752554,78.0098161,15.4989946,73.8282141
+1019,2025-07-12 05:00:00,Kolkata,West Bengal,India,Surat,Gujarat,India,1364,Train,Leisure,22.5726459,88.3638953,21.2094892,72.8317058
+1019,2025-07-17 13:00:00,Jaipur,Rajasthan,India,Shimla,Himachal Pradesh,India,790,Car,Family Visit,26.9154576,75.8189817,31.1041526,77.1709729
+1019,2025-07-21 18:00:00,Patna,Bihar,India,Bhubaneswar,Odisha,India,1155,Bus,Family Visit,25.6093239,85.1235252,20.2602964,85.8394521
+1019,2025-07-26 22:00:00,Bhopal,Madhya Pradesh,India,Nagpur,Maharashtra,India,934,Train,Trekking,23.2584857,77.401989,21.1498134,79.0820556
+1019,2025-08-01 03:00:00,Shimla,Himachal Pradesh,India,Bhubaneswar,Odisha,India,1218,Car,Leisure,31.1041526,77.1709729,20.2602964,85.8394521
+1019,2025-08-06 12:00:00,Patna,Bihar,India,Dehradun,Uttarakhand,India,470,Flight,Business,25.6093239,85.1235252,30.3255646,78.0436813
+1019,2025-08-10 19:00:00,Raipur,Chhattisgarh,India,Kolkata,West Bengal,India,1190,Flight,Trekking,21.2380912,81.6336993,22.5726459,88.3638953
+1020,2025-03-02 14:00:00,Ranchi,Jharkhand,India,Goa,Goa,India,332,Flight,Leisure,23.3700501,85.3250387,15.4989946,73.8282141
+1020,2025-03-03 16:00:00,Bhopal,Madhya Pradesh,India,Thiruvananthapuram,Kerala,India,1325,Train,Tourism,23.2584857,77.401989,8.4882267,76.947551
+1020,2025-03-08 21:00:00,Raipur,Chhattisgarh,India,Pune,Maharashtra,India,1146,Train,Business,21.2380912,81.6336993,18.5213738,73.8545071
+1020,2025-03-10 06:00:00,Ranchi,Jharkhand,India,Goa,Goa,India,442,Bus,Business,23.3700501,85.3250387,15.4989946,73.8282141
+1020,2025-03-15 07:00:00,Dehradun,Uttarakhand,India,Goa,Goa,India,893,Bus,Business,30.3255646,78.0436813,15.4989946,73.8282141
+1020,2025-03-19 12:00:00,Patna,Bihar,India,Indore,Madhya Pradesh,India,1242,Car,Trekking,25.6093239,85.1235252,22.7203616,75.8681996
+1020,2025-03-24 20:00:00,Pune,Maharashtra,India,Kolkata,West Bengal,India,1122,Train,Leisure,18.5213738,73.8545071,22.5726459,88.3638953
+1020,2025-03-30 06:00:00,Dehradun,Uttarakhand,India,Chandigarh,Chandigarh,India,125,Train,Leisure,30.3255646,78.0436813,30.7334421,76.7797143
+1020,2025-04-01 09:00:00,Bhubaneswar,Odisha,India,Hyderabad,Telangana,India,83,Car,Trekking,20.2602964,85.8394521,17.360589,78.4740613
+1020,2025-04-03 19:00:00,Bhubaneswar,Odisha,India,Jaipur,Rajasthan,India,1124,Flight,Family Visit,20.2602964,85.8394521,26.9154576,75.8189817
+1020,2025-04-05 23:00:00,Shimla,Himachal Pradesh,India,Agra,Uttar Pradesh,India,1317,Bus,Trekking,31.1041526,77.1709729,27.1752554,78.0098161
+1020,2025-04-08 04:00:00,Jodhpur,Rajasthan,India,Lucknow,Uttar Pradesh,India,891,Train,Trekking,26.2967719,73.0351433,26.8381,80.9346001
+1020,2025-04-09 11:00:00,Guwahati,Assam,India,Manali,Himachal Pradesh,India,1307,Bus,Leisure,26.1805978,91.753943,32.2454608,77.1872926
+1020,2025-04-10 14:00:00,Jodhpur,Rajasthan,India,New Delhi,Delhi,India,1044,Train,Work,26.2967719,73.0351433,28.6430858,77.2192671
+1020,2025-04-13 17:00:00,Hyderabad,Telangana,India,Bhopal,Madhya Pradesh,India,1039,Flight,Leisure,17.360589,78.4740613,23.2584857,77.401989
+1020,2025-04-14 21:00:00,Chennai,Tamil Nadu,India,Bengaluru,Karnataka,India,641,Train,Trekking,13.0836939,80.270186,12.9767936,77.590082
+1020,2025-04-20 07:00:00,Varanasi,Uttar Pradesh,India,Bhopal,Madhya Pradesh,India,843,Flight,Return Trip,25.3356491,83.0076292,23.2584857,77.401989
+1020,2025-04-24 14:00:00,Bengaluru,Karnataka,India,Varanasi,Uttar Pradesh,India,1355,Train,Business,12.9767936,77.590082,25.3356491,83.0076292
+1020,2025-04-28 18:00:00,Pune,Maharashtra,India,Shimla,Himachal Pradesh,India,849,Car,Business,18.5213738,73.8545071,31.1041526,77.1709729
+1020,2025-05-04 03:00:00,Dehradun,Uttarakhand,India,Bengaluru,Karnataka,India,1285,Flight,Trekking,30.3255646,78.0436813,12.9767936,77.590082
+1020,2025-05-06 10:00:00,Visakhapatnam,Andhra Pradesh,India,Agra,Uttar Pradesh,India,1476,Train,Trekking,17.6935526,83.2921297,27.1752554,78.0098161
+1020,2025-05-10 13:00:00,Bhubaneswar,Odisha,India,Jodhpur,Rajasthan,India,1490,Bus,Trekking,20.2602964,85.8394521,26.2967719,73.0351433
+1020,2025-05-11 15:00:00,Guwahati,Assam,India,Dehradun,Uttarakhand,India,1358,Train,Business,26.1805978,91.753943,30.3255646,78.0436813
+1020,2025-05-12 20:00:00,Guwahati,Assam,India,Amritsar,Punjab,India,1403,Bus,Trekking,26.1805978,91.753943,31.6356659,74.8787496
+1020,2025-05-14 00:00:00,Chennai,Tamil Nadu,India,Shimla,Himachal Pradesh,India,189,Bus,Family Visit,13.0836939,80.270186,31.1041526,77.1709729
+1020,2025-05-18 07:00:00,Agra,Uttar Pradesh,India,Surat,Gujarat,India,1123,Car,Tourism,27.1752554,78.0098161,21.2094892,72.8317058
+1020,2025-05-22 12:00:00,Kolkata,West Bengal,India,Chandigarh,Chandigarh,India,1404,Bus,Business,22.5726459,88.3638953,30.7334421,76.7797143
+1020,2025-05-24 15:00:00,Kolkata,West Bengal,India,Patna,Bihar,India,969,Train,Family Visit,22.5726459,88.3638953,25.6093239,85.1235252
+1020,2025-05-27 23:00:00,Chandigarh,Chandigarh,India,Ahmedabad,Gujarat,India,1056,Train,Family Visit,30.7334421,76.7797143,23.0215374,72.5800568
+1020,2025-06-01 05:00:00,Jodhpur,Rajasthan,India,Bhubaneswar,Odisha,India,958,Car,Work,26.2967719,73.0351433,20.2602964,85.8394521
+1020,2025-06-06 14:00:00,Guwahati,Assam,India,Jaipur,Rajasthan,India,1166,Car,Leisure,26.1805978,91.753943,26.9154576,75.8189817
+1020,2025-06-07 18:00:00,Amritsar,Punjab,India,Ahmedabad,Gujarat,India,1387,Bus,Return Trip,31.6356659,74.8787496,23.0215374,72.5800568
+1020,2025-06-08 19:00:00,Amritsar,Punjab,India,Dehradun,Uttarakhand,India,1214,Bus,Tourism,31.6356659,74.8787496,30.3255646,78.0436813
+1020,2025-06-12 02:00:00,Ahmedabad,Gujarat,India,Guwahati,Assam,India,235,Flight,Business,23.0215374,72.5800568,26.1805978,91.753943
+1020,2025-06-14 11:00:00,Ahmedabad,Gujarat,India,Amritsar,Punjab,India,350,Train,Leisure,23.0215374,72.5800568,31.6356659,74.8787496
+1020,2025-06-15 18:00:00,Goa,Goa,India,Ahmedabad,Gujarat,India,507,Train,Trekking,15.4989946,73.8282141,23.0215374,72.5800568
+1020,2025-06-21 03:00:00,Chandigarh,Chandigarh,India,Dehradun,Uttarakhand,India,182,Flight,Return Trip,30.7334421,76.7797143,30.3255646,78.0436813
+1020,2025-06-26 06:00:00,Visakhapatnam,Andhra Pradesh,India,Jaipur,Rajasthan,India,232,Train,Work,17.6935526,83.2921297,26.9154576,75.8189817
+1020,2025-06-29 08:00:00,Ahmedabad,Gujarat,India,Amritsar,Punjab,India,521,Bus,Business,23.0215374,72.5800568,31.6356659,74.8787496
+1020,2025-07-01 12:00:00,Indore,Madhya Pradesh,India,New Delhi,Delhi,India,666,Car,Business,22.7203616,75.8681996,28.6430858,77.2192671
+1020,2025-07-05 13:00:00,Hyderabad,Telangana,India,New Delhi,Delhi,India,920,Flight,Leisure,17.360589,78.4740613,28.6430858,77.2192671
+1020,2025-07-09 16:00:00,Goa,Goa,India,Manali,Himachal Pradesh,India,611,Bus,Family Visit,15.4989946,73.8282141,32.2454608,77.1872926
+1020,2025-07-10 19:00:00,Visakhapatnam,Andhra Pradesh,India,Shimla,Himachal Pradesh,India,1399,Train,Work,17.6935526,83.2921297,31.1041526,77.1709729
+1020,2025-07-14 04:00:00,Amritsar,Punjab,India,Bhopal,Madhya Pradesh,India,1057,Train,Return Trip,31.6356659,74.8787496,23.2584857,77.401989
+1020,2025-07-19 14:00:00,New Delhi,Delhi,India,Lucknow,Uttar Pradesh,India,944,Train,Trekking,28.6430858,77.2192671,26.8381,80.9346001
+1020,2025-07-23 21:00:00,Chandigarh,Chandigarh,India,Varanasi,Uttar Pradesh,India,1459,Train,Business,30.7334421,76.7797143,25.3356491,83.0076292
+1020,2025-07-27 05:00:00,New Delhi,Delhi,India,Dehradun,Uttarakhand,India,1032,Train,Work,28.6430858,77.2192671,30.3255646,78.0436813
+1020,2025-07-29 11:00:00,Bhubaneswar,Odisha,India,Goa,Goa,India,864,Flight,Return Trip,20.2602964,85.8394521,15.4989946,73.8282141
+1020,2025-08-01 12:00:00,Dehradun,Uttarakhand,India,New Delhi,Delhi,India,1381,Flight,Leisure,30.3255646,78.0436813,28.6430858,77.2192671
+1020,2025-08-02 16:00:00,Shimla,Himachal Pradesh,India,Visakhapatnam,Andhra Pradesh,India,510,Car,Work,31.1041526,77.1709729,17.6935526,83.2921297
+1021,2025-03-05 15:00:00,Agra,Uttar Pradesh,India,Jodhpur,Rajasthan,India,1312,Bus,Business,27.1752554,78.0098161,26.2967719,73.0351433
+1021,2025-03-06 16:00:00,Lucknow,Uttar Pradesh,India,Bhopal,Madhya Pradesh,India,553,Car,Tourism,26.8381,80.9346001,23.2584857,77.401989
+1021,2025-03-08 20:00:00,Manali,Himachal Pradesh,India,Raipur,Chhattisgarh,India,1241,Bus,Tourism,32.2454608,77.1872926,21.2380912,81.6336993
+1021,2025-03-13 23:00:00,Dehradun,Uttarakhand,India,Bengaluru,Karnataka,India,209,Bus,Family Visit,30.3255646,78.0436813,12.9767936,77.590082
+1021,2025-03-17 00:00:00,Indore,Madhya Pradesh,India,Shimla,Himachal Pradesh,India,614,Bus,Family Visit,22.7203616,75.8681996,31.1041526,77.1709729
+1021,2025-03-22 06:00:00,Manali,Himachal Pradesh,India,Goa,Goa,India,1142,Train,Trekking,32.2454608,77.1872926,15.4989946,73.8282141
+1021,2025-03-26 11:00:00,Surat,Gujarat,India,Mumbai,Maharashtra,India,932,Flight,Family Visit,21.2094892,72.8317058,19.054999,72.8692035
+1021,2025-03-28 15:00:00,Dehradun,Uttarakhand,India,New Delhi,Delhi,India,90,Car,Return Trip,30.3255646,78.0436813,28.6430858,77.2192671
+1021,2025-04-02 19:00:00,Dehradun,Uttarakhand,India,Jaipur,Rajasthan,India,613,Car,Tourism,30.3255646,78.0436813,26.9154576,75.8189817
+1021,2025-04-04 00:00:00,Indore,Madhya Pradesh,India,Jodhpur,Rajasthan,India,874,Car,Work,22.7203616,75.8681996,26.2967719,73.0351433
+1021,2025-04-09 05:00:00,Bengaluru,Karnataka,India,Thiruvananthapuram,Kerala,India,1004,Flight,Tourism,12.9767936,77.590082,8.4882267,76.947551
+1021,2025-04-13 09:00:00,Mumbai,Maharashtra,India,Shimla,Himachal Pradesh,India,469,Train,Tourism,19.054999,72.8692035,31.1041526,77.1709729
+1021,2025-04-14 19:00:00,Kolkata,West Bengal,India,Chandigarh,Chandigarh,India,1210,Car,Tourism,22.5726459,88.3638953,30.7334421,76.7797143
+1021,2025-04-18 20:00:00,Chandigarh,Chandigarh,India,Surat,Gujarat,India,137,Flight,Return Trip,30.7334421,76.7797143,21.2094892,72.8317058
+1021,2025-04-19 21:00:00,Bhubaneswar,Odisha,India,Chandigarh,Chandigarh,India,1320,Flight,Return Trip,20.2602964,85.8394521,30.7334421,76.7797143
+1021,2025-04-25 03:00:00,Chennai,Tamil Nadu,India,Jodhpur,Rajasthan,India,281,Train,Work,13.0836939,80.270186,26.2967719,73.0351433
+1021,2025-04-26 08:00:00,Surat,Gujarat,India,Jodhpur,Rajasthan,India,384,Bus,Work,21.2094892,72.8317058,26.2967719,73.0351433
+1021,2025-04-29 17:00:00,Pune,Maharashtra,India,Hyderabad,Telangana,India,916,Flight,Return Trip,18.5213738,73.8545071,17.360589,78.4740613
+1021,2025-05-04 01:00:00,Pune,Maharashtra,India,Nagpur,Maharashtra,India,1165,Flight,Return Trip,18.5213738,73.8545071,21.1498134,79.0820556
+1021,2025-05-07 07:00:00,Agra,Uttar Pradesh,India,Lucknow,Uttar Pradesh,India,290,Car,Business,27.1752554,78.0098161,26.8381,80.9346001
+1021,2025-05-08 10:00:00,Dehradun,Uttarakhand,India,Ahmedabad,Gujarat,India,1470,Car,Work,30.3255646,78.0436813,23.0215374,72.5800568
+1021,2025-05-13 16:00:00,Lucknow,Uttar Pradesh,India,Hyderabad,Telangana,India,1391,Train,Tourism,26.8381,80.9346001,17.360589,78.4740613
+1021,2025-05-15 01:00:00,Dehradun,Uttarakhand,India,Goa,Goa,India,1230,Bus,Leisure,30.3255646,78.0436813,15.4989946,73.8282141
+1021,2025-05-20 07:00:00,Ahmedabad,Gujarat,India,Ranchi,Jharkhand,India,1322,Train,Work,23.0215374,72.5800568,23.3700501,85.3250387
+1021,2025-05-21 10:00:00,Jaipur,Rajasthan,India,New Delhi,Delhi,India,437,Flight,Family Visit,26.9154576,75.8189817,28.6430858,77.2192671
+1021,2025-05-23 14:00:00,Jodhpur,Rajasthan,India,Jaipur,Rajasthan,India,420,Bus,Work,26.2967719,73.0351433,26.9154576,75.8189817
+1021,2025-05-28 20:00:00,Patna,Bihar,India,Amritsar,Punjab,India,1457,Bus,Work,25.6093239,85.1235252,31.6356659,74.8787496
+1021,2025-06-01 00:00:00,Bengaluru,Karnataka,India,Hyderabad,Telangana,India,404,Bus,Trekking,12.9767936,77.590082,17.360589,78.4740613
+1021,2025-06-03 04:00:00,Goa,Goa,India,Manali,Himachal Pradesh,India,822,Flight,Family Visit,15.4989946,73.8282141,32.2454608,77.1872926
+1021,2025-06-04 08:00:00,Indore,Madhya Pradesh,India,New Delhi,Delhi,India,1488,Car,Business,22.7203616,75.8681996,28.6430858,77.2192671
+1021,2025-06-06 11:00:00,Visakhapatnam,Andhra Pradesh,India,Lucknow,Uttar Pradesh,India,593,Bus,Family Visit,17.6935526,83.2921297,26.8381,80.9346001
+1021,2025-06-09 17:00:00,Dehradun,Uttarakhand,India,Bhopal,Madhya Pradesh,India,879,Train,Work,30.3255646,78.0436813,23.2584857,77.401989
+1021,2025-06-12 00:00:00,Jodhpur,Rajasthan,India,Ahmedabad,Gujarat,India,454,Flight,Trekking,26.2967719,73.0351433,23.0215374,72.5800568
+1021,2025-06-16 08:00:00,Bhopal,Madhya Pradesh,India,Chennai,Tamil Nadu,India,1288,Train,Family Visit,23.2584857,77.401989,13.0836939,80.270186
+1021,2025-06-18 18:00:00,Surat,Gujarat,India,Kolkata,West Bengal,India,162,Car,Return Trip,21.2094892,72.8317058,22.5726459,88.3638953
+1021,2025-06-23 00:00:00,Bhopal,Madhya Pradesh,India,Varanasi,Uttar Pradesh,India,944,Train,Trekking,23.2584857,77.401989,25.3356491,83.0076292
+1021,2025-06-26 06:00:00,Mumbai,Maharashtra,India,New Delhi,Delhi,India,956,Bus,Leisure,19.054999,72.8692035,28.6430858,77.2192671
+1021,2025-06-30 07:00:00,Agra,Uttar Pradesh,India,Goa,Goa,India,683,Bus,Trekking,27.1752554,78.0098161,15.4989946,73.8282141
+1021,2025-07-04 10:00:00,Bengaluru,Karnataka,India,Amritsar,Punjab,India,1301,Flight,Trekking,12.9767936,77.590082,31.6356659,74.8787496
+1021,2025-07-08 18:00:00,Surat,Gujarat,India,Mumbai,Maharashtra,India,898,Flight,Family Visit,21.2094892,72.8317058,19.054999,72.8692035
+1021,2025-07-11 00:00:00,Ahmedabad,Gujarat,India,Chennai,Tamil Nadu,India,1004,Flight,Trekking,23.0215374,72.5800568,13.0836939,80.270186
+1021,2025-07-12 02:00:00,Goa,Goa,India,Dehradun,Uttarakhand,India,966,Car,Work,15.4989946,73.8282141,30.3255646,78.0436813
+1021,2025-07-16 08:00:00,Chennai,Tamil Nadu,India,Patna,Bihar,India,1337,Train,Work,13.0836939,80.270186,25.6093239,85.1235252
+1021,2025-07-18 11:00:00,Amritsar,Punjab,India,Ahmedabad,Gujarat,India,948,Flight,Trekking,31.6356659,74.8787496,23.0215374,72.5800568
+1021,2025-07-23 16:00:00,Shimla,Himachal Pradesh,India,Pune,Maharashtra,India,1300,Flight,Leisure,31.1041526,77.1709729,18.5213738,73.8545071
+1021,2025-07-25 21:00:00,New Delhi,Delhi,India,Bhopal,Madhya Pradesh,India,363,Train,Tourism,28.6430858,77.2192671,23.2584857,77.401989
+1021,2025-07-29 23:00:00,Indore,Madhya Pradesh,India,Thiruvananthapuram,Kerala,India,1035,Flight,Family Visit,22.7203616,75.8681996,8.4882267,76.947551
+1021,2025-08-03 09:00:00,Jodhpur,Rajasthan,India,Bhubaneswar,Odisha,India,563,Flight,Return Trip,26.2967719,73.0351433,20.2602964,85.8394521
+1021,2025-08-04 19:00:00,Dehradun,Uttarakhand,India,Chandigarh,Chandigarh,India,964,Car,Return Trip,30.3255646,78.0436813,30.7334421,76.7797143
+1021,2025-08-09 04:00:00,Jodhpur,Rajasthan,India,Nagpur,Maharashtra,India,191,Flight,Family Visit,26.2967719,73.0351433,21.1498134,79.0820556
+1022,2025-03-05 18:00:00,Raipur,Chhattisgarh,India,Lucknow,Uttar Pradesh,India,1417,Car,Trekking,21.2380912,81.6336993,26.8381,80.9346001
+1022,2025-03-08 02:00:00,Surat,Gujarat,India,Ahmedabad,Gujarat,India,326,Flight,Family Visit,21.2094892,72.8317058,23.0215374,72.5800568
+1022,2025-03-13 10:00:00,Bengaluru,Karnataka,India,Amritsar,Punjab,India,303,Car,Tourism,12.9767936,77.590082,31.6356659,74.8787496
+1022,2025-03-14 17:00:00,Agra,Uttar Pradesh,India,Jodhpur,Rajasthan,India,1393,Car,Tourism,27.1752554,78.0098161,26.2967719,73.0351433
+1022,2025-03-19 02:00:00,Jodhpur,Rajasthan,India,Bhubaneswar,Odisha,India,628,Flight,Work,26.2967719,73.0351433,20.2602964,85.8394521
+1022,2025-03-24 07:00:00,Mumbai,Maharashtra,India,Bhopal,Madhya Pradesh,India,424,Train,Leisure,19.054999,72.8692035,23.2584857,77.401989
