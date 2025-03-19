@@ -1,82 +1,61 @@
+import pandas as pd
 import os
-import csv
-import requests
-import time
 
-# OpenCage API Key (Replace with your actual key)
-API_KEY = '97affb5510db483e88242f4d48f3d3e1'
+# ✅ File Paths
+RAW_CSV_FILE = r'C:\Users\KIIT\Desktop\project\Location_Predictor\Backend\data\large_travel_history.csv'
+PROCESSED_CSV_FILE = r'C:\Users\KIIT\Desktop\project\Location_Predictor\Backend\data\processed_travel_history.csv'
 
-# Use absolute paths for file locations
-INPUT_CSV = r'C:\Users\KIIT\Desktop\project\Location_Predictor\Backend\data\large_travel_history.csv'  
-OUTPUT_CSV = r'C:\Users\KIIT\Desktop\project\Location_Predictor\Backend\data\processed_travel_history.csv'
+# ✅ Step 1: Load Dataset
+print("🔹 Loading raw dataset...")
 
-# Function to get latitude and longitude using OpenCage API
-def get_lat_lon(city, state, country):
-    """Get latitude and longitude for a given location."""
-    try:
-        location = f"{city}, {state}, {country}"
-        url = f"https://api.opencagedata.com/geocode/v1/json?q={location}&key={API_KEY}"
-        response = requests.get(url)
-        data = response.json()
+if not os.path.exists(RAW_CSV_FILE):
+    print(f"❌ CSV file not found: {RAW_CSV_FILE}")
+    exit()
 
-        if response.status_code == 200 and data['results']:
-            lat = data['results'][0]['geometry']['lat']
-            lon = data['results'][0]['geometry']['lng']
-            return lat, lon
-        else:
-            print(f"⚠️ No data found for {location}.")
-            return None, None
-    except Exception as e:
-        print(f"❌ Error fetching location data: {e}")
-        return None, None
+data = pd.read_csv(RAW_CSV_FILE)
+print(f"✅ Data loaded successfully. Shape: {data.shape}")
 
-# Function to preprocess CSV
-def preprocess_csv(input_file, output_file):
-    """Preprocess CSV file by adding latitude and longitude."""
-    
-    # Check if the input file exists
-    if not os.path.exists(input_file):
-        print(f"❌ Input file not found: {input_file}")
-        return
+# ✅ Step 2: Validate Columns
+EXPECTED_COLUMNS = {
+    'user_id', 'timestamp', 'start_city', 'start_state', 'start_country',
+    'end_city', 'end_state', 'end_country', 'distance_km', 'mode_of_transport', 'purpose'
+}
 
-    with open(input_file, 'r', encoding='utf-8') as infile, open(output_file, 'w', newline='', encoding='utf-8') as outfile:
-        reader = csv.reader(infile)
-        writer = csv.writer(outfile)
+# Detect missing columns
+missing_cols = EXPECTED_COLUMNS - set(data.columns)
 
-        # Read headers and add new latitude/longitude columns
-        headers = next(reader)
-        headers.extend(['Origin_Lat', 'Origin_Lon', 'Dest_Lat', 'Dest_Lon'])
-        writer.writerow(headers)
+if missing_cols:
+    print(f"⚠️ Missing columns: {missing_cols}")
+    exit()
+else:
+    print("✅ All columns are present!")
 
-        for row in reader:
-            try:
-                origin_city = row[2]
-                origin_state = row[3]
-                origin_country = row[4]
-                dest_city = row[5]
-                dest_state = row[6]
-                dest_country = row[7]
+# ✅ Step 3: Handle Missing Values
+print("🔧 Handling missing values...")
 
-                # Get lat/lon for origin and destination
-                origin_lat, origin_lon = get_lat_lon(origin_city, origin_state, origin_country)
-                dest_lat, dest_lon = get_lat_lon(dest_city, dest_state, dest_country)
+# Fill missing city/state/country with "Unknown"
+data['start_city'].fillna('Unknown', inplace=True)
+data['start_state'].fillna('Unknown', inplace=True)
+data['start_country'].fillna('Unknown', inplace=True)
+data['end_city'].fillna('Unknown', inplace=True)
+data['end_state'].fillna('Unknown', inplace=True)
+data['end_country'].fillna('Unknown', inplace=True)
 
-                if origin_lat is None or dest_lat is None:
-                    print(f"⚠️ Skipping row due to missing coordinates: {row}")
-                    continue
+# Fill missing distance with 0 and transport/purpose with "Unknown"
+data['distance_km'].fillna(0.0, inplace=True)
+data['mode_of_transport'].fillna('Unknown', inplace=True)
+data['purpose'].fillna('Unknown', inplace=True)
 
-                # Add lat/lon to the row
-                row.extend([origin_lat, origin_lon, dest_lat, dest_lon])
-                writer.writerow(row)
+print("✅ Missing values handled!")
 
-                print(f"✅ Processed: {origin_city} ➡️ {dest_city}")
-                time.sleep(1)  # Prevent API rate limit issues
+# ✅ Step 4: Remove Duplicates
+print("🧹 Removing duplicates...")
+before_dedup = data.shape[0]
+data.drop_duplicates(inplace=True)
+after_dedup = data.shape[0]
+print(f"✅ Removed {before_dedup - after_dedup} duplicate rows!")
 
-            except Exception as e:
-                print(f"❌ Error processing row: {row} - {e}")
-
-# Run preprocessing
-if __name__ == "__main__":
-    print(f"📊 Preprocessing CSV: {INPUT_CSV}")
-    preprocess_csv(INPUT_CSV, OUTPUT_CSV)
-    print(f"✅ Processed data saved at: {OUTPUT_CSV}")
+# ✅ Step 5: Save the Cleaned Data
+print(f"💾 Saving cleaned data to: {PROCESSED_CSV_FILE}")
+data.to_csv(PROCESSED_CSV_FILE, index=False)
+print("✅ Preprocessing completed successfully!")
