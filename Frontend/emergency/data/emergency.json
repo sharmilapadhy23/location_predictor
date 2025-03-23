@@ -1,0 +1,6 @@
+[
+    { "area": "Delhi", "type": "Police", "name": "Delhi Police", "contact": "100" },
+    { "area": "Mumbai", "type": "Fire", "name": "Mumbai Fire Dept", "contact": "101" },
+    { "area": "Chennai", "type": "Hospital", "name": "Chennai General", "contact": "102" }
+  ]
+  
