@@ -1,0 +1,479 @@
+@import url('https://fonts.cdnfonts.com/css/gilroy-bold');
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "gilroy-bold";
+    color: #111 ;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+    background-color: #F4F3E6;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+@keyframes appear{
+    from{
+        opacity: 0;
+        scale: 0.5;
+    }
+    to{
+        opacity: 1;
+        scale: 1;
+    }
+
+}
+
+#nav{
+    /* background-color: red; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px 50px;
+    position: sticky;
+    text-decoration: none;
+}
+
+#nav h2{
+    font-size: 30px;
+    font-weight: 800;
+}
+.normal-link {
+    text-decoration: none;  /* Removes underline */
+    color: black;           /* Normal text color */
+    font-weight: normal;    /* Normal weight */
+  }
+  
+  .normal-link h4 {
+    margin: 0;              /* Removes default margin */
+    padding: 0;             /* Removes default padding */
+  }
+  
+  .normal-link:hover {
+    color: #555;            /* Slight color change on hover */
+  }  
+
+#part2 {
+    display: flex;
+    gap: 50px;
+    font-size: 18px;
+    text-decoration: none;
+}
+#part2 h4{
+    position: relative;
+ }
+
+#part2 h4::after{
+    content: " ";
+    margin-top: 3px;
+    position: absolute;
+    height: 1.5px;
+    left:0;
+    bottom: 0;
+    width: 0;
+    background-color: #111;
+    transition: width .5s
+}
+
+#part2 h4:hover::after{
+    width: 100%;
+}
+
+
+main{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+}
+
+.para{
+    max-width: 50%;
+    padding: 30px;
+}
+
+.para .subheading{
+    font-size: 20px;
+    color: #3c3838;
+}
+
+.para .mainheading{
+    font-size: 55px;
+    color:#290707;
+}
+
+.para .description{
+    font-size: 13px;
+    color: #787272;
+}
+
+.image{
+    animation: appear linear;
+    animation-timeline: view();
+    animation-range: entry 0% cover 40%;
+}
+
+.parah{
+    max-width: 50%;
+    padding: 30px;
+    animation: appear linear;
+    animation-timeline: view();
+    animation-range: entry 0% cover 40%;
+}
+
+.parah .subheading{
+    font-size: 18px;
+    margin: 5px;
+    
+}
+
+.parah .mainheading{
+    font-size: 26px;
+    
+}
+
+.parah .description{
+    font-size: 12px;
+    margin-top: 5px;
+    
+}
+
+.parah .about-more{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 70%;
+    padding-top: 20px;
+}
+
+.parah .about-more a{
+    font-size: 18px;
+}
+
+
+
+
+.features{
+    text-align: center;
+    width: 100%;
+    justify-content: space-between;
+    padding-left: 40px;
+    padding-right: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.features .services{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.features span{
+    font-size: 25px;
+    font-weight: 200;
+    padding: 15px;
+    animation: appear linear;
+    animation-timeline: view();
+    animation-range: entry 0% cover 40%;
+    color: #787272;
+}
+
+.features p{
+    font-size: 40px;
+    width: 500px;
+    display: flex;
+    align-items: center;
+    padding-bottom: 60px;
+    animation: appear linear;
+    animation-timeline: view();
+    animation-range: entry 0% cover 40%;
+}
+
+.features h5 {
+    font-size: 20px;
+}
+
+.features .card i{
+    font-size: 60px;
+}
+
+.card{
+    text-align: center;
+    padding: 20px ;
+    margin-top: 25px;
+    animation: appear linear;
+    animation-timeline: view();
+    animation-range: entry 0% cover 40%;
+}
+
+/* weather */
+.weather{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 50px;
+    margin-top: 100px;
+}
+
+.weather h2{
+    font-size: 45px;
+    animation: appear linear;
+    animation-timeline: view();
+    animation-range: entry 0% cover 40%;
+}
+
+.weather p{
+    font-size: 18px;
+    width: 90%;
+    text-align: center;
+    animation: appear linear;
+    animation-timeline: view();
+    animation-range: entry 0% cover 40%;
+    color: #787272;
+}
+
+.grid-container {
+    margin-top: 90px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 80px;
+    padding: 20px;
+    width: 90%;
+    max-width: 800px;
+}
+
+.color-box {
+    position: relative;
+    width: 100%;
+    height: 200px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    animation: appear linear;
+    animation-timeline: view();
+    animation-range: entry 0% cover 40%;
+}
+
+.color-box span {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.weather .color-name {
+    font-size: 24px;
+}
+
+.weather .flower {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 26px;
+}
+
+.weather .grid-container .color-box span{
+    color: #ffffff;
+}
+
+.weather .grid-container .box1 {
+    background-image: url('./ekamra-kanan-bhubaneswar-tourism-location-address.jpg');
+    background-size: cover; /* Keeps the full image visible */
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.weather .grid-container .box1 {
+    background-image: url('./ekamra-kanan-bhubaneswar-tourism-location-address.jpg');
+    background-size: cover; /* Keeps the full image visible */
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.weather .grid-container .box2 {
+    background-image: url('./2.jpg');
+    background-size: cover; /* Keeps the full image visible */
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.weather .grid-container .box3 {
+    background-image: url('./6.jpg');
+    background-size: cover; /* Keeps the full image visible */
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.weather .grid-container .box4 {
+    background-image: url('./8.jpg');
+    background-size: cover; /* Keeps the full image visible */
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.weather .grid-container .box5 {
+    background-image: url('./9.jpg');
+    background-size: cover; /* Keeps the full image visible */
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.weather .grid-container .box6 {
+    background-image: url('./10.jpg');
+    background-size: cover; /* Keeps the full image visible */
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/* .box2 { background-color: #E7C58A; }
+.box3 { background-color: #86805D; }
+.box4 { background-color: #C77974; }
+.box5 { background-color: #F76D4; }
+.box6 { background-color: #4B3535; } */
+
+
+.getstarted{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.getstarted span{
+    font-size: 45px;
+    padding-top: 100px;
+    padding-bottom: 15px;
+    animation: appear linear;
+    animation-timeline: view();
+    animation-range: entry 0% cover 40%;
+}
+
+.getstarted p{
+    font-size: 22px;
+    width: 75%;
+    text-align: center;
+    padding-bottom: 50px;
+    animation: appear linear;
+    animation-timeline: view();
+    animation-range: entry 0% cover 40%;
+    color: #787272;
+}
+
+.getstarted button{
+    margin: 50px;
+    animation: appear linear;
+    animation-timeline: view();
+    animation-range: entry 0% cover 40%;
+}
+
+.btn {
+    padding: 12px 24px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 25px;
+    background-color: #f0f0f0;
+    color: #333;
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+.btn:not(:hover) {
+    background-color: #333;
+    color: #fff;
+}
+
+
+.last {
+    width: 100%;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    color: #111;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: left; */
+    
+}
+
+.top-section {
+    margin-top: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 40px;
+    
+}
+
+.last .top-section .nav-links a{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    color: #111;
+}
+
+.nav-links a {
+    text-decoration: none;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.subscribe {
+    max-width: 300px;
+    text-align: right;
+}
+
+.subscribe p {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.subscribe input {
+    width: 95%;
+    background: transparent;
+    border: none;
+    border-bottom: 3px solid #111111c4;
+    padding: 5px;
+    color: white;
+    font-size: 1rem;
+}
+
+.footer-name{
+    font-size: 140px;
+   
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    border-top: 1px solid #111;
+    padding-top: -20px ;
+    
+}
+
+.footer a {
+    text-decoration: none;
+    color: #111;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+
+
+
+
+
+

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>VR Location Preview</title>
+  <link rel="stylesheet" href="vr.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/110/three.min.js"></script>
+</head>
+<body>
+
+<div class="container">
+  <h1>VR Location Preview</h1>
+  <input type="text" id="location" placeholder="Enter location (e.g., Goa)">
+  <button onclick="getLocationImage()">Preview</button>
+
+  <div id="preview"></div>
+  
+  <!-- Fullscreen button inside the container -->
+  <button id="fullscreen-btn" onclick="toggleFullScreen()">Toggle Fullscreen</button>
+</div>
+
+<script src="vr.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,95 @@
+/* Reset and basic styling */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #f0f0f0;
+    transition: background 0.3s ease;
+}
+
+.container {
+    text-align: center;
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease-in-out;
+}
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+input, button {
+    padding: 10px;
+    margin: 5px;
+    width: 80%;
+}
+
+button {
+    background: #007BFF;
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+/* VR preview container */
+#preview {
+    width: 100%;
+    height: 400px;
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    position: relative;
+    transition: all 0.5s ease;
+    overflow: hidden;
+    background-size: cover;
+    background-position: center;
+}
+
+/* Full-screen mode */
+.fullscreen {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;           /* Full width */
+    height: 100vh;           /* Full height */
+    z-index: 999;
+    background: #000;
+    transition: all 0.5s ease;
+}
+
+/* Make the image occupy the entire screen */
+.fullscreen img, .fullscreen canvas {
+    width: 100vw;           
+    height: 100vh;          
+    object-fit: cover;        /* Ensures the image covers the full screen */
+}
+
+/* Fullscreen button */
+#fullscreen-btn {
+    padding: 10px 20px;
+    background: #28a745;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: background 0.3s;
+    margin-top: 10px;
+}
+
+#fullscreen-btn:hover {
+    background: #218838;
+}
