@@ -31,7 +31,7 @@ def prepare_input():
         'start_city': ['Shimla'],
         'start_state': ['Himachal Pradesh'],
         'start_country': ['India'],
-        'end_city': ['Bhopal'],
+        'end_city': ['Bhopal '],
         'end_state': ['Madhya Pradesh'],
         'end_country': ['India'],
         'distance_km': [296],
