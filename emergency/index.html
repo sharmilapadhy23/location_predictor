@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Emergency Services Locator</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+</head>
+<body>
+
+<div class="container">
+    <h1>Nearby Emergency Services</h1>
+
+    <div class="controls">
+        <select id="serviceType">
+            <option value="hospital">Hospitals</option>
+            <option value="police">Police Stations</option>
+            <option value="pharmacy">Pharmacies</option>
+            <option value="toilets">Toilets</option>
+        </select>
+
+        <button onclick="findNearby()">Find Nearby</button>
+        <button onclick="sendSOS()">🚨 SOS</button>
+    </div>
+
+    <div id="map"></div>
+</body>
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+<script src="script.js"></script>
+</html>
