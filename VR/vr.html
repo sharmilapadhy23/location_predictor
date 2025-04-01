@@ -6,19 +6,49 @@
   <title>VR Location Preview</title>
   <link rel="stylesheet" href="vr.css">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/110/three.min.js"></script>
+  <link
+  rel="stylesheet"
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+  integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+  crossorigin="anonymous"
+  referrerpolicy="no-referrer"
+/>
 </head>
 <body>
 
-<div class="container">
-  <h1>VR Location Preview</h1>
-  <input type="text" id="location" placeholder="Enter location (e.g., Goa)">
-  <button onclick="getLocationImage()">Preview</button>
-
-  <div id="preview"></div>
-  
-  <!-- Fullscreen button inside the container -->
-  <button id="fullscreen-btn" onclick="toggleFullScreen()">Toggle Fullscreen</button>
-</div>
+   <!-- Sidebar -->
+   <aside class="sidebar">
+    <ul>
+       <li><span>RoamEase</span></li> 
+      <li class="list"><a href="#location"><i class="fa-solid fa-location-dot"></i>Next location</a></li>
+      <li class="list"><a href="#offline"><i class="fa-solid fa-compass"></i>Offline Maps</a></li>
+      <li class="list"><a href="#vr"><i class="fa-solid fa-vr-cardboard"></i>VR integration</a></li>
+      <li class="list"><a href="#emergency"><i class="fa-solid fa-truck-medical"></i>Emergency service</a></li>
+      <li class="list"><a href="#danger"><i class="fa-solid fa-skull-crossbones"></i>Danger zone</a></li>
+      <li class="list"><a href="#logout"><i class="fa-solid fa-right-from-bracket"></i>Log Out</a></li>
+    </ul>
+    
+  </aside>
+  <section class="main">
+    <div class="profile">
+        <i class="fa-regular fa-user"></i>
+        <i class="fa-regular fa-bell"></i>
+    </div>
+  <section class="left">
+    <div class="container">
+      <h1>VR Location Preview</h1>
+      <input type="text" id="location" placeholder="Enter location (e.g., Goa)">
+      <button onclick="getLocationImage()">Preview</button>
+    
+      <div id="preview"></div>
+      
+      <!-- Fullscreen button inside the container -->
+      <button id="fullscreen-btn" onclick="toggleFullScreen()">Toggle Fullscreen</button>
+    </div>
+    
+    </section>
+  </section>
+</section>
 
 <script src="vr.js"></script>
 
