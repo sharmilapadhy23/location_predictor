@@ -4,25 +4,47 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Danger Alerts</title>
-    <style>
-        /* Style for the pop-up alert */  
-        .alert {
-            position: fixed;
-            top: 10px;
-            right: 10px;
-            background-color: red;
-            color: white; 
-            padding: 15px;
-            border-radius: 5px;
-            display: none;
-            font-weight: bold;
-        }
-    </style>
+    <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+    integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+    crossorigin="anonymous"
+    referrerpolicy="no-referrer"
+  />
+  <link rel="stylesheet" href="danger.css">
 </head>
 <body>
 
-    <h1>Welcome to the Danger Alert System</h1>
-    <div id="dangerAlert" class="alert"></div>
+          <!-- Sidebar -->
+          <aside class="sidebar">
+            <ul>
+               <li><span>RoamEase</span></li> 
+              <li class="list"><a href="#location"><i class="fa-solid fa-location-dot"></i>Next location</a></li>
+              <li class="list"><a href="#offline"><i class="fa-solid fa-compass"></i>Offline Maps</a></li>
+              <li class="list"><a href="#vr"><i class="fa-solid fa-vr-cardboard"></i>VR integration</a></li>
+              <li class="list"><a href="#emergency"><i class="fa-solid fa-truck-medical"></i>Emergency service</a></li>
+              <li class="list"><a href="#danger"><i class="fa-solid fa-skull-crossbones"></i>Danger zone</a></li>
+              <li class="list"><a href="#logout"><i class="fa-solid fa-right-from-bracket"></i>Log Out</a></li>
+            </ul>
+            
+          </aside>
+          <section class="main">
+            <div class="profile">
+                <i class="fa-regular fa-user"></i>
+                <i class="fa-regular fa-bell"></i>
+            </div>
+          <section class="left">
+            <section class="top">
+                <h1>Welcome to the Danger Alert System</h1>
+                <div id="dangerAlert" class="alert"></div>
+            </section>
+          </section>
+        </section>
+    
+
+
+
+
 
     <!-- Include SocketIO.js -->
     <script src="https://cdn.socket.io/4.0.0/socket.io.min.js"></script>
