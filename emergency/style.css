@@ -1,4 +1,4 @@
-* {
+/* * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -52,4 +52,219 @@ button:hover {
     width: 100%;
     border-radius: 10px;
     box-shadow: 0 0 10px #ccc;
+} */
+
+@import url('https://fonts.cdnfonts.com/css/gilroy-bold');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "gilroy-bold";
+    color: #111 ;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+    background-image: url(https://images.unsplash.com/photo-1597200381847-30ec200eeb9a?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.main{
+    height: 100vh;
+    margin-left: 260px;
+    padding: 0px 20px 20px;
+    width: calc(100% - 260px);
+    /* min-height: 100vh; */
+    transition: margin-left 0.3s;
+    /* background: #fdf6f0 */
+}
+
+.main .profile{
+        display: flex;
+        justify-content: flex-end; /* Push icons to the right */
+        align-items: center;
+        width: 100%;
+        padding: 10px 20px; /* Adjust padding as needed */
+
+}
+
+.profile i{
+    background-color: black;
+    padding: 12px;
+    font-size: 18px;
+    border-radius: 50%;
+    color: #F4F3E6;
+    margin: 8px ;
+}
+
+/* .main {
+    margin-left: 260px;
+    padding: 100px 40px 40px;
+    width: calc(100% - 260px);
+    min-height: 100vh;
+    transition: margin-left 0.3s;
+    background: #fdf6f0; 
+} */
+
+h1{
+    font-size: 42px;
+}
+
+p{
+    font-size: 19px;
+    font-style: italic;
+}
+
+.top {
+    padding: px;
+}
+
+h4{
+    font-size: 26px;
+    margin-top: 25px;
+    padding: 5px;
+}
+
+.bich{
+    padding: 5px;
+}
+
+
+.sidebar {
+    width: 250px;
+    height: 100%;
+    background: #111;  /* Soft peach */
+      position: fixed;
+    /* top: 70px; */
+    left: 0;
+    z-index: 5;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 2px 0 15px rgba(0, 0, 0, 0.1);
+    transition: 0.3s;
+    border-radius: 20px;
+}
+
+.sidebar ul .list i{
+    margin-right: 8px;
+    margin-left: 8px;
+    color: #F4F3E6;
+}
+
+.sidebar ul {
+    list-style: none;
+    padding: 0;
+}
+
+.sidebar ul li span{
+    color: #fff;
+    font-size: 33px;
+    padding: 15px;
+}
+
+.sidebar ul li {
+    padding: 20px;
+    transition: background 0.3s, transform 0.2s;
+}
+
+.sidebar ul li span:hover {
+    background: none;  /* Pastel green hover effect */
+    /* transform: translateX(5px); */
+}
+
+.sidebar ul .list:hover {
+    /* background: rgb(215, 245, 255);   */
+    transform: translateX(5px);
+    color:#33539e;
+}
+
+.sidebar ul li:hover a,
+.sidebar ul li:hover i {
+    color: #b84faf; 
+}
+
+
+.sidebar ul li a {
+    text-decoration: none;
+    color:  #F4F3E6;
+    display: block;
+    font-size: 18px;
+    transition: color 0.3s;
+}
+
+/* .sidebar ul li a i:hover, 
+.sidebar ul li a i.active {
+    color: #111;  
+    font-weight: bold;
+} */
+
+.profile i{
+    background-color: black;
+    padding: 8px;
+    border-radius: 50%;
+    color: #F4F3E6;
+}
+
+.top h1 span{
+    font-family: 'poppins';
+    font-weight: 900;
+    color: #fff;
+}
+.top h1{
+    color: #fff;
+}
+
+.top p{
+    color: #fff;
+}
+
+h4{
+    color: #3a3333;
+}
+
+#map {
+    height: 65vh;
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 0 5px #dbd5d5;
+}
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+    overflow: hidden;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    
+}
+
+.controls {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+select, button {
+    margin: 0 5px;
+    padding: 5px 10px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+}
+
+button {
+    background: #323232;
+    color: white;
+}
+
+button:hover {
+    background: #000000;
 }
