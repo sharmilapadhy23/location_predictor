@@ -6,25 +6,56 @@
     <title>Emergency Services Locator</title>
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+      integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
 </head>
 <body>
 
-<div class="container">
-    <h1>Nearby Emergency Services</h1>
+     <!-- Sidebar -->
+     <aside class="sidebar">
+        <ul>
+           <li><span>RoamEase</span></li> 
+          <li class="list"><a href="#location"><i class="fa-solid fa-location-dot"></i>Next location</a></li>
+          <li class="list"><a href="#offline"><i class="fa-solid fa-compass"></i>Offline Maps</a></li>
+          <li class="list"><a href="#vr"><i class="fa-solid fa-vr-cardboard"></i>VR integration</a></li>
+          <li class="list"><a href="#emergency"><i class="fa-solid fa-truck-medical"></i>Emergency service</a></li>
+          <li class="list"><a href="#danger"><i class="fa-solid fa-skull-crossbones"></i>Danger zone</a></li>
+          <li class="list"><a href="#logout"><i class="fa-solid fa-right-from-bracket"></i>Log Out</a></li>
+        </ul>
+        
+      </aside>
+      <section class="main">
+        <div class="profile">
+            <i class="fa-regular fa-user"></i>
+            <i class="fa-regular fa-bell"></i>
+        </div>
+      <section class="left">
+        <section class="top">
+            <div class="container">
+                <h1>Nearby Emergency Services</h1>
+            
+                <div class="controls">
+                    <select id="serviceType">
+                        <option value="hospital">Hospitals</option>
+                        <option value="police">Police Stations</option>
+                        <option value="pharmacy">Pharmacies</option>
+                        <option value="toilets">Toilets</option>
+                    </select>
+            
+                    <button onclick="findNearby()">Find Nearby</button>
+                    <button onclick="sendSOS()">🚨 SOS</button>
+                </div>
+            
+                <div id="map"></div>
+        </section>
+      </section>
+    </section>
 
-    <div class="controls">
-        <select id="serviceType">
-            <option value="hospital">Hospitals</option>
-            <option value="police">Police Stations</option>
-            <option value="pharmacy">Pharmacies</option>
-            <option value="toilets">Toilets</option>
-        </select>
-
-        <button onclick="findNearby()">Find Nearby</button>
-        <button onclick="sendSOS()">🚨 SOS</button>
-    </div>
-
-    <div id="map"></div>
 </body>
 <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
 <script src="script.js"></script>
