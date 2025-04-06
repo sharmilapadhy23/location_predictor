@@ -1,0 +1,308 @@
+[
+    {
+      "name": "Sensitive Area A",
+      "coordinates": [20.355, 85.820],
+      "danger_level": "High"
+    },
+    {
+      "name": "Flood-Prone Zone",
+      "coordinates": [20.360, 85.823],
+      "danger_level": "Medium"
+    },
+    {
+      "name": "Crime Hotspot",
+      "coordinates": [20.350, 85.817],
+      "danger_level": "High"
+    },
+    {
+        "name": "Delhi Flood Area",
+        "coordinates": [28.6139, 77.2090],
+        "danger_level": "High"
+      },
+      {
+        "name": "Mumbai Landslide Zone",
+        "coordinates": [19.0760, 72.8777],
+        "danger_level": "High"
+      },
+      {
+        "name": "Chennai Cyclone Risk Area",
+        "coordinates": [13.0827, 80.2707],
+        "danger_level": "Medium"
+      },
+      {
+        "name": "Kolkata Waterlogging Zone",
+        "coordinates": [22.5726, 88.3639],
+        "danger_level": "Medium"
+      },
+      {
+        "name": "Bhubaneswar Flood Area",
+        "coordinates": [20.2961, 85.8245],
+        "danger_level": "High"
+      },
+      {
+        "name": "Guwahati Earthquake Zone",
+        "coordinates": [26.1445, 91.7362],
+        "danger_level": "High"
+      },
+      {
+        "name": "Ranchi Storm Alert Area",
+        "coordinates": [23.3441, 85.3096],
+        "danger_level": "Low"
+      },
+      {
+        "name": "Patna Water Risk Zone",
+        "coordinates": [25.5941, 85.1376],
+        "danger_level": "Medium"
+      },
+      {
+        "name": "Hyderabad Urban Fire Risk Area",
+        "coordinates": [17.3850, 78.4867],
+        "danger_level": "Low"
+      },
+      {
+        "name": "Ahmedabad Heatwave Zone",
+        "coordinates": [23.0225, 72.5714],
+        "danger_level": "Medium"
+      },
+      {
+        "name": "Srinagar Avalanche Risk Zone",
+        "coordinates": [34.0837, 74.7973],
+        "danger_level": "High"
+      },
+      {
+        "name": "Shimla Landslide Area",
+        "coordinates": [31.1048, 77.1734],
+        "danger_level": "High"
+      },
+      {
+        "name": "Pune Flood-prone Area",
+        "coordinates": [18.5204, 73.8567],
+        "danger_level": "Medium"
+      },
+      {
+        "name": "Varanasi Stampede Risk Spot",
+        "coordinates": [25.3176, 82.9739],
+        "danger_level": "Low"
+      },
+      {
+        "name": "Visakhapatnam Cyclone Area",
+        "coordinates": [17.6868, 83.2185],
+        "danger_level": "Medium"
+      },
+      {
+        "name": "Acharya Vihar Flood Zone",
+        "coordinates": [20.2969, 85.8413],
+        "danger_level": "High"
+      },
+      {
+        "name": "Jaydev Vihar Waterlogging Area",
+        "coordinates": [20.2961, 85.8226],
+        "danger_level": "Medium"
+      },
+      {
+        "name": "Chandrasekharpur Drainage Risk Zone",
+        "coordinates": [20.3344, 85.8181],
+        "danger_level": "High"
+      },
+      {
+        "name": "Baramunda Bus Stand Area",
+        "coordinates": [20.2788, 85.7894],
+        "danger_level": "Medium"
+      },
+      {
+        "name": "Old Town Heritage Congestion Zone",
+        "coordinates": [20.2396, 85.8331],
+        "danger_level": "Low"
+      },
+      {
+        "name": "Unit 8 Area - Frequent Waterlogging",
+        "coordinates": [20.2804, 85.8169],
+        "danger_level": "High"
+      },
+      {
+        "name": "Khandagiri Hillslide Risk",
+        "coordinates": [20.2414, 85.7811],
+        "danger_level": "Medium"
+      },
+      {
+        "name": "Rasulgarh Industrial Fire Risk",
+        "coordinates": [20.2963, 85.8723],
+        "danger_level": "Medium"
+      },
+      {
+        "name": "Palasuni Flood-prone Zone",
+        "coordinates": [20.2951, 85.8786],
+        "danger_level": "High"
+      },
+      {
+        "name": "Saheed Nagar High-Traffic Hazard",
+        "coordinates": [20.2826, 85.8461],
+        "danger_level": "Low"
+      },
+      {
+        "name": "Mancheswar Railway Area",
+        "coordinates": [20.3137, 85.8658],
+        "danger_level": "Medium"
+      },
+      {
+        "name": "Jharapada Low Drainage Area",
+        "coordinates": [20.2914, 85.8689],
+        "danger_level": "Medium"
+      },
+      {
+        "name": "Patia Tech Hub - Fire/Power Risk",
+        "coordinates": [20.3542, 85.8169],
+        "danger_level": "Low"
+      },
+      {
+        "name": "KIIT Flood Proximity Zone",
+        "coordinates": [20.3532, 85.8187],
+        "danger_level": "High"
+      },
+      {
+        "name": "Infocity Traffic Congestion Area",
+        "coordinates": [20.3530, 85.8064],
+        "danger_level": "Low"
+      },
+      {
+        "name": "Badambadi Bus Stand - High Crowd Zone",
+        "coordinates": [20.4702, 85.8820],
+        "danger_level": "High"
+      },
+      {
+        "name": "Choudhury Bazar Flood-Prone Zone",
+        "coordinates": [20.4653, 85.8845],
+        "danger_level": "High"
+      },
+      {
+        "name": "College Square Waterlogging Area",
+        "coordinates": [20.4680, 85.8892],
+        "danger_level": "Medium"
+      },
+      {
+        "name": "Bajrakabati Road - Traffic Risk",
+        "coordinates": [20.4638, 85.8815],
+        "danger_level": "Low"
+      },
+      {
+        "name": "Madhupatna Industrial Hazard Zone",
+        "coordinates": [20.4754, 85.9021],
+        "danger_level": "Medium"
+      },
+      {
+        "name": "Ring Road - Flood Risk from Mahanadi",
+        "coordinates": [20.4786, 85.8813],
+        "danger_level": "High"
+      },
+      {
+        "name": "SCB Medical Area - High Traffic + Ambulance Priority",
+        "coordinates": [20.4712, 85.8914],
+        "danger_level": "Low"
+      },
+      {
+        "name": "Omp Square - Narrow Road Congestion",
+        "coordinates": [20.4732, 85.8943],
+        "danger_level": "Medium"
+      },
+      {
+        "name": "Jobra Barrage Area - Seasonal Flood Warning",
+        "coordinates": [20.4605, 85.8686],
+        "danger_level": "High"
+      },
+      {
+        "name": "Deula Sahi - Low Drainage Locality",
+        "coordinates": [20.4666, 85.8882],
+        "danger_level": "Medium"
+      },
+      {
+        "name": "Tulsipur Local Market Zone",
+        "coordinates": [20.4563, 85.8924],
+        "danger_level": "Low"
+      },
+      {
+        "name": "Chauliaganj Goods Yard - Fire Risk (Trucks & Warehouses)",
+        "coordinates": [20.4830, 85.8839],
+        "danger_level": "High"
+      },
+      {
+        "name": "Barang Area - Urban Expansion Risks",
+        "coordinates": [20.5070, 85.8267],
+        "danger_level": "Medium"
+      },
+      {
+        "name": "Link Road - High Vehicle Volume",
+        "coordinates": [20.4720, 85.8975],
+        "danger_level": "Low"
+      },
+      {
+        "name": "Buxi Bazar Market - Stampede Hazard in Festivals",
+        "coordinates": [20.4640, 85.8802],
+        "danger_level": "High"
+      },
+      {
+        "name": "Puri Sea Beach - Cyclone & High Tide Risk",
+        "coordinates": [19.7984, 85.8240],
+        "danger_level": "High"
+      },
+      {
+        "name": "Jagannath Temple Area - Festival Crowd Control Risk",
+        "coordinates": [19.8041, 85.8172],
+        "danger_level": "High"
+      },
+      {
+        "name": "Grand Road (Bada Danda) - Rath Yatra Congestion Zone",
+        "coordinates": [19.8032, 85.8195],
+        "danger_level": "High"
+      },
+      {
+        "name": "Swargadwar Cremation Ground - Sea Rise Risk",
+        "coordinates": [19.7989, 85.8213],
+        "danger_level": "Medium"
+      },
+      {
+        "name": "Chakratirtha Road - Monsoon Waterlogging",
+        "coordinates": [19.7990, 85.8281],
+        "danger_level": "Medium"
+      },
+      {
+        "name": "Marine Drive - Cyclone Impact Zone",
+        "coordinates": [19.7844, 85.8320],
+        "danger_level": "High"
+      },
+      {
+        "name": "Baliapanda Housing Board Area - Drainage Risk",
+        "coordinates": [19.7902, 85.8329],
+        "danger_level": "Medium"
+      },
+      {
+        "name": "Penthakata Fishermen Colony - Storm Surge Zone",
+        "coordinates": [19.8092, 85.8231],
+        "danger_level": "High"
+      },
+      {
+        "name": "Talabania Bus Stand - Urban Congestion",
+        "coordinates": [19.7998, 85.8175],
+        "danger_level": "Low"
+      },
+      {
+        "name": "Sipasurubili - Coastal Area Risk",
+        "coordinates": [19.7815, 85.8384],
+        "danger_level": "Medium"
+      },
+      {
+        "name": "Atharnala Bridge Area - Traffic & Monsoon Risk",
+        "coordinates": [19.8091, 85.8092],
+        "danger_level": "Medium"
+      },
+      {
+        "name": "Loknath Temple - Festival Season Crowd",
+        "coordinates": [19.8057, 85.8230],
+        "danger_level": "Low"
+      },
+      {
+        "name": "Mangala Ghat Slum Area - Low Drainage & Health Risk",
+        "coordinates": [19.8030, 85.8140],
+        "danger_level": "Medium"
+      }
+  ]
+  

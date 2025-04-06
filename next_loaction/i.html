@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dashboard - roamease</title>
+    <link rel="stylesheet" href="i.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+      integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+  </head>
+  <body>
+    
+      <!-- Sidebar -->
+      <aside class="sidebar">
+        <ul>
+           <li><span><a href="../dashboard/index.html">RoamEase</a></span></li> 
+          <li class="list"><a href="../next location/index.html"><i class="fa-solid fa-location-dot"></i>Next location</a></li>
+          <!-- <li class="list"><a href="#offline"><i class="fa-solid fa-compass"></i>Offline Maps</a></li> -->
+          <li class="list"><a href="../VR/vr.html"><i class="fa-solid fa-vr-cardboard"></i>VR integration</a></li>
+          <li class="list"><a href="../emergency/index.html"><i class="fa-solid fa-truck-medical"></i>Emergency service</a></li>
+          <li class="list"><a href="../Frontend/danger_alerts.html"><i class="fa-solid fa-skull-crossbones"></i>Danger zone</a></li>
+          <li class="list"><a href="#logout"><i class="fa-solid fa-right-from-bracket"></i>Log Out</a></li>
+        </ul>
+        
+      </aside>
+      <section class="main">
+        <div class="profile">
+            <i class="fa-regular fa-user"></i>
+            <i class="fa-regular fa-bell"></i>
+        </div>
+      <section class="left">
+        <section class="top">
+          <h1>
+            Hi there, <span>Arjun!</span><br />
+            <!-- Where would you like to <span>visit</span> today? -->
+          </h1>
+          <p>Explore More, Worry Less – Your Journey Begins Here!</p>
+         
+          
+        </section>
+        <section class="bich">
+          <!-- <h4>Top picks to visit for you <span>✦</span></h4> -->
+            <div class="container">
+             
+              <input type="text" id="cityInput" placeholder="Enter a city name " />
+              <button onclick="getWeather()">Get Recommendations</button>
+          
+              <div class="result" id="result"></div>
+            </div>
+        </section>
+      </section>
+    </section>
+    <script src="script.js"></script>
+  </body>
+</html>

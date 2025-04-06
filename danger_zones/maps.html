@@ -1,0 +1,611 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_d9a33b8c99a0d7b2eed08f8595231dc5 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_d9a33b8c99a0d7b2eed08f8595231dc5" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_d9a33b8c99a0d7b2eed08f8595231dc5 = L.map(
+                "map_d9a33b8c99a0d7b2eed08f8595231dc5",
+                {
+                    center: [19.8076083, 85.8252538],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 14,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_bc6a8fd06e18a49c1dc5a021a141dcd5 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_bc6a8fd06e18a49c1dc5a021a141dcd5.addTo(map_d9a33b8c99a0d7b2eed08f8595231dc5);
+        
+    
+            var marker_ac8b036105d2ce79aa8d0354cdb48723 = L.marker(
+                [19.8076083, 85.8252538],
+                {
+}
+            ).addTo(map_d9a33b8c99a0d7b2eed08f8595231dc5);
+        
+    
+            var icon_0d239a65a1887931bff6a2b151fccea6 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+            marker_ac8b036105d2ce79aa8d0354cdb48723.bindTooltip(
+                `<div>
+                     You are here
+                 </div>`,
+                {
+  "sticky": true,
+}
+            );
+        
+    
+                marker_ac8b036105d2ce79aa8d0354cdb48723.setIcon(icon_0d239a65a1887931bff6a2b151fccea6);
+            
+    
+            var marker_c6d13079153b8cb73f9f8c3d149a6891 = L.marker(
+                [19.7984, 85.824],
+                {
+}
+            ).addTo(map_d9a33b8c99a0d7b2eed08f8595231dc5);
+        
+    
+            var icon_483b51c4ab51d7b43bdeefe1b5245f12 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_77593319e06150ecd2e1a8b85f667301 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_9574358743e6692cb7acdb393f62ba1b = $(`<div id="html_9574358743e6692cb7acdb393f62ba1b" style="width: 100.0%; height: 100.0%;">Puri Sea Beach - Cyclone & High Tide Risk - High Risk</div>`)[0];
+                popup_77593319e06150ecd2e1a8b85f667301.setContent(html_9574358743e6692cb7acdb393f62ba1b);
+            
+        
+
+        marker_c6d13079153b8cb73f9f8c3d149a6891.bindPopup(popup_77593319e06150ecd2e1a8b85f667301)
+        ;
+
+        
+    
+    
+                marker_c6d13079153b8cb73f9f8c3d149a6891.setIcon(icon_483b51c4ab51d7b43bdeefe1b5245f12);
+            
+    
+            var marker_f71d666b72666e6a0625ae26b2c2754b = L.marker(
+                [19.8041, 85.8172],
+                {
+}
+            ).addTo(map_d9a33b8c99a0d7b2eed08f8595231dc5);
+        
+    
+            var icon_2e0cedd0d3f65290e53ed2811073df8d = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_3073ab749bf4b79fdac744d3c1096adc = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_86aa7fc27f1a1609ba08ef3abed9c5c9 = $(`<div id="html_86aa7fc27f1a1609ba08ef3abed9c5c9" style="width: 100.0%; height: 100.0%;">Jagannath Temple Area - Festival Crowd Control Risk - High Risk</div>`)[0];
+                popup_3073ab749bf4b79fdac744d3c1096adc.setContent(html_86aa7fc27f1a1609ba08ef3abed9c5c9);
+            
+        
+
+        marker_f71d666b72666e6a0625ae26b2c2754b.bindPopup(popup_3073ab749bf4b79fdac744d3c1096adc)
+        ;
+
+        
+    
+    
+                marker_f71d666b72666e6a0625ae26b2c2754b.setIcon(icon_2e0cedd0d3f65290e53ed2811073df8d);
+            
+    
+            var marker_b317f4528653175dd9886fd3eb6bb61e = L.marker(
+                [19.8032, 85.8195],
+                {
+}
+            ).addTo(map_d9a33b8c99a0d7b2eed08f8595231dc5);
+        
+    
+            var icon_0c4110c8f157f644afbd3fe383d4c610 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_f1c21927fe7a643014cdf9628a9c7c39 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_211e4d23c69a4b86b56ba72168ef626c = $(`<div id="html_211e4d23c69a4b86b56ba72168ef626c" style="width: 100.0%; height: 100.0%;">Grand Road (Bada Danda) - Rath Yatra Congestion Zone - High Risk</div>`)[0];
+                popup_f1c21927fe7a643014cdf9628a9c7c39.setContent(html_211e4d23c69a4b86b56ba72168ef626c);
+            
+        
+
+        marker_b317f4528653175dd9886fd3eb6bb61e.bindPopup(popup_f1c21927fe7a643014cdf9628a9c7c39)
+        ;
+
+        
+    
+    
+                marker_b317f4528653175dd9886fd3eb6bb61e.setIcon(icon_0c4110c8f157f644afbd3fe383d4c610);
+            
+    
+            var marker_fb78b327d41dfc3d0277ba00625d51c8 = L.marker(
+                [19.7989, 85.8213],
+                {
+}
+            ).addTo(map_d9a33b8c99a0d7b2eed08f8595231dc5);
+        
+    
+            var icon_5f20a0b3183801d8eb89e4da0a2d6a6e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e3f7a00a3788734f47983486612b34dc = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_092b3bb78abd078bc133531e862c3c20 = $(`<div id="html_092b3bb78abd078bc133531e862c3c20" style="width: 100.0%; height: 100.0%;">Swargadwar Cremation Ground - Sea Rise Risk - Medium Risk</div>`)[0];
+                popup_e3f7a00a3788734f47983486612b34dc.setContent(html_092b3bb78abd078bc133531e862c3c20);
+            
+        
+
+        marker_fb78b327d41dfc3d0277ba00625d51c8.bindPopup(popup_e3f7a00a3788734f47983486612b34dc)
+        ;
+
+        
+    
+    
+                marker_fb78b327d41dfc3d0277ba00625d51c8.setIcon(icon_5f20a0b3183801d8eb89e4da0a2d6a6e);
+            
+    
+            var marker_b75de13ea606caa46d6112b6f9c9d7be = L.marker(
+                [19.799, 85.8281],
+                {
+}
+            ).addTo(map_d9a33b8c99a0d7b2eed08f8595231dc5);
+        
+    
+            var icon_274981fd36fe4218cf7129528ceb7a26 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e742c653a0fad3496e9dbe3ccc969f8c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_fdf3c37409df165af9bcd6cb21c580e6 = $(`<div id="html_fdf3c37409df165af9bcd6cb21c580e6" style="width: 100.0%; height: 100.0%;">Chakratirtha Road - Monsoon Waterlogging - Medium Risk</div>`)[0];
+                popup_e742c653a0fad3496e9dbe3ccc969f8c.setContent(html_fdf3c37409df165af9bcd6cb21c580e6);
+            
+        
+
+        marker_b75de13ea606caa46d6112b6f9c9d7be.bindPopup(popup_e742c653a0fad3496e9dbe3ccc969f8c)
+        ;
+
+        
+    
+    
+                marker_b75de13ea606caa46d6112b6f9c9d7be.setIcon(icon_274981fd36fe4218cf7129528ceb7a26);
+            
+    
+            var marker_5d46478066530e7cf443a22f87a5a214 = L.marker(
+                [19.7844, 85.832],
+                {
+}
+            ).addTo(map_d9a33b8c99a0d7b2eed08f8595231dc5);
+        
+    
+            var icon_5f3a40438625d746ec44c0a7053287a4 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_01cf265e5ca781d79d1d4cd48610af86 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_39af5c54feb9eea89ff73fa1c1a28cff = $(`<div id="html_39af5c54feb9eea89ff73fa1c1a28cff" style="width: 100.0%; height: 100.0%;">Marine Drive - Cyclone Impact Zone - High Risk</div>`)[0];
+                popup_01cf265e5ca781d79d1d4cd48610af86.setContent(html_39af5c54feb9eea89ff73fa1c1a28cff);
+            
+        
+
+        marker_5d46478066530e7cf443a22f87a5a214.bindPopup(popup_01cf265e5ca781d79d1d4cd48610af86)
+        ;
+
+        
+    
+    
+                marker_5d46478066530e7cf443a22f87a5a214.setIcon(icon_5f3a40438625d746ec44c0a7053287a4);
+            
+    
+            var marker_ddf4af044fb9c670caddc0a536bc2ebc = L.marker(
+                [19.7902, 85.8329],
+                {
+}
+            ).addTo(map_d9a33b8c99a0d7b2eed08f8595231dc5);
+        
+    
+            var icon_a51fee22a8d29de951c0c4b3d68146ab = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_52dc74459675b5a549f4502fa35f8298 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ef4578bc0832377c7dd4bd48e43bd9ed = $(`<div id="html_ef4578bc0832377c7dd4bd48e43bd9ed" style="width: 100.0%; height: 100.0%;">Baliapanda Housing Board Area - Drainage Risk - Medium Risk</div>`)[0];
+                popup_52dc74459675b5a549f4502fa35f8298.setContent(html_ef4578bc0832377c7dd4bd48e43bd9ed);
+            
+        
+
+        marker_ddf4af044fb9c670caddc0a536bc2ebc.bindPopup(popup_52dc74459675b5a549f4502fa35f8298)
+        ;
+
+        
+    
+    
+                marker_ddf4af044fb9c670caddc0a536bc2ebc.setIcon(icon_a51fee22a8d29de951c0c4b3d68146ab);
+            
+    
+            var marker_d51f410d5d152dfbe06c992e43ccbe5d = L.marker(
+                [19.8092, 85.8231],
+                {
+}
+            ).addTo(map_d9a33b8c99a0d7b2eed08f8595231dc5);
+        
+    
+            var icon_b425a0ed098ee8b9ec109215ce9258e8 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_d2a482b9e3c79e764e564e06398d70f7 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_8f5967bd6cb103384e827378e8f71c24 = $(`<div id="html_8f5967bd6cb103384e827378e8f71c24" style="width: 100.0%; height: 100.0%;">Penthakata Fishermen Colony - Storm Surge Zone - High Risk</div>`)[0];
+                popup_d2a482b9e3c79e764e564e06398d70f7.setContent(html_8f5967bd6cb103384e827378e8f71c24);
+            
+        
+
+        marker_d51f410d5d152dfbe06c992e43ccbe5d.bindPopup(popup_d2a482b9e3c79e764e564e06398d70f7)
+        ;
+
+        
+    
+    
+                marker_d51f410d5d152dfbe06c992e43ccbe5d.setIcon(icon_b425a0ed098ee8b9ec109215ce9258e8);
+            
+    
+            var marker_b6647fdb0b684558b29962ab968b5201 = L.marker(
+                [19.7998, 85.8175],
+                {
+}
+            ).addTo(map_d9a33b8c99a0d7b2eed08f8595231dc5);
+        
+    
+            var icon_736dcc79b1b876a66ab364f759996a4b = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_20d4818516f1de23db325d642d5a1bd2 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_6b3c77ae7a144d2407ef384c8734d6c8 = $(`<div id="html_6b3c77ae7a144d2407ef384c8734d6c8" style="width: 100.0%; height: 100.0%;">Talabania Bus Stand - Urban Congestion - Low Risk</div>`)[0];
+                popup_20d4818516f1de23db325d642d5a1bd2.setContent(html_6b3c77ae7a144d2407ef384c8734d6c8);
+            
+        
+
+        marker_b6647fdb0b684558b29962ab968b5201.bindPopup(popup_20d4818516f1de23db325d642d5a1bd2)
+        ;
+
+        
+    
+    
+                marker_b6647fdb0b684558b29962ab968b5201.setIcon(icon_736dcc79b1b876a66ab364f759996a4b);
+            
+    
+            var marker_5219f3b41a5373a6c1f80f46902ba0bb = L.marker(
+                [19.7815, 85.8384],
+                {
+}
+            ).addTo(map_d9a33b8c99a0d7b2eed08f8595231dc5);
+        
+    
+            var icon_5d913676eb3a0f2090d14df693138ffb = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_2b3650305b58bfe7bb4051d1d1ca322a = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_c62a5bb972418ab16dd95f3310e26a6f = $(`<div id="html_c62a5bb972418ab16dd95f3310e26a6f" style="width: 100.0%; height: 100.0%;">Sipasurubili - Coastal Area Risk - Medium Risk</div>`)[0];
+                popup_2b3650305b58bfe7bb4051d1d1ca322a.setContent(html_c62a5bb972418ab16dd95f3310e26a6f);
+            
+        
+
+        marker_5219f3b41a5373a6c1f80f46902ba0bb.bindPopup(popup_2b3650305b58bfe7bb4051d1d1ca322a)
+        ;
+
+        
+    
+    
+                marker_5219f3b41a5373a6c1f80f46902ba0bb.setIcon(icon_5d913676eb3a0f2090d14df693138ffb);
+            
+    
+            var marker_4496404943b54ce02c9e9e524cf4e812 = L.marker(
+                [19.8091, 85.8092],
+                {
+}
+            ).addTo(map_d9a33b8c99a0d7b2eed08f8595231dc5);
+        
+    
+            var icon_2b2ee4ca36abe53f84a20edf751353ae = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_8b18b76df0a92633f7d9b0a2b0558388 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_b42438114ab31bfb2250ffb7b1f25209 = $(`<div id="html_b42438114ab31bfb2250ffb7b1f25209" style="width: 100.0%; height: 100.0%;">Atharnala Bridge Area - Traffic & Monsoon Risk - Medium Risk</div>`)[0];
+                popup_8b18b76df0a92633f7d9b0a2b0558388.setContent(html_b42438114ab31bfb2250ffb7b1f25209);
+            
+        
+
+        marker_4496404943b54ce02c9e9e524cf4e812.bindPopup(popup_8b18b76df0a92633f7d9b0a2b0558388)
+        ;
+
+        
+    
+    
+                marker_4496404943b54ce02c9e9e524cf4e812.setIcon(icon_2b2ee4ca36abe53f84a20edf751353ae);
+            
+    
+            var marker_00bfe42f9619ce3eb33584f41040478f = L.marker(
+                [19.8057, 85.823],
+                {
+}
+            ).addTo(map_d9a33b8c99a0d7b2eed08f8595231dc5);
+        
+    
+            var icon_1f5a9910f54a05b36fca3912b3e28133 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_13d27f617b2dc3351cfd479c2ef858db = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_acb0fb1c836a7b7d17f56709f2fe2a61 = $(`<div id="html_acb0fb1c836a7b7d17f56709f2fe2a61" style="width: 100.0%; height: 100.0%;">Loknath Temple - Festival Season Crowd - Low Risk</div>`)[0];
+                popup_13d27f617b2dc3351cfd479c2ef858db.setContent(html_acb0fb1c836a7b7d17f56709f2fe2a61);
+            
+        
+
+        marker_00bfe42f9619ce3eb33584f41040478f.bindPopup(popup_13d27f617b2dc3351cfd479c2ef858db)
+        ;
+
+        
+    
+    
+                marker_00bfe42f9619ce3eb33584f41040478f.setIcon(icon_1f5a9910f54a05b36fca3912b3e28133);
+            
+    
+            var marker_793196241fa414177ac7beecd728376c = L.marker(
+                [19.803, 85.814],
+                {
+}
+            ).addTo(map_d9a33b8c99a0d7b2eed08f8595231dc5);
+        
+    
+            var icon_d180ca18f529ef3ad67254e33074f45e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_6ea5b2a5de32b125c6d5ec6c6c2f7720 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a0f6e96d963a8f907de50eeb3b44bd5a = $(`<div id="html_a0f6e96d963a8f907de50eeb3b44bd5a" style="width: 100.0%; height: 100.0%;">Mangala Ghat Slum Area - Low Drainage & Health Risk - Medium Risk</div>`)[0];
+                popup_6ea5b2a5de32b125c6d5ec6c6c2f7720.setContent(html_a0f6e96d963a8f907de50eeb3b44bd5a);
+            
+        
+
+        marker_793196241fa414177ac7beecd728376c.bindPopup(popup_6ea5b2a5de32b125c6d5ec6c6c2f7720)
+        ;
+
+        
+    
+    
+                marker_793196241fa414177ac7beecd728376c.setIcon(icon_d180ca18f529ef3ad67254e33074f45e);
+            
+</script>
+</html>
