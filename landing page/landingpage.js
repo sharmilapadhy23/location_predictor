@@ -31,19 +31,5 @@ gsap.from(".image-sec",{
     delay: 0.5
 })
 
-// gsap.to(".footer-name h1",{
-//     transform: "translateX(-89%)",
-//     scrollTrigger:{
-//         trigger: ".footer-name", //parent
-//         scroller: "body",
-//         // markers: true,
-//         start: "top 0%",
-//         end: "top -100%",
-//         scrub: 2,
-//         pin: true
-//     }
-// })
-
-
 
 
