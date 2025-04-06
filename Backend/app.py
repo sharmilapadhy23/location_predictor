@@ -16,3 +16,4 @@ def index():
 if __name__ == '__main__':
     # Run the Flask app with WebSocket support
     socketio.run(app, debug=True)
+    
