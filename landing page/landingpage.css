@@ -10,7 +10,9 @@
 html,body{
     height: 100%;
     width: 100%;
-    background-color: #F4F3E6;
+    /* background-color: #F4F3E6; */
+    /* background-color: #FFF9EF; */
+    background-color: #FFFFFF;
 }
 
 body{
@@ -36,33 +38,18 @@ body{
     justify-content: space-between;
     padding: 30px 50px;
     position: sticky;
-    text-decoration: none;
 }
 
 #nav h2{
-    font-size: 30px;
+    font-size: 40px;
     font-weight: 800;
+    color: #111;
 }
-.normal-link {
-    text-decoration: none;  /* Removes underline */
-    color: black;           /* Normal text color */
-    font-weight: normal;    /* Normal weight */
-  }
-  
-  .normal-link h4 {
-    margin: 0;              /* Removes default margin */
-    padding: 0;             /* Removes default padding */
-  }
-  
-  .normal-link:hover {
-    color: #555;            /* Slight color change on hover */
-  }  
 
-#part2 {
+#part2{
     display: flex;
     gap: 50px;
     font-size: 18px;
-    text-decoration: none;
 }
 #part2 h4{
     position: relative;
@@ -99,17 +86,22 @@ main{
 
 .para .subheading{
     font-size: 20px;
-    color: #3c3838;
+    color: #151414ed;
 }
 
 .para .mainheading{
     font-size: 55px;
-    color:#290707;
+    color:#111;
+}
+
+.para .mainheading span{
+    font-size: 55px;
+    color:#4875C0;
 }
 
 .para .description{
     font-size: 13px;
-    color: #787272;
+    color: #151414ed;
 }
 
 .image{
@@ -137,6 +129,12 @@ main{
     
 }
 
+.parah .mainheading span{
+    font-size: 26px;
+    color: #4875C0;
+    
+}
+
 .parah .description{
     font-size: 12px;
     margin-top: 5px;
@@ -153,6 +151,12 @@ main{
 
 .parah .about-more a{
     font-size: 18px;
+}
+
+.parah .learn-more{
+    color: #4875C0;
+    text-decoration: none;
+    
 }
 
 
@@ -182,7 +186,7 @@ main{
     animation: appear linear;
     animation-timeline: view();
     animation-range: entry 0% cover 40%;
-    color: #787272;
+    color: #4875C0;
 }
 
 .features p{
@@ -202,6 +206,7 @@ main{
 
 .features .card i{
     font-size: 60px;
+  
 }
 
 .card{
@@ -227,6 +232,7 @@ main{
     animation: appear linear;
     animation-timeline: view();
     animation-range: entry 0% cover 40%;
+    color: #4875C0;
 }
 
 .weather p{
@@ -236,7 +242,7 @@ main{
     animation: appear linear;
     animation-timeline: view();
     animation-range: entry 0% cover 40%;
-    color: #787272;
+    color:#111;
 }
 
 .grid-container {
@@ -352,17 +358,18 @@ main{
     animation: appear linear;
     animation-timeline: view();
     animation-range: entry 0% cover 40%;
+    color: #4875C0;
 }
 
 .getstarted p{
-    font-size: 22px;
+    font-size: 18px;
     width: 75%;
     text-align: center;
     padding-bottom: 50px;
     animation: appear linear;
     animation-timeline: view();
     animation-range: entry 0% cover 40%;
-    color: #787272;
+    color: #191515;
 }
 
 .getstarted button{
@@ -389,7 +396,7 @@ main{
 }
 
 .btn:not(:hover) {
-    background-color: #333;
+    background-color:#4875C0;
     color: #fff;
 }
 
@@ -450,25 +457,23 @@ main{
     font-size: 1rem;
 }
 
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
 .footer-name{
-    font-size: 140px;
+    font-size: 90px;
+    padding-left: 40px;
+    padding-bottom:10px ;
    
 }
 
-.footer {
-    display: flex;
-    justify-content: space-between;
-    font-size: 20px;
-    border-top: 1px solid #111;
-    padding-top: -20px ;
-    
-}
-
-.footer a {
-    text-decoration: none;
-    color: #111;
-    font-weight: bold;
-    padding-bottom: 10px;
+.footer-icon{
+    padding: 40px;
+    font-size: 40px;
+    padding-bottom:0 ;
 }
 
 
