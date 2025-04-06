@@ -7,6 +7,7 @@ from math import radians, sin, cos, sqrt, atan2
 # Create blueprint
 emergency_blueprint = Blueprint('emergency', __name__)
 
+
 # Paths for CSV and JSON
 EMERGENCY_SERVICES_FILE_PATH = os.path.join(os.path.dirname(__file__), 'emergency_services_data.json')
 TRAVEL_CSV_PATH = os.path.join(os.path.dirname(__file__), 'travel.csv')
@@ -43,6 +44,7 @@ def haversine(lat1, lon1, lat2, lon2):
     lat2_rad = radians(lat2)
     lon2_rad = radians(lon2)
 
+    
     dlat = lat2_rad - lat1_rad
     dlon = lon2_rad - lon1_rad
 
