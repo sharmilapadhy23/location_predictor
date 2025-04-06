@@ -85,7 +85,7 @@ h4{
 
 
 .sidebar {
-    width: 250px;
+    width: 240px;
     height: 100%;
     background: #111;  /* Soft peach */
       position: fixed;
@@ -96,7 +96,8 @@ h4{
     flex-direction: column;
     box-shadow: 2px 0 15px rgba(0, 0, 0, 0.1);
     transition: 0.3s;
-    border-radius: 20px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
 }
 
 .sidebar ul .list i{
@@ -179,4 +180,64 @@ h4{
 .bich h4 span{
     color: #F4F3E6;
 }
+
+input, button{
+    padding: 8px;
+    border-radius: 10px;
+    border: solid 1.3px ;
+}
+
+.result {
+    display: none;
+    margin-top: 5px;
+    /* margin-bottom: 5px; */
+  }
+
+  .card {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    
+    width: 500px;
+   
+    /* border-radius: 12px; */
+    padding: px;
+    margin-bottom: 5px;
+  }
+
+  .card h3 {
+    margin-top: 0;
+    color: #2c3e50;
+  }
+
+  .card p {
+    margin: 6px 0;
+  }
+
+  .cardd h3 {
+    font-size: 29px;
+    margin-bottom: 3px;
+    color: #fff;
+  }
+
+  .cardd h3 span{
+    color: #fff;
+  }
+
+  .cardd ul {
+    margin-top: 8px;
+    list-style-type: none;
+    padding-left: 0;
+  }
+
+  .cardd ul {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 items per row */
+    gap: 12px;
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  .cardd li {
+    font-size: 22px;
+  }
 
