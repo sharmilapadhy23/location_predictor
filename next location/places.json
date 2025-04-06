@@ -1,0 +1,23 @@
+{
+    "Bhubaneswar": {
+      "Park": { "name": "Ekamra Kanan Botanical Gardens", "location": "Nayapalli" },
+      "Outdoor Cafe": { "name": "Cafe Vogue", "location": "Sahid Nagar" },
+      "Zoo": { "name": "Nandankanan Zoological Park", "location": "Barang" },
+      "Museum": { "name": "Odisha State Museum", "location": "Kalpana Square" },
+      "Art Gallery": { "name": "Ekamra Haat Art Gallery", "location": "Bhoi Nagar" },
+      "Indoor Shopping Mall": { "name": "Esplanade One Mall", "location": "Rasulgarh" },
+      "Library": { "name": "Bhubaneswar Public Library", "location": "Unit 4" },
+      "Coffee Shop": { "name": "The Big Bike Hub Cafe", "location": "Patia" }
+    },
+    "Puri": {
+      "Park": { "name": "Gundicha Garden", "location": "Near Gundicha Temple" },
+      "Outdoor Cafe": { "name": "Honey Bee Cafe", "location": "CT Road" },
+      "Zoo": { "name": "Balukhand-Konark Wildlife Sanctuary", "location": "Puri-Konark Marine Drive" },
+      "Museum": { "name": "Sudharshan Craft Museum", "location": "Station Road" },
+      "Art Gallery": { "name": "District Art Gallery", "location": "VIP Road" },
+      "Indoor Shopping Mall": { "name": "Swargadwar Market Complex", "location": "Marine Drive Road" },
+      "Library": { "name": "Puri District Library", "location": "Grand Road" },
+      "Coffee Shop": { "name": "Sea View Cafe", "location": "Beach Road" }
+    }
+  }
+  

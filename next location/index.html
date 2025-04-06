@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Dashboard - roamease</title>
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="styles.css" />
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
@@ -47,11 +47,10 @@
           <!-- <h4>Top picks to visit for you <span>✦</span></h4> -->
             <div class="container">
              
-              <input type="text" id="cityInput" placeholder="Enter a city name " />
-              <button onclick="getWeather()">Get Recommendations</button>
-          
-              <div class="result" id="result"></div>
-            </div>
+                <input type="text" id="cityInput" placeholder="Enter city name">
+                <button onclick="getWeather()">Get recommendations</button>
+                <div id="result" style="display: none;"></div>
+                
         </section>
       </section>
     </section>
